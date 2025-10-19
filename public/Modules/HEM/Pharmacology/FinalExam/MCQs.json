@@ -1,0 +1,385 @@
+{
+  "title": "Pharmacology of Antiplatelet, Hemostatic, Antimalarial, and Fibrinolytic Drugs",
+  "module": "PHARM",
+  "subject": "Pharmacology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB"],
+  "description": "Questions covering the mechanisms of action, side effects, antidotes, and indications of antiplatelet drugs, systemic hemostatics, antimalarial drugs, and fibrinolytic agents.",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "What is the primary mechanism of action of aspirin as an antiplatelet agent?",
+      "options": [
+        "Inhibits ADP binding to platelet receptors",
+        "Irreversibly acetylates cyclooxygenase (COX-1) in platelets",
+        "Blocks GP IIb/IIIa receptors",
+        "Increases intracellular cAMP levels"
+      ],
+      "correctAnswer": "Irreversibly acetylates cyclooxygenase (COX-1) in platelets",
+      "explanation": "Aspirin inhibits platelet aggregation by irreversibly acetylating COX-1, preventing thromboxane A2 synthesis, which is essential for platelet aggregation.",
+      "references": ["Document: pharma 2025.pdf, Page 1"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "How long does the suppression of platelet aggregation by aspirin last?",
+      "options": [
+        "1–2 days",
+        "3–5 days",
+        "7–10 days",
+        "14–20 days"
+      ],
+      "correctAnswer": "7–10 days",
+      "explanation": "Aspirin's suppression of platelet aggregation lasts for the lifespan of the platelet, approximately 7–10 days, as platelets are non-nucleated.",
+      "references": ["Document: pharma 2025.pdf, Page 1"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "Which antiplatelet drug preferentially inhibits platelet COX-1 at low doses (<100 mg/day)?",
+      "options": [
+        "Clopidogrel",
+        "Aspirin",
+        "Ticlopidine",
+        "Abciximab"
+      ],
+      "correctAnswer": "Aspirin",
+      "explanation": "Low-dose aspirin (<100 mg/day) preferentially inhibits platelet COX-1, reducing thromboxane A2 synthesis while sparing systemic COX-2.",
+      "references": ["Document: pharma 2025.pdf, Page 1"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "What is the mechanism of action of clopidogrel as an antiplatelet agent?",
+      "options": [
+        "Inhibits thromboxane A2 synthesis",
+        "Blocks GP IIb/IIIa receptors",
+        "Inhibits ADP binding to platelet receptors",
+        "Increases cAMP by inhibiting phosphodiesterase"
+      ],
+      "correctAnswer": "Inhibits ADP binding to platelet receptors",
+      "explanation": "Clopidogrel irreversibly inhibits ADP binding to its receptors on platelets, preventing activation of GP IIb/IIIa receptors required for platelet aggregation.",
+      "references": ["Document: pharma 2025.pdf, Page 1"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "Which antiplatelet drug is associated with a risk of neutropenia?",
+      "options": [
+        "Clopidogrel",
+        "Prasugrel",
+        "Ticlopidine",
+        "Eptifibatide"
+      ],
+      "correctAnswer": "Ticlopidine",
+      "explanation": "Ticlopidine is associated with neutropenia as a side effect, which limits its clinical use compared to clopidogrel.",
+      "references": ["Document: pharma 2025.pdf, Page 1"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "What is the mechanism of action of abciximab?",
+      "options": [
+        "Inhibits COX-1 enzyme",
+        "Blocks GP IIb/IIIa receptors",
+        "Inhibits ADP receptors",
+        "Increases cAMP levels"
+      ],
+      "correctAnswer": "Blocks GP IIb/IIIa receptors",
+      "explanation": "Abciximab is a monoclonal antibody that blocks platelet GP IIb/IIIa receptors, the final common pathway for platelet aggregation.",
+      "references": ["Document: pharma 2025.pdf, Page 1"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "Which drug increases intracellular cAMP by inhibiting phosphodiesterase?",
+      "options": [
+        "Aspirin",
+        "Clopidogrel",
+        "Dipyridamole",
+        "Abciximab"
+      ],
+      "correctAnswer": "Dipyridamole",
+      "explanation": "Dipyridamole increases intracellular cAMP by inhibiting phosphodiesterase, reducing platelet aggregation, and is often used with aspirin.",
+      "references": ["Document: pharma 2025.pdf, Page 2"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "What is the primary therapeutic use of dipyridamole?",
+      "options": [
+        "Monotherapy for myocardial infarction",
+        "Combination with aspirin for cerebrovascular ischemia",
+        "Treatment of pulmonary embolism",
+        "Management of sickle cell anemia"
+      ],
+      "correctAnswer": "Combination with aspirin for cerebrovascular ischemia",
+      "explanation": "Dipyridamole has little effect alone but provides additive benefits when combined with aspirin to prevent cerebrovascular ischemia.",
+      "references": ["Document: pharma 2025.pdf, Page 6"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "What is the mechanism of action of desmopressin acetate as a systemic hemostatic?",
+      "options": [
+        "Induces inflammation in veins",
+        "Releases factor VIII and von Willebrand factor",
+        "Inhibits plasminogen activators",
+        "Increases HBF formation"
+      ],
+      "correctAnswer": "Releases factor VIII and von Willebrand factor",
+      "explanation": "Desmopressin acetate promotes hemostasis by releasing factor VIII and von Willebrand factor from vascular endothelium.",
+      "references": ["Document: pharma 2025.pdf, Page 2"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "Which drug is used to treat sickle cell anemia by increasing HBF formation?",
+      "options": [
+        "Desmopressin",
+        "Hydroxyurea",
+        "Chloroquine",
+        "Aminocaproic acid"
+      ],
+      "correctAnswer": "Hydroxyurea",
+      "explanation": "Hydroxyurea is the first FDA-approved drug for sickle cell anemia, increasing fetal hemoglobin (HBF) formation.",
+      "references": ["Document: pharma 2025.pdf, Page 2"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "How do chloroquine and hydroxychloroquine act as antimalarial drugs?",
+      "options": [
+        "Disrupt mitochondrial electron transport",
+        "Prevent conversion of heme into hemozoin",
+        "Inhibit dihydrofolate reductase",
+        "Liberate free radicals"
+      ],
+      "correctAnswer": "Prevent conversion of heme into hemozoin",
+      "explanation": "Chloroquine and hydroxychloroquine disrupt the erythrocytic stage of malaria by preventing the conversion of heme into hemozoin, increasing intracellular pH.",
+      "references": ["Document: pharma 2025.pdf, Page 2"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "Which antimalarial drug is a hypnozoitocidal agent?",
+      "options": [
+        "Chloroquine",
+        "Primaquine",
+        "Mefloquine",
+        "Doxycycline"
+      ],
+      "correctAnswer": "Primaquine",
+      "explanation": "Primaquine acts as a hypnozoitocidal agent, targeting the dormant liver stage (hypnozoites) of Plasmodium as a protoplasmic toxin.",
+      "references": ["Document: pharma 2025.pdf, Page 2"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "What is the mechanism of action of artemisinins in malaria treatment?",
+      "options": [
+        "Inhibit dihydrofolate reductase",
+        "Disrupt mitochondrial electron transport",
+        "Liberate free radicals",
+        "Block protein synthesis"
+      ],
+      "correctAnswer": "Liberate free radicals",
+      "explanation": "Artemisinins are active against all parasite lifecycle stages by liberating free radicals, causing oxidative damage to Plasmodium.",
+      "references": ["Document: pharma 2025.pdf, Page 3"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "Which fibrinolytic drug causes a systemic fibrinolytic state?",
+      "options": [
+        "Alteplase",
+        "Streptokinase",
+        "Tenecteplase",
+        "Tranexamic acid"
+      ],
+      "correctAnswer": "Streptokinase",
+      "explanation": "Streptokinase converts plasminogen to active plasmin, causing a systemic fibrinolytic state and increasing bleeding risk.",
+      "references": ["Document: pharma 2025.pdf, Page 3"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Why are tissue plasminogen activators (t-PAs) preferred over streptokinase?",
+      "options": [
+        "Lower cost",
+        "No risk of bleeding",
+        "Lower risk of bleeding and no allergy",
+        "Systemic fibrinolytic effect"
+      ],
+      "correctAnswer": "Lower risk of bleeding and no allergy",
+      "explanation": "t-PAs (e.g., alteplase) selectively activate fibrin-bound plasminogen, reducing systemic bleeding and avoiding allergic reactions associated with streptokinase.",
+      "references": ["Document: pharma 2025.pdf, Page 5"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "What is a side effect of prasugrel as an antiplatelet agent?",
+      "options": [
+        "Neutropenia",
+        "Major and minor bleeding",
+        "Dizziness",
+        "Retinopathy"
+      ],
+      "correctAnswer": "Major and minor bleeding",
+      "explanation": "Prasugrel is associated with an increased risk of major and minor bleeding, a significant side effect limiting its use.",
+      "references": ["Document: pharma 2025.pdf, Page 3"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "Which antimalarial drug is associated with retinopathy as a side effect?",
+      "options": [
+        "Primaquine",
+        "Chloroquine",
+        "Doxycycline",
+        "Pyrimethamine"
+      ],
+      "correctAnswer": "Chloroquine",
+      "explanation": "Chloroquine is known to cause retinopathy, particularly with long-term use, as a significant adverse effect.",
+      "references": ["Document: pharma 2025.pdf, Page 4"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "What is the antidote for heparin overdose?",
+      "options": [
+        "Vitamin K",
+        "Protamine sulfate",
+        "Idarucizumab",
+        "Andexanet alpha"
+      ],
+      "correctAnswer": "Protamine sulfate",
+      "explanation": "Protamine sulfate is the specific antidote for heparin, fully reversing unfractionated heparin (UFH) and partially reversing low-molecular-weight heparin (LMWH).",
+      "references": ["Document: pharma 2025.pdf, Page 5"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "What is the antidote for dabigatran toxicity?",
+      "options": [
+        "Vitamin K",
+        "Protamine sulfate",
+        "Idarucizumab",
+        "Deferoxamine"
+      ],
+      "correctAnswer": "Idarucizumab",
+      "explanation": "Idarucizumab is a specific monoclonal antibody used to reverse the anticoagulant effects of dabigatran.",
+      "references": ["Document: pharma 2025.pdf, Page 5"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "Which drug is used as an iron chelating agent for iron toxicity?",
+      "options": [
+        "Deferoxamine",
+        "Idarucizumab",
+        "Andexanet alpha",
+        "Aminocaproic acid"
+      ],
+      "correctAnswer": "Deferoxamine",
+      "explanation": "Deferoxamine is used as an iron chelating agent to treat iron toxicity by binding excess iron and promoting its excretion.",
+      "references": ["Document: pharma 2025.pdf, Page 5"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "Which condition is an indication for fibrinolytic drugs?",
+      "options": [
+        "Chronic heart failure",
+        "Acute myocardial infarction",
+        "Hypertension",
+        "Sickle cell anemia"
+      ],
+      "correctAnswer": "Acute myocardial infarction",
+      "explanation": "Fibrinolytic drugs are indicated for acute myocardial infarction to dissolve thrombi and restore coronary blood flow.",
+      "references": ["Document: pharma 2025.pdf, Page 6"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "Which antiplatelet drug is specifically indicated for stent insertion?",
+      "options": [
+        "Aspirin",
+        "Clopidogrel",
+        "Dipyridamole",
+        "Abciximab"
+      ],
+      "correctAnswer": "Clopidogrel",
+      "explanation": "Clopidogrel is commonly used in patients undergoing stent insertion to prevent stent thrombosis.",
+      "references": ["Document: pharma 2025.pdf, Page 6"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "Which drug is commonly used for malarial chemoprophylaxis?",
+      "options": [
+        "Primaquine",
+        "Atovaquone-Proguanil",
+        "Hydroxyurea",
+        "Tirofiban"
+      ],
+      "correctAnswer": "Atovaquone-Proguanil",
+      "explanation": "Atovaquone-Proguanil is one of the most commonly prescribed medications for malarial chemoprophylaxis.",
+      "references": ["Document: pharma 2025.pdf, Page 6"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "What is a side effect of mefloquine as an antimalarial drug?",
+      "options": [
+        "Retinopathy",
+        "Seizure and psychosis",
+        "Megaloblastic anemia",
+        "Photosensitivity"
+      ],
+      "correctAnswer": "Seizure and psychosis",
+      "explanation": "Mefloquine is associated with neurological side effects, including seizures and psychosis, particularly in susceptible individuals.",
+      "references": ["Document: pharma 2025.pdf, Page 4"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "Why is clopidogrel preferred over prasugrel and ticlopidine?",
+      "options": [
+        "Lower cost",
+        "Fewer side effects",
+        "Faster onset of action",
+        "No need for monitoring"
+      ],
+      "correctAnswer": "Fewer side effects",
+      "explanation": "Clopidogrel is preferred due to fewer side effects compared to prasugrel (risk of bleeding) and ticlopidine (neutropenia).",
+      "references": ["Document: pharma 2025.pdf, Page 5"],
+      "difficulty": "medium"
+    }
+  ]
+}

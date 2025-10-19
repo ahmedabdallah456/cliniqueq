@@ -1,0 +1,899 @@
+{
+  "title": "Lymph Node & Spleen",
+  "module": "HEM",
+  "subject": "Histology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB"],
+  "description": "Questions on the structure, function, and histology of lymph nodes and the spleen.",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "Which structure forms the stroma of the lymph node?",
+      "options": ["Capsule", "Trabeculae", "Reticular network", "All of the above"],
+      "correctAnswer": "All of the above",
+      "explanation": "The stroma of the lymph node consists of the capsule, trabeculae, and reticular network.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "What distinguishes primary cortical nodules from secondary cortical nodules in lymph nodes?",
+      "options": [
+        "Presence of germinal centers",
+        "Location in the medulla",
+        "Type of collagen fibers",
+        "Association with macrophages"
+      ],
+      "correctAnswer": "Presence of germinal centers",
+      "explanation": "Secondary cortical nodules contain germinal centers, while primary nodules do not.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "Which zone in the lymph node is thymus-dependent?",
+      "options": ["Cortical sinuses", "Paracortex", "Medullary cords", "Germinal center"],
+      "correctAnswer": "Paracortex",
+      "explanation": "The paracortex contains T-lymphocytes and is the thymus-dependent zone.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "What lines the cortical sinuses of lymph nodes?",
+      "options": [
+        "Smooth muscle cells",
+        "Endothelial cells and macrophages",
+        "Fibroblasts",
+        "Reticular fibers"
+      ],
+      "correctAnswer": "Endothelial cells and macrophages",
+      "explanation": "Cortical sinuses are lined by endothelial cells and macrophages.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "Where are medullary cords located?",
+      "options": [
+        "Between nodules and trabeculae",
+        "In the spleen",
+        "In the deep cortex",
+        "In the medulla of lymph nodes"
+      ],
+      "correctAnswer": "In the medulla of lymph nodes",
+      "explanation": "Medullary cords are elongated aggregations of lymphocytes in the medulla.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "Which cells are predominant in the germinal centers of lymph nodes?",
+      "options": [
+        "Mature T-lymphocytes",
+        "Activated lymphocytes and plasmablasts",
+        "Neutrophils",
+        "Erythrocytes"
+      ],
+      "correctAnswer": "Activated lymphocytes and plasmablasts",
+      "explanation": "Germinal centers contain activated lymphocytes, lymphoblasts, and plasmablasts.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "What is the path of lymph circulation through a lymph node?",
+      "options": [
+        "Efferent vessels → medullary sinuses → cortical sinuses",
+        "Afferent vessels → cortical sinuses → medullary sinuses → efferent vessels",
+        "Hilum → trabeculae → capsule",
+        "Post-capillary venules → cortical nodules"
+      ],
+      "correctAnswer": "Afferent vessels → cortical sinuses → medullary sinuses → efferent vessels",
+      "explanation": "Lymph enters via afferent vessels, flows through cortical and medullary sinuses, then exits via efferent vessels at the hilum.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "Which structure in the spleen is composed of Billroth cords and sinusoids?",
+      "options": ["White pulp", "Marginal zone", "Red pulp", "PALS"],
+      "correctAnswer": "Red pulp",
+      "explanation": "Red pulp consists of splenic cords (Billroth cords) and sinusoids.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "What type of epithelium lines post-capillary venules in lymph nodes?",
+      "options": [
+        "Simple squamous",
+        "Simple cuboidal",
+        "Stratified squamous",
+        "Pseudostratified"
+      ],
+      "correctAnswer": "Simple cuboidal",
+      "explanation": "Post-capillary venules are lined by simple cuboidal epithelium with receptors for lymphocyte homing.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "Which theory explains splenic circulation as a combination of open and closed pathways?",
+      "options": [
+        "Open theory only",
+        "Closed theory only",
+        "Open and closed theory",
+        "Hepatic theory"
+      ],
+      "correctAnswer": "Open and closed theory",
+      "explanation": "The combined theory states that circulation is open when relaxed and closed when contracted.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "What is the primary function of the spleen's white pulp?",
+      "options": [
+        "Filtration of RBCs",
+        "Immune response via lymphocytes",
+        "Storage of platelets",
+        "Production of bile"
+      ],
+      "correctAnswer": "Immune response via lymphocytes",
+      "explanation": "White pulp contains lymphocytes for immune functions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "Which component of the spleen's stroma contains smooth muscle?",
+      "options": ["Capsule", "Reticular network", "Marginal zone", "PALS"],
+      "correctAnswer": "Capsule",
+      "explanation": "The splenic capsule contains collagen fibers, fibroblasts, and smooth muscles.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "Which cells are abundant in the splenic cords of Billroth?",
+      "options": [
+        "Erythrocytes and macrophages",
+        "Adipocytes",
+        "Chondrocytes",
+        "Neurons"
+      ],
+      "correctAnswer": "Erythrocytes and macrophages",
+      "explanation": "Splenic cords contain RBCs, WBCs, lymphocytes, plasma cells, and macrophages.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "What is the outermost zone of the white pulp in the spleen called?",
+      "options": ["PALS", "Germinal center", "Marginal zone", "Follicular zone"],
+      "correctAnswer": "Marginal zone",
+      "explanation": "The marginal zone is the outermost layer of the white pulp.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Which structure in the spleen is thymus-dependent?",
+      "options": ["Marginal zone", "PALS", "Red pulp", "Sinusoids"],
+      "correctAnswer": "PALS",
+      "explanation": "The peri-arteriolar lymph sheath (PALS) is the thymus-dependent zone in the spleen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "What is the primary function of the spleen's red pulp?",
+      "options": [
+        "Antibody production",
+        "Filtration of blood",
+        "Hormone secretion",
+        "Bile synthesis"
+      ],
+      "correctAnswer": "Filtration of blood",
+      "explanation": "Red pulp filters blood and removes old RBCs.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "Which cells line the medullary sinuses of lymph nodes?",
+      "options": [
+        "Keratinocytes",
+        "Endothelial cells and macrophages",
+        "Adipocytes",
+        "Osteocytes"
+      ],
+      "correctAnswer": "Endothelial cells and macrophages",
+      "explanation": "Medullary sinuses are lined by endothelial cells and macrophages.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "Which structure carries lymph away from the lymph node?",
+      "options": [
+        "Afferent vessels",
+        "Cortical sinuses",
+        "Efferent vessels",
+        "Trabeculae"
+      ],
+      "correctAnswer": "Efferent vessels",
+      "explanation": "Efferent vessels exit at the hilum, carrying filtered lymph away.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "What is the main component of the reticular network in lymph nodes?",
+      "options": ["Elastin", "Collagen", "Reticular fibers", "Keratin"],
+      "correctAnswer": "Reticular fibers",
+      "explanation": "The reticular network is made of reticular fibers, stained with silver (Ag).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "Which part of the spleen is responsible for destroying old RBCs?",
+      "options": ["White pulp", "Marginal zone", "Red pulp", "Capsule"],
+      "correctAnswer": "Red pulp",
+      "explanation": "Red pulp contains macrophages that phagocytize aged RBCs.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "Which fibers are primarily found in the lymph node capsule?",
+      "options": ["Elastic fibers", "Collagen fibers", "Reticular fibers", "Keratin fibers"],
+      "correctAnswer": "Collagen fibers",
+      "explanation": "The capsule is composed of collagen fibers and fibroblasts.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "What stain is used to visualize the reticular network in lymph nodes?",
+      "options": ["Hematoxylin & Eosin", "Silver (Ag)", "Giemsa", "Periodic acid-Schiff"],
+      "correctAnswer": "Silver (Ag)",
+      "explanation": "Reticular networks are stained with silver (Ag) due to their reticular fiber composition.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "Which cells are primarily found in the paracortex of lymph nodes?",
+      "options": ["B-lymphocytes", "Neutrophils", "T-lymphocytes", "Erythrocytes"],
+      "correctAnswer": "T-lymphocytes",
+      "explanation": "The paracortex is the thymus-dependent zone rich in T-lymphocytes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "Where are trabeculae most irregularly arranged in a lymph node?",
+      "options": ["Cortex", "Medulla", "Paracortex", "Germinal centers"],
+      "correctAnswer": "Medulla",
+      "explanation": "Trabeculae are regular in the cortex but irregular in the medulla.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "Which structure is unique to the spleen's red pulp?",
+      "options": ["PALS", "Germinal centers", "Billroth cords", "Marginal zone"],
+      "correctAnswer": "Billroth cords",
+      "explanation": "Billroth cords, containing RBCs and macrophages, are specific to the red pulp.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "What is the primary role of macrophages in lymph node sinuses?",
+      "options": [
+        "Antibody production",
+        "Phagocytosis of pathogens",
+        "Collagen synthesis",
+        "Hormone secretion"
+      ],
+      "correctAnswer": "Phagocytosis of pathogens",
+      "explanation": "Macrophages in sinuses filter lymph by phagocytizing debris and pathogens.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "Which organ contains both afferent and efferent lymphatic vessels?",
+      "options": ["Spleen", "Lymph node", "Thymus", "Liver"],
+      "correctAnswer": "Lymph node",
+      "explanation": "Lymph nodes have afferent (entering) and efferent (exiting) vessels; the spleen lacks afferent lymphatics.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "Which structure in the spleen is associated with central arterioles?",
+      "options": ["Red pulp", "Marginal zone", "PALS", "Billroth cords"],
+      "correctAnswer": "PALS",
+      "explanation": "The peri-arteriolar lymph sheath (PALS) surrounds central arterioles in the white pulp.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "What is the primary function of post-capillary venules in lymph nodes?",
+      "options": [
+        "Filtration of lymph",
+        "Homing of lymphocytes",
+        "Collagen production",
+        "Antigen presentation"
+      ],
+      "correctAnswer": "Homing of lymphocytes",
+      "explanation": "Post-capillary venules have receptors to guide lymphocyte migration into the node.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "Which component of the spleen's stroma contains smooth muscle?",
+      "options": ["Trabeculae", "Marginal zone", "Reticular network", "PALS"],
+      "correctAnswer": "Trabeculae",
+      "explanation": "Splenic trabeculae contain collagen, fibroblasts, and smooth muscle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "type": "standard",
+      "questionText": "Which cells are absent in the germinal centers of lymph nodes?",
+      "options": ["Plasmablasts", "Macrophages", "Mature erythrocytes", "Activated lymphocytes"],
+      "correctAnswer": "Mature erythrocytes",
+      "explanation": "Germinal centers contain immune cells but not RBCs, which are filtered in the spleen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "type": "standard",
+      "questionText": "What distinguishes splenic sinusoids from regular capillaries?",
+      "options": [
+        "Fenestrated endothelium",
+        "Continuous basement membrane",
+        "Presence of valves",
+        "Smooth muscle lining"
+      ],
+      "correctAnswer": "Fenestrated endothelium",
+      "explanation": "Splenic sinusoids have fenestrated endothelial cells and discontinuous basement membranes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "type": "standard",
+      "questionText": "Which artery supplies blood to the spleen?",
+      "options": ["Hepatic artery", "Splenic artery", "Renal artery", "Aortic arch"],
+      "correctAnswer": "Splenic artery",
+      "explanation": "The splenic artery branches from the celiac trunk and enters at the hilum.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "type": "standard",
+      "questionText": "Which zone of the spleen's white pulp contains follicular B-cells?",
+      "options": ["PALS", "Marginal zone", "Germinal center", "Follicular zone"],
+      "correctAnswer": "Follicular zone",
+      "explanation": "The follicular zone in white pulp is rich in B-lymphocytes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "type": "standard",
+      "questionText": "What is the final destination of lymph after exiting a lymph node?",
+      "options": ["Afferent vessels", "Bloodstream", "Efferent vessels", "Spleen"],
+      "correctAnswer": "Efferent vessels",
+      "explanation": "Filtered lymph exits via efferent vessels, eventually returning to the bloodstream.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "type": "standard",
+      "questionText": "Which organ is responsible for fetal hematopoiesis?",
+      "options": ["Lymph node", "Spleen", "Thymus", "Bone marrow"],
+      "correctAnswer": "Spleen",
+      "explanation": "The spleen produces blood cells during fetal life but not in adulthood.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "37",
+      "type": "standard",
+      "questionText": "Which structure is NOT part of the lymph node parenchyma?",
+      "options": ["Cortical nodules", "Medullary sinuses", "Trabeculae", "Germinal centers"],
+      "correctAnswer": "Trabeculae",
+      "explanation": "Trabeculae are stromal components, not parenchymal.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "type": "standard",
+      "questionText": "What is the primary role of the spleen's marginal zone?",
+      "options": [
+        "Antigen capture",
+        "RBC production",
+        "Neutrophil storage",
+        "Bile secretion"
+      ],
+      "correctAnswer": "Antigen capture",
+      "explanation": "The marginal zone filters antigens from blood for immune response initiation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "type": "standard",
+      "questionText": "Which cell type is abundant in both lymph node medullary sinuses and splenic cords?",
+      "options": ["Neutrophils", "Macrophages", "Adipocytes", "Chondrocytes"],
+      "correctAnswer": "Macrophages",
+      "explanation": "Macrophages are present in both locations for phagocytic functions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "40",
+      "type": "standard",
+      "questionText": "Which statement about the spleen's capsule is true?",
+      "options": [
+        "It lacks smooth muscle",
+        "It is covered by peritoneum",
+        "It contains reticular fibers only",
+        "It is absent in humans"
+      ],
+      "correctAnswer": "It is covered by peritoneum",
+      "explanation": "The splenic capsule is covered by peritoneum and contains smooth muscle.",
+      "difficulty": "medium"
+    },{
+      "id": "41",
+      "type": "standard",
+      "questionText": "Which cells are primarily responsible for antibody production in lymph nodes?",
+      "options": ["T-lymphocytes", "Plasma cells", "Macrophages", "Fibroblasts"],
+      "correctAnswer": "Plasma cells",
+      "explanation": "Plasma cells, derived from B-lymphocytes, secrete antibodies in lymph nodes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "42",
+      "type": "standard",
+      "questionText": "Which feature distinguishes the spleen's white pulp from its red pulp?",
+      "options": [
+        "Presence of lymphocytes",
+        "Association with central arterioles",
+        "Containment of RBCs",
+        "Fenestrated sinusoids"
+      ],
+      "correctAnswer": "Association with central arterioles",
+      "explanation": "White pulp surrounds central arterioles, while red pulp contains sinusoids and Billroth cords.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "43",
+      "type": "standard",
+      "questionText": "What is the primary role of fibroblasts in lymph node stroma?",
+      "options": [
+        "Antigen presentation",
+        "Collagen synthesis",
+        "Phagocytosis",
+        "Lymphocyte activation"
+      ],
+      "correctAnswer": "Collagen synthesis",
+      "explanation": "Fibroblasts produce collagen fibers in the capsule and trabeculae.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "44",
+      "type": "standard",
+      "questionText": "Which of the following is NOT a function of the spleen?",
+      "options": [
+        "Filtration of blood",
+        "Storage of platelets",
+        "Production of bile",
+        "Destruction of old RBCs"
+      ],
+      "correctAnswer": "Production of bile",
+      "explanation": "Bile production occurs in the liver, not the spleen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "45",
+      "type": "standard",
+      "questionText": "Where are primary cortical nodules typically located?",
+      "options": [
+        "Adjacent to germinal centers",
+        "In the medulla",
+        "Near the hilum",
+        "In the outer cortex"
+      ],
+      "correctAnswer": "In the outer cortex",
+      "explanation": "Primary nodules are found in the outer cortex and lack germinal centers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "46",
+      "type": "standard",
+      "questionText": "Which structure allows lymphocytes to enter lymph nodes from the bloodstream?",
+      "options": [
+        "Afferent lymphatics",
+        "Post-capillary venules",
+        "Medullary sinuses",
+        "Trabeculae"
+      ],
+      "correctAnswer": "Post-capillary venules",
+      "explanation": "Lymphocytes migrate into nodes via post-capillary venules in the paracortex.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "47",
+      "type": "standard",
+      "questionText": "What is the clinical consequence of splenectomy?",
+      "options": [
+        "Increased RBC production",
+        "Susceptibility to encapsulated bacteria",
+        "Enhanced lymph filtration",
+        "Reduced bile secretion"
+      ],
+      "correctAnswer": "Susceptibility to encapsulated bacteria",
+      "explanation": "The spleen filters blood-borne pathogens; its removal increases infection risk.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "48",
+      "type": "standard",
+      "questionText": "Which cell type is abundant in both the red pulp and medullary sinuses?",
+      "options": ["Neutrophils", "Erythrocytes", "Macrophages", "Adipocytes"],
+      "correctAnswer": "Macrophages",
+      "explanation": "Macrophages phagocytize debris in both red pulp and medullary sinuses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "49",
+      "type": "standard",
+      "questionText": "Which structure is absent in the thymus but present in lymph nodes?",
+      "options": ["Hassall's corpuscles", "Germinal centers", "Capsule", "Lymphocytes"],
+      "correctAnswer": "Germinal centers",
+      "explanation": "Germinal centers form in lymph nodes during immune responses but not in the thymus.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "50",
+      "type": "standard",
+      "questionText": "What is the primary component of the reticular network in both organs?",
+      "options": ["Collagen", "Elastin", "Reticular fibers", "Keratin"],
+      "correctAnswer": "Reticular fibers",
+      "explanation": "Reticular fibers form the supportive network in lymph nodes and spleen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "51",
+      "type": "standard",
+      "questionText": "Which organ filters both lymph and blood?",
+      "options": ["Spleen", "Lymph node", "Liver", "Thymus"],
+      "correctAnswer": "Lymph node",
+      "explanation": "Lymph nodes filter lymph; the spleen filters blood.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "52",
+      "type": "standard",
+      "questionText": "Which zone of the spleen contains dendritic cells for antigen presentation?",
+      "options": ["PALS", "Marginal zone", "Germinal center", "Red pulp"],
+      "correctAnswer": "Marginal zone",
+      "explanation": "The marginal zone has dendritic cells that capture blood-borne antigens.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "53",
+      "type": "standard",
+      "questionText": "What is the primary histological difference between cortical and medullary sinuses?",
+      "options": [
+        "Lining cell type",
+        "Presence of trabeculae",
+        "Location relative to nodules",
+        "Size of lymphocytes"
+      ],
+      "correctAnswer": "Location relative to nodules",
+      "explanation": "Cortical sinuses are near nodules; medullary sinuses lie between cords.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "54",
+      "type": "standard",
+      "questionText": "Which cell type is NOT found in the germinal center?",
+      "options": ["Plasmablasts", "Macrophages", "T-lymphocytes", "Erythrocytes"],
+      "correctAnswer": "Erythrocytes",
+      "explanation": "Erythrocytes are filtered in the spleen, not present in germinal centers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "55",
+      "type": "standard",
+      "questionText": "Which structure connects the splenic trabeculae to the capsule?",
+      "options": ["PALS", "Reticular fibers", "Central arterioles", "Billroth cords"],
+      "correctAnswer": "Reticular fibers",
+      "explanation": "Reticular fibers form a network linking trabeculae and capsule.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "56",
+      "type": "standard",
+      "questionText": "What is the role of the splenic central arteriole?",
+      "options": [
+        "Drain blood into sinusoids",
+        "Supply oxygen to the capsule",
+        "Deliver blood to white pulp",
+        "Produce reticular fibers"
+      ],
+      "correctAnswer": "Deliver blood to white pulp",
+      "explanation": "Central arterioles branch into white pulp, supplying lymphocytes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "57",
+      "type": "standard",
+      "questionText": "Which statement about lymph node medullary cords is true?",
+      "options": [
+        "Contain T-lymphocytes only",
+        "Lined by stratified epithelium",
+        "Rich in plasma cells",
+        "Absent in humans"
+      ],
+      "correctAnswer": "Rich in plasma cells",
+      "explanation": "Medullary cords contain plasma cells secreting antibodies.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "58",
+      "type": "standard",
+      "questionText": "Which organ lacks afferent lymphatic vessels?",
+      "options": ["Lymph node", "Spleen", "Thymus", "Tonsils"],
+      "correctAnswer": "Spleen",
+      "explanation": "The spleen receives blood via arteries, not afferent lymphatics.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "59",
+      "type": "standard",
+      "questionText": "What is the primary histological stain for identifying reticular fibers?",
+      "options": ["H&E", "Silver impregnation", "Wright's stain", "Congo red"],
+      "correctAnswer": "Silver impregnation",
+      "explanation": "Reticular fibers stain black with silver (Ag) methods.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "60",
+      "type": "standard",
+      "questionText": "Which structure is critical for lymphocyte recirculation?",
+      "options": [
+        "Capsular sinuses",
+        "Post-capillary venules",
+        "Medullary cords",
+        "Germinal centers"
+      ],
+      "correctAnswer": "Post-capillary venules",
+      "explanation": "Lymphocytes enter nodes via these venules for immune surveillance.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "61",
+      "type": "standard",
+      "questionText": "Which theory of splenic circulation suggests blood flows directly into sinusoids?",
+      "options": ["Open theory", "Closed theory", "Combined theory", "Hepatic theory"],
+      "correctAnswer": "Closed theory",
+      "explanation": "The closed theory posits that penicillar arterioles connect directly to sinusoids.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "62",
+      "type": "standard",
+      "questionText": "Which cell type is primarily responsible for antigen presentation in the marginal zone of the spleen?",
+      "options": ["Plasma cells", "Dendritic cells", "Neutrophils", "Erythrocytes"],
+      "correctAnswer": "Dendritic cells",
+      "explanation": "Dendritic cells in the marginal zone capture antigens to initiate immune responses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "63",
+      "type": "standard",
+      "questionText": "Which region of the lymph node is most enriched with B-lymphocytes?",
+      "options": ["Paracortex", "Medullary cords", "Cortical nodules", "Trabeculae"],
+      "correctAnswer": "Cortical nodules",
+      "explanation": "Cortical nodules (follicles) contain B-lymphocytes, especially in germinal centers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "64",
+      "type": "standard",
+      "questionText": "What is the primary histological feature distinguishing splenic red pulp from white pulp?",
+      "options": [
+        "Presence of lymphocytes",
+        "Abundance of RBCs and macrophages",
+        "Association with central arterioles",
+        "Reticular fiber density"
+      ],
+      "correctAnswer": "Abundance of RBCs and macrophages",
+      "explanation": "Red pulp contains RBCs and macrophages, while white pulp is lymphoid tissue.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "65",
+      "type": "standard",
+      "questionText": "Which condition is most associated with loss of splenic function?",
+      "options": ["Thrombocytopenia", "Overwhelming post-splenectomy infection (OPSI)", "Leukemia", "Hemophilia"],
+      "correctAnswer": "Overwhelming post-splenectomy infection (OPSI)",
+      "explanation": "Splenectomy increases susceptibility to encapsulated bacteria like Streptococcus pneumoniae.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "66",
+      "type": "standard",
+      "questionText": "Which structure is unique to the thymus but absent in lymph nodes and spleen?",
+      "options": ["Hassall's corpuscles", "Germinal centers", "Medullary sinuses", "Billroth cords"],
+      "correctAnswer": "Hassall's corpuscles",
+      "explanation": "Hassall's corpuscles are thymic structures involved in T-cell maturation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "67",
+      "type": "standard",
+      "questionText": "What is the primary function of the peri-arteriolar lymph sheath (PALS)?",
+      "options": [
+        "Filtration of lymph",
+        "T-lymphocyte activation",
+        "Storage of platelets",
+        "Production of reticular fibers"
+      ],
+      "correctAnswer": "T-lymphocyte activation",
+      "explanation": "PALS is a T-cell-rich region surrounding central arterioles in the spleen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "68",
+      "type": "standard",
+      "questionText": "Which cell type is absent in the normal red pulp of the spleen?",
+      "options": ["Macrophages", "Erythrocytes", "Neutrophils", "Megakaryocytes"],
+      "correctAnswer": "Megakaryocytes",
+      "explanation": "Megakaryocytes are found in bone marrow; splenic red pulp filters blood, not produces platelets.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "69",
+      "type": "standard",
+      "questionText": "Which histological feature helps distinguish lymph node medulla from cortex?",
+      "options": [
+        "Presence of germinal centers",
+        "Density of trabeculae",
+        "Arrangement of medullary cords",
+        "Abundance of reticular fibers"
+      ],
+      "correctAnswer": "Arrangement of medullary cords",
+      "explanation": "Medullary cords are elongated lymphocyte aggregations unique to the medulla.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "70",
+      "type": "standard",
+      "questionText": "Which enzyme is critical for breaking down hemoglobin in splenic macrophages?",
+      "options": ["Amylase", "Catalase", "Heme oxygenase", "Lipase"],
+      "correctAnswer": "Heme oxygenase",
+      "explanation": "Heme oxygenase degrades heme from phagocytized RBCs into biliverdin.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "71",
+      "type": "standard",
+      "questionText": "Which structure is a hallmark of chronic inflammation in lymph nodes?",
+      "options": ["Germinal centers", "Capsular fibrosis", "Sinus histiocytosis", "Medullary atrophy"],
+      "correctAnswer": "Sinus histiocytosis",
+      "explanation": "Sinus histiocytosis refers to macrophage proliferation in sinuses due to chronic antigen exposure.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "72",
+      "type": "standard",
+      "questionText": "Which embryonic layer gives rise to the spleen?",
+      "options": ["Ectoderm", "Endoderm", "Mesoderm", "Neural crest"],
+      "correctAnswer": "Mesoderm",
+      "explanation": "The spleen develops from mesenchymal cells in the dorsal mesogastrium (mesodermal origin).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "73",
+      "type": "standard",
+      "questionText": "Which feature is common to both lymph node trabeculae and splenic trabeculae?",
+      "options": [
+        "Presence of smooth muscle",
+        "Composed of reticular fibers",
+        "Contain germinal centers",
+        "Lined by endothelial cells"
+      ],
+      "correctAnswer": "Composed of reticular fibers",
+      "explanation": "Both contain collagen and fibroblasts, but splenic trabeculae also have smooth muscle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "74",
+      "type": "standard",
+      "questionText": "Which cell type is critical for maintaining the reticular network in lymph nodes?",
+      "options": ["Fibroblasts", "Reticular cells", "Plasma cells", "Neutrophils"],
+      "correctAnswer": "Reticular cells",
+      "explanation": "Reticular cells produce and maintain the reticular fiber network.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "75",
+      "type": "standard",
+      "questionText": "Which clinical finding is typical of hypersplenism?",
+      "options": [
+        "Increased platelet count",
+        "Pancytopenia",
+        "Elevated hemoglobin",
+        "Lymphocytosis"
+      ],
+      "correctAnswer": "Pancytopenia",
+      "explanation": "Hypersplenism leads to excessive destruction of blood cells, causing pancytopenia.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "76",
+      "type": "standard",
+      "questionText": "Which structure allows lymphocytes to exit lymph nodes?",
+      "options": ["Afferent vessels", "High endothelial venules", "Efferent vessels", "Medullary sinuses"],
+      "correctAnswer": "Efferent vessels",
+      "explanation": "Efferent vessels carry filtered lymph and lymphocytes out of the node.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "77",
+      "type": "standard",
+      "questionText": "Which staining method is used to identify collagen in the lymph node capsule?",
+      "options": ["Silver stain", "H&E", "Masson's trichrome", "Wright-Giemsa"],
+      "correctAnswer": "Masson's trichrome",
+      "explanation": "Masson's trichrome stains collagen blue, distinguishing it from muscle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "78",
+      "type": "standard",
+      "questionText": "Which immune response is primarily mediated by the spleen's white pulp?",
+      "options": [
+        "Innate immunity",
+        "Humoral immunity",
+        "Complement activation",
+        "Antibody-independent cytotoxicity"
+      ],
+      "correctAnswer": "Humoral immunity",
+      "explanation": "White pulp B-cells drive antibody production (humoral immunity).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "79",
+      "type": "standard",
+      "questionText": "Which structure is most affected in hereditary spherocytosis?",
+      "options": ["Lymph node medulla", "Splenic red pulp", "Thymic cortex", "Hepatic sinusoids"],
+      "correctAnswer": "Splenic red pulp",
+      "explanation": "Abnormal RBCs are trapped and destroyed in the red pulp.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "80",
+      "type": "standard",
+      "questionText": "Which feature is absent in the medulla of lymph nodes?",
+      "options": [
+        "Plasma cells",
+        "Germinal centers",
+        "Medullary cords",
+        "Endothelial-lined sinuses"
+      ],
+      "correctAnswer": "Germinal centers",
+      "explanation": "Germinal centers are located in the cortex; medulla contains cords and sinuses.",
+      "difficulty": "medium"
+    }
+  ]
+}

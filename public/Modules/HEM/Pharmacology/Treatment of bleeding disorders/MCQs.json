@@ -1,0 +1,460 @@
+{
+  "title": "Treatment of Bleeding Disorders",
+  "module": "PHARM",
+  "subject": "Pharmacology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB"],
+  "description": "Questions about the treatment of bleeding disorders based on provided material.",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "Based what you have been taught, what are coagulants indicated for?",
+      "options": [
+        "Controlling infections",
+        "Promoting coagulation",
+        "Reducing inflammation",
+        "Lowering blood pressure"
+      ],
+      "correctAnswer": "Promoting coagulation",
+      "explanation": "Coagulants are substances which promote coagulation, and are indicated in hemorrhagic states.",
+      "references": ["7"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "Fresh whole blood or plasma provides which components needed for coagulation?",
+      "options": [
+        "Specific enzymes only",
+        "All factors needed for coagulation",
+        "Calcium ions only",
+        "Red blood cells only"
+      ],
+      "correctAnswer": "All factors needed for coagulation",
+      "explanation": "Fresh whole blood or plasma provide all the factors needed for coagulation.",
+      "references": ["9"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "What is considered the best therapy for deficiency of any clotting factor?",
+      "options": [
+        "Oral Vitamin K supplementation",
+        "Antifibrinolytic agents",
+        "Fresh whole blood or plasma",
+        "Local hemostatics"
+      ],
+      "correctAnswer": "Fresh whole blood or plasma",
+      "explanation": "Fresh whole blood or plasma is described as the best therapy for deficiency of any clotting factor.",
+      "references": ["9"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "Regarding the action of fresh whole blood or plasma, they act:",
+      "options": [
+        "After several hours",
+        "Gradually",
+        "Immediately",
+        "Within 24 hours"
+      ],
+      "correctAnswer": "Immediately",
+      "explanation": "Fresh whole blood or plasma are stated to act immediately.",
+      "references": ["9"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "Which of the following is listed as a physical method for local hemostasis?",
+      "options": [
+        "Application of vasoconstrictors",
+        "Application of pressure",
+        "Administration of Vitamin K",
+        "Administration of antifibrinolytics"
+      ],
+      "correctAnswer": "Application of pressure",
+      "explanation": "Physical methods for local hemostasis include application of pressure, cold or cautery .",
+      "references": ["10"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "An example of a vasoconstrictor used locally for hemostasis, according to the handouts, is:",
+      "options": [
+        "Tannic acid",
+        "Adrenaline",
+        "Thrombin",
+        "Gel foam"
+      ],
+      "correctAnswer": "Adrenaline",
+      "explanation": "Vasoconstrictors e.g. adrenaline locally are listed under local hemostatics .",
+      "references": ["10"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "How do astringents like tannic acid and alum act to control bleeding locally?",
+      "options": [
+        "By releasing clotting factors",
+        "By inducing vasoconstriction",
+        "By precipitating blood proteins at the site of bleeding",
+        "By absorbing excess fluid"
+      ],
+      "correctAnswer": "By precipitating blood proteins at the site of bleeding",
+      "explanation": "Astringents e.g. tannic acid and alum, act by precipitation of blood proteins at the site of bleeding .",
+      "references": ["10"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "Local coagulants are agents applied locally to control bleeding from which size of vessels?",
+      "options": [
+        "Large arteries",
+        "Major veins",
+        "Minute vessels",
+        "All sizes of vessels"
+      ],
+      "correctAnswer": "Minute vessels",
+      "explanation": "Local coagulants are defined as Agents applied locally to control bleeding from minute vessels .",
+      "references": ["10"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "Which of the following is NOT listed as a local coagulant in the handout?",
+      "options": [
+        "Thrombin powder",
+        "Fibrin glues",
+        "Desmopressin acetate",
+        "Gel foam"
+      ],
+      "correctAnswer": "Desmopressin acetate",
+      "explanation": "Thrombin powder, Fibrin glues, and Gel foam are listed as local coagulants . Desmopressin acetate is listed as a systemic hemostatic .",
+      "references": ["11", "18"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "Microfibrillar collagen is listed as a local coagulant with a potential side effect of:",
+      "options": [
+        "Systemic allergic reaction",
+        "Excessive bleeding",
+        "Local infection and abscess formation",
+        "Severe pain at the application site"
+      ],
+      "correctAnswer": "Local infection and abscess formation",
+      "explanation": "Microfibrillar collagen is non-allergenic but can promote local infection and abscess formation .",
+      "references": ["11"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "Vitamin K is classified as which type of hemostatic ?",
+      "options": [
+        "Local hemostatic",
+        "Physical method",
+        "Systemic hemostatic",
+        "Astringent"
+      ],
+      "correctAnswer": "Systemic hemostatic",
+      "explanation": "Vitamin K is listed under Systemic hemostatics (coagulants) .",
+      "references": ["12"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "What type of substance is Vitamin K?",
+      "options": [
+        "Water-soluble vitamin",
+        "Mineral",
+        "Fat-soluble substance",
+        "Protein"
+      ],
+      "correctAnswer": "Fat-soluble substance",
+      "explanation": "Vitamin K is a fat-soluble substance .",
+      "references": ["12"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "The Handout mentions how many natural sources and how many synthetic forms of Vitamin K?",
+      "options": [
+        "1 natural, 1 synthetic",
+        "2 natural, 1 synthetic",
+        "1 natural, 2 synthetic",
+        "2 natural, 2 synthetic"
+      ],
+      "correctAnswer": "2 natural, 1 synthetic",
+      "explanation": "Vitamin K sources are described as having 2 natural sources and 1 synthetic form . These are Vitamin K1, Vitamin K2, and synthetic menadione (Vitamin K3) .",
+      "references": ["12", "13"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "Vitamin K1 is primarily found in which type of food?",
+      "options": [
+        "Citrus fruits",
+        "Red meat",
+        "Dairy products",
+        "Leafy green vegetables"
+      ],
+      "correctAnswer": "Leafy green vegetables",
+      "explanation": "Vitamin K1 is found primarily in leafy green vegetables .",
+      "references": ["12"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Vitamin K2 is additionally synthesized by:",
+      "options": [
+        "Plant roots",
+        "Fungi in soil",
+        "Bacteria that colonize the human intestine",
+        "Human liver cells"
+      ],
+      "correctAnswer": "Bacteria that colonize the human intestine",
+      "explanation": "Vitamin K2 is additionally synthesized by the bacteria that colonize the human intestine .",
+      "references": ["13"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "What is the synthetic form of Vitamin K mentioned, and what is required for it to be active?",
+      "options": [
+        "Vitamin K1; must be oxidized",
+        "Vitamin K2; must be reduced",
+        "Menadione (Vitamin K3); needs conversion to menaquinone-4",
+        "Phylloquinone; needs dehydroxylation"
+      ],
+      "correctAnswer": "Menadione (Vitamin K3); needs conversion to menaquinone-4",
+      "explanation": "The synthetic menadione (vitamin K3) is a provitamin that needs to be converted to menaquinone-4 to be active .",
+      "references": ["13"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "Vitamin K acts as an essential cofactor for the carboxylation of which amino acid residues in many vitamin K-dependent proteins?",
+      "options": [
+        "Alanine",
+        "Glycine",
+        "Lysine",
+        "Glutamic acid"
+      ],
+      "correctAnswer": "Glutamic acid",
+      "explanation": "Vitamin K is the essential cofactor for the carboxylation of glutamic acid residues in many vitamin K-dependent proteins .",
+      "references": ["13"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "Vitamin K-dependent proteins are involved in which of the following processes ?",
+      "options": [
+        "Muscle contraction and nerve signaling",
+        "Blood coagulation, bone metabolism, and prevention of vessel mineralization",
+        "Glucose metabolism and insulin sensitivity",
+        "Immune response and antibody production"
+      ],
+      "correctAnswer": "Blood coagulation, bone metabolism, and prevention of vessel mineralization",
+      "explanation": "Vitamin K-dependent proteins (VKDPs) that are involved in blood coagulation, bone metabolism, prevention of vessel mineralization, and regulation of various cellular functions .",
+      "references": ["13"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "Vitamin K is used to stop bleeding problems due to which of the following?",
+      "options": [
+        "Excessive platelet count",
+        "Hemorrhagic disease of vitamin K deficiency",
+        "Severe hypertension",
+        "Bacterial infections"
+      ],
+      "correctAnswer": "Hemorrhagic disease of vitamin K deficiency",
+      "explanation": "Vitamin K is used to stop bleeding problems due to oral anticoagulants and bleeding due to hypoprothrobinemia resulting from decreased synthesis, hepatic utilization, absorption, or large dose aspirin . Hemorrhagic disease of vitamin K deficiency in newborns is also mentioned .",
+      "references": ["14", "15"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "Hypoprothrombinemia resulting from decreased synthesis of Vitamin K by intestinal flora can be caused by:",
+      "options": [
+        "Probiotics",
+        "Oral broad spectrum antibiotics e.g. cefoperazone",
+        "Increased dietary fiber intake",
+        "Vitamin B12 supplements"
+      ],
+      "correctAnswer": "Oral broad spectrum antibiotics e.g. cefoperazone",
+      "explanation": "Decreased Synthesis of vit. K by intestinal flora can be caused by oral broad spectrum antibiotics e.g. cefoperazone, leading to hypoprothrombinemia .",
+      "references": ["14"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "Decreased Hepatic utilization of Vitamin K leading to hypoprothrombinemia can be associated with:",
+      "options": [
+        "Kidney disease",
+        "Liver disease and newborn",
+        "Pancreatic insufficiency",
+        "Thyroid disorders"
+      ],
+      "correctAnswer": "Liver disease and newborn",
+      "explanation": "Decreased Hepatic utilization of vit. K as liver disease and newborn is listed as a cause of hypoprothrombinemia treatable by Vitamin K .",
+      "references": ["14"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "Decreased Absorption of Vitamin K resulting in hypoprothrombinemia can occur with:",
+      "options": [
+        "High protein diet",
+        "Vitamin C deficiency",
+        "Malabsorption syndrome",
+        "Excessive water intake"
+      ],
+      "correctAnswer": "Malabsorption syndrome",
+      "explanation": "Decreased Absorption of vit. K as with liquid paraffin, malabsorption syndrome is listed as a cause of hypoprothrombinemia treatable by Vitamin K .",
+      "references": ["14"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "Ingestion of a large dose of which common analgesic can contribute to hypoprothrombinemia treatable by Vitamin K?",
+      "options": [
+        "Ibuprofen",
+        "Acetaminophen",
+        "Aspirin",
+        "Naproxen"
+      ],
+      "correctAnswer": "Aspirin",
+      "explanation": "Aspirin large dose is listed as a cause of hypoprothrombinemia treatable by Vitamin K .",
+      "references": ["14"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "What forms of Vitamin K1 are available clinically?",
+      "options": [
+        "Topical and inhaled forms",
+        "Oral and parenteral forms",
+        "Rectal and transdermal forms",
+        "Sublingual and submicronized forms"
+      ],
+      "correctAnswer": "Oral and parenteral forms",
+      "explanation": "Vitamin K1 is available clinically in oral forms and parenteral forms .",
+      "references": ["15"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "Vitamin K1 is currently administered routinely to which population to prevent hemorrhagic disease of vitamin K deficiency?",
+      "options": [
+        "Pregnant women",
+        "Elderly patients on anticoagulants",
+        "All newborns",
+        "Patients with liver cirrhosis"
+      ],
+      "correctAnswer": "All newborns",
+      "explanation": "Vitamin K1 is currently administered to all newborns to prevent the hemorrhagic disease of vitamin K deficiency .",
+      "references": ["15"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "Protamine sulphate is listed as an antidote for overdose of which anticoagulant?",
+      "options": [
+        "Warfarin",
+        "Dabigatran",
+        "Heparin",
+        "Rivaroxaban"
+      ],
+      "correctAnswer": "Heparin",
+      "explanation": "Protamine sulphate is listed as antidote to heparin overdose .",
+      "references": ["16"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "Which of the following are mentioned as examples of antifibrinolytics?",
+      "options": [
+        "Heparin and Warfarin",
+        "Aminocaproic and Tranexamic acid",
+        "Protamine sulphate and Vitamin K",
+        "Desmopressin and Sclerosing agents"
+      ],
+      "correctAnswer": "Aminocaproic and Tranexamic acid",
+      "explanation": "Antifibrinolytics as Aminocaproic and Tranexamic acid orally are listed .",
+      "references": ["16"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "Desmopressin acetate, a synthetic derivative of vasopressin, works by releasing which factors from vascular endothelium?",
+      "options": [
+        "Factor IX and Factor X",
+        "Factor VIII and von Willebrand’s factor",
+        "Factor V and Factor VII",
+        "Fibrinogen and Thrombin"
+      ],
+      "correctAnswer": "Factor VIII and von Willebrand’s factor",
+      "explanation": "Desmopressin acetate... releases factor VIII & von Willebrand’s factor from vascular endothelium .",
+      "references": ["18"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "Based what you have been taught, Idarucizumab is a specific antidote for which anticoagulant?",
+      "options": [
+        "Heparin",
+        "Warfarin",
+        "Rivaroxaban",
+        "Dabigatran"
+      ],
+      "correctAnswer": "Dabigatran",
+      "explanation": "Idarucizumab is listed as a specific antidote of dabigatran .",
+      "references": ["19"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "Andexant alpha is listed as a specific antidote for which anticoagulant?",
+      "options": [
+        "Dabigatran",
+        "Apixaban",
+        "Rivaroxaban",
+        "Edoxaban"
+      ],
+      "correctAnswer": "Rivaroxaban",
+      "explanation": "Andexant alpha is listed as a specific antidote for rivaroxaban . (Note: While Andexanet alfa is also an antidote for apixaban and edoxaban in clinical practice, the source *only* mentions rivaroxaban for Andexant alpha) .",
+      "references": ["19"],
+      "difficulty": "medium"
+    }
+  ]
+}

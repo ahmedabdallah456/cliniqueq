@@ -1,0 +1,1010 @@
+{
+  "title": "Central Nervous System Embryology and Malformations",
+  "module": "Neuroanatomy",
+  "subject": "Embryology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB", "Medical Boards"],
+  "description": "Questions covering the embryonic development, normal structures, and malformations of the Central Nervous System, drawing on provided sources.",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "When does the nervous system begin to form following fertilization?",
+      "options": ["1st week of development", "2nd week of development", "3rd week of development", "4th week of development"],
+      "correctAnswer": "3rd week of development",
+      "explanation": "Following fertilization, the nervous system begins to form in the 3rd week of development.",
+      "references": ["11", "32"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "Which of the following is considered a part of the Central Nervous System (CNS)?",
+      "options": ["Cranial nerves", "Ganglia", "Spinal cord", "Sensory receptors"],
+      "correctAnswer": "Spinal cord",
+      "explanation": "The Central Nervous System (CNS) consists of the brain and the spinal cord. Cranial and spinal nerves, ganglia, plexuses, and sensory receptors are part of the Peripheral Nervous System.",
+      "references": ["11", "32", "65"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "From which of the three primary germ layers is the nervous system derived?",
+      "options": ["Endoderm", "Mesoderm", "Ectoderm", "Neural crest"],
+      "correctAnswer": "Ectoderm",
+      "explanation": "The nervous system is derived from the ectoderm, which is the outermost layer of the embryonic disc. The ectoderm further specializes into neural ectoderm.",
+      "references": ["13", "34", "46", "94", "95", "113"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "What structure appears at the end of week two as a groove in the epiblast layer, preceding the formation of the trilaminar embryonic disk?",
+      "options": ["Neural plate", "Notochord", "Primitive streak", "Neural tube"],
+      "correctAnswer": "Primitive streak",
+      "explanation": "At the end of week two, a structure called the primitive streak appears as a groove in the epiblast layer of the bilaminar disk. Cells then migrate through it to form the trilaminar embryonic disk.",
+      "references": ["12", "33", "48"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "What key structure appears in the mesoderm during the third week of development and secretes growth factors to stimulate the differentiation of the overlying ectoderm into neuroectoderm?",
+      "options": ["Neural groove", "Primitive streak", "Notochord", "Neural crest"],
+      "correctAnswer": "Notochord",
+      "explanation": "In the third week of development, the notochord appears in the mesoderm. It secretes growth factors that stimulate the differentiation of the overlying ectoderm into neuroectoderm, forming the neural plate.",
+      "references": ["13", "34", "133"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "The process of the neural plate forming neural folds that fuse to create the neural tube is known as:",
+      "options": ["Gastrulation", "Neurulation", "Organogenesis", "Synaptogenesis"],
+      "correctAnswer": "Neurulation",
+      "explanation": "The formation of the neural tube from the neural plate through the fusion of neural folds is known as neurulation.",
+      "references": ["14", "35", "49", "136", "137"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "By what week of development is the formation of the neural tube (neurulation) typically achieved?",
+      "options": ["End of the 2nd week", "End of the 3rd week", "End of the 4th week", "End of the 5th week"],
+      "correctAnswer": "End of the 4th week",
+      "explanation": "The formation of the neural tube (neurulation) is achieved by the end of the fourth week of development.",
+      "references": ["14", "35"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "Which cell population forms during the fusion of the neural folds and gives rise to diverse cell lineages including melanocytes, craniofacial cartilage, and peripheral neurons?",
+      "options": ["Neuroectoderm", "Mesoderm", "Neural crest", "Endoderm"],
+      "correctAnswer": "Neural crest",
+      "explanation": "During the fusion of the neural folds, some cells within the folds migrate to form a distinct cell population known as the neural crest. They give rise to diverse cell lineages, including melanocytes, craniofacial cartilage and bone, smooth muscle, peripheral and enteric neurons, and glia.",
+      "references": ["14", "35", "49", "95", "120", "138"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "Failure of the neural tube to close at the cephalic (cranial) end results in which lethal congenital abnormality?",
+      "options": ["Spina bifida occulta", "Meningocele", "Myelomeningocele", "Anencephaly"],
+      "correctAnswer": "Anencephaly",
+      "explanation": "Anencephaly results from failure of the neural tube to close at the cephalic end, leading to the partial absence of the brain and skull.",
+      "references": ["15", "36", "56", "67", "82", "139"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "Which type of spina bifida is characterized by an incomplete closure of the vertebrae without protrusion of the spinal cord and is often discovered incidentally?",
+      "options": ["Meningocele", "Myelomeningocele", "Spina bifida occulta", "Encephalocele"],
+      "correctAnswer": "Spina bifida occulta",
+      "explanation": "Spina bifida occulta is the mildest form of spina bifida, characterized by an incomplete closure of the vertebrae without protrusion of the spinal cord. Its discovery is often incidental.",
+      "references": ["16", "37", "55", "109"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "In which severe form of spina bifida does a portion of the spinal cord remain unfused and protrude posteriorly through an opening between the vertebrae, in a sac formed by the meninges?",
+      "options": ["Spina bifida occulta", "Meningocele", "Myelomeningocele", "Spina bifida aperta"],
+      "correctAnswer": "Myelomeningocele",
+      "explanation": "Myelomeningocele is the most severe form of spina bifida, where a portion of the spinal cord remains unfused and protrudes posteriorly through an opening between the vertebrae, in a sac formed by the meninges.",
+      "references": ["16", "37", "81", "109"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "What condition results when the meninges protrude between the vertebrae posteriorly, but the spinal cord remains undamaged?",
+      "options": ["Anencephaly", "Spina bifida occulta", "Myelomeningocele", "Meningocele"],
+      "correctAnswer": "Meningocele",
+      "explanation": "Meningocele (meningeal cyst) is a type of spina bifida where the meninges protrude between the vertebrae posteriorly, but the spinal cord is undamaged.",
+      "references": ["16", "37", "81", "109"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "In the fifth week of development, swellings appear at the cranial end of the neural tube. What are the first three such swellings called?",
+      "options": ["Secondary vesicles", "Primitive vesicles", "Neural crest cells", "Germinal layers"],
+      "correctAnswer": "Primitive vesicles",
+      "explanation": "In the fifth week of development, swellings appear at the cranial end of the neural tube. Three primitive vesicles appear first.",
+      "references": ["17", "38"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "The three primitive brain vesicles are the Prosencephalon, Mesencephalon, and Rhombencephalon. Which of these corresponds to the 'forebrain'?",
+      "options": ["Prosencephalon", "Mesencephalon", "Rhombencephalon", "Myelencephalon"],
+      "correctAnswer": "Prosencephalon",
+      "explanation": "The Prosencephalon is the first primary vesicle and is also referred to as the forebrain.",
+      "references": ["98", "118", "121", "141"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Which primary brain vesicle is also known as the midbrain and does not differentiate into any finer divisions at the secondary vesicle stage?",
+      "options": ["Prosencephalon", "Mesencephalon", "Rhombencephalon", "Diencephalon"],
+      "correctAnswer": "Mesencephalon",
+      "explanation": "The Mesencephalon is the midbrain and does not differentiate into any finer divisions, remaining as Mesencephalon at the secondary vesicle stage.",
+      "references": ["18", "39", "99", "100", "119", "141"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "The Rhombencephalon (hindbrain) develops into which two secondary vesicles?",
+      "options": ["Telencephalon and Diencephalon", "Metencephalon and Myelencephalon", "Mesencephalon and Metencephalon", "Prosencephalon and Myelencephalon"],
+      "correctAnswer": "Metencephalon and Myelencephalon",
+      "explanation": "The Rhombencephalon develops into the Metencephalon and Myelencephalon.",
+      "references": ["18", "39", "100", "142"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "Which secondary brain vesicle gives rise to the cerebral hemispheres and globus pallidus?",
+      "options": ["Diencephalon", "Mesencephalon", "Telencephalon", "Metencephalon"],
+      "correctAnswer": "Telencephalon",
+      "explanation": "The Telencephalon, a derivative of the Prosencephalon, gives rise to the cerebral hemispheres and globus pallidus.",
+      "references": ["18", "39", "99", "108"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "The thalamus, hypothalamus, and epithalamus are neural derivatives of which secondary brain vesicle?",
+      "options": ["Telencephalon", "Diencephalon", "Mesencephalon", "Myelencephalon"],
+      "correctAnswer": "Diencephalon",
+      "explanation": "The Diencephalon gives rise to the thalamus, hypothalamus, and epithalamus.",
+      "references": ["18", "39", "99", "118"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "Which secondary brain vesicle develops into the pons and cerebellum?",
+      "options": ["Telencephalon", "Diencephalon", "Mesencephalon", "Metencephalon"],
+      "correctAnswer": "Metencephalon",
+      "explanation": "The Metencephalon corresponds to the adult structure known as the pons and also gives rise to the cerebellum.",
+      "references": ["18", "39", "100", "119"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "The medulla oblongata is the neural derivative of which secondary brain vesicle?",
+      "options": ["Telencephalon", "Diencephalon", "Mesencephalon", "Myelencephalon"],
+      "correctAnswer": "Myelencephalon",
+      "explanation": "The Myelencephalon corresponds to the adult structure known as the medulla oblongata.",
+      "references": ["18", "39", "100", "119"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "Which adult brain structure is derived from the Mesencephalon?",
+      "options": ["Cerebrum", "Thalamus", "Midbrain", "Pons"],
+      "correctAnswer": "Midbrain",
+      "explanation": "The Mesencephalon directly develops into the midbrain.",
+      "references": ["18", "39", "100", "119"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "The lateral ventricles are the cavity derivatives of which secondary brain vesicle?",
+      "options": ["Telencephalon", "Diencephalon", "Mesencephalon", "Metencephalon"],
+      "correctAnswer": "Telencephalon",
+      "explanation": "The Telencephalon gives rise to the cerebral hemispheres and globus pallidus, and its cavity derivative is the lateral ventricle.",
+      "references": ["18", "39", "108"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "Which brain structure's ventricular system component is the cerebral aqueduct?",
+      "options": ["Telencephalon", "Diencephalon", "Mesencephalon", "Rhombencephalon"],
+      "correctAnswer": "Mesencephalon",
+      "explanation": "The Mesencephalon (midbrain) has the cerebral aqueduct as its cavity derivative.",
+      "references": ["18", "39", "108"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "The Third Ventricle is the cavity derivative of which secondary brain vesicle?",
+      "options": ["Telencephalon", "Diencephalon", "Metencephalon", "Myelencephalon"],
+      "correctAnswer": "Diencephalon",
+      "explanation": "The Diencephalon's cavity derivative is the Third Ventricle.",
+      "references": ["18", "39", "108"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "Cells on the dorsal side of the caudal end of the neural tube form the alar plate, which subsequently becomes the:",
+      "options": ["Ventral horn (anterior)", "Dorsal horn (posterior)", "Central canal", "White matter"],
+      "correctAnswer": "Dorsal horn (posterior)",
+      "explanation": "Whilst the cranial end of the neural tube forms the brain and cerebellum, the caudal end develops to form the spinal cord. Cells on the dorsal side form the alar plate, which subsequently becomes the dorsal horn (posterior).",
+      "references": ["19", "40"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "The basal plate, formed by cells at the ventral end of the caudal neural tube, becomes which part of the spinal cord?",
+      "options": ["Dorsal horn (posterior)", "Ventral horn (anterior)", "Gray matter", "White matter"],
+      "correctAnswer": "Ventral horn (anterior)",
+      "explanation": "Cells at the ventral end form the basal plate, which then becomes the ventral horn (anterior).",
+      "references": ["19", "40"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "The mantle layer of the developing spinal cord contains neuronal bodies, which will eventually form the:",
+      "options": ["White matter", "Gray matter", "Central canal", "Meninges"],
+      "correctAnswer": "Gray matter",
+      "explanation": "The mantle layer contains neuronal bodies, which will eventually form the gray matter.",
+      "references": ["50", "148"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "Myelination of peripheral axons occurs via which cells, derived from neural crest cells?",
+      "options": ["Oligodendrocytes", "Astrocytes", "Schwann cells", "Ependymal cells"],
+      "correctAnswer": "Schwann cells",
+      "explanation": "Myelination of peripheral axons occurs via the neurolemma, which comes from Schwann cells (which come from neural crest cells).",
+      "references": ["52"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "Which type of cells are responsible for the myelination of CNS axons?",
+      "options": ["Schwann cells", "Microglia", "Oligodendrocytes", "Satellite cells"],
+      "correctAnswer": "Oligodendrocytes",
+      "explanation": "Myelination of CNS axons occurs via oligodendrocytes, which are neuroepithelium derivatives.",
+      "references": ["52"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "The tough and durable Dura mater, one of the three membranous layers covering the CNS, is derived from which embryonic tissue?",
+      "options": ["Neural crest", "Ectoderm", "Surrounding mesenchyme", "Endoderm"],
+      "correctAnswer": "Surrounding mesenchyme",
+      "explanation": "The Dura mater is derived from surrounding mesenchyme and is tough and durable.",
+      "references": ["52"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "type": "standard",
+      "questionText": "Both the Arachnoid mater and Pia mater are derived from which embryonic cell population?",
+      "options": ["Notochord", "Neural tube", "Neural crest", "Mesoderm"],
+      "correctAnswer": "Neural crest",
+      "explanation": "The Arachnoid mater and Pia mater are derived from neural crest.",
+      "references": ["52"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "type": "standard",
+      "questionText": "Development of the central nervous system continues after birth and involves the elimination of unused synapses. What is this process called?",
+      "options": ["Neurogenesis", "Synaptic proliferation", "Synaptic pruning", "Myelination"],
+      "correctAnswer": "Synaptic pruning",
+      "explanation": "Only synapses and pathways that are used survive into adulthood; the process of synaptic pruning allows unused synapses to be eliminated.",
+      "references": ["20", "41"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "type": "standard",
+      "questionText": "The pituitary gland has two origins. Which part is an outgrowth of the hypothalamus and has a direct connection?",
+      "options": ["Anterior pituitary", "Posterior pituitary", "Hypophyseal portal system", "Pineal gland"],
+      "correctAnswer": "Posterior pituitary",
+      "explanation": "The posterior pituitary is an outgrowth of the hypothalamus and, therefore, has a direct connection.",
+      "references": ["54"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "type": "standard",
+      "questionText": "What term describes any external factor that can influence the growth of the embryo, with embryos being highly susceptible between weeks 3 and 8?",
+      "options": ["Mutation", "Dysgenesis", "Teratogenesis", "Malformation"],
+      "correctAnswer": "Teratogenesis",
+      "explanation": "Teratogenesis is defined as any external factor that can influence the growth of the embryo. Embryos are highly susceptible and critical between weeks 3 and 8 because that is when organ systems develop.",
+      "references": ["55"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "type": "standard",
+      "questionText": "What is the term for the failure of fusion between symmetric halves of an anatomical structure, often resulting in spina bifida malformations?",
+      "options": ["Anencephaly", "Dysraphism", "Holoprosencephaly", "Encephalocele"],
+      "correctAnswer": "Dysraphism",
+      "explanation": "Dysraphism is the failure of fusion between symmetric halves of an anatomical structure. These include, and are not limited to, spina bifida malformations.",
+      "references": ["55"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "type": "standard",
+      "questionText": "Anencephaly, a congenital absence of the brain or parts of the brain and cranium, occurs due to the failure of closure of which neural tube portion?",
+      "options": ["Caudal portion", "Lumbar portion", "Cranial portion", "Sacral portion"],
+      "correctAnswer": "Cranial portion",
+      "explanation": "Anencephaly occurs as a result of the failure of the cranial portion of neural tube closure.",
+      "references": ["82"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "37",
+      "type": "standard",
+      "questionText": "A rare neural tube defect where the brain protrudes through an abnormal opening of the cranium, with or without meninges, is known as:",
+      "options": ["Spina bifida cystica", "Holoprosencephaly", "Encephalocele", "Craniosynostosis"],
+      "correctAnswer": "Encephalocele",
+      "explanation": "Encephalocele is a rare NTD in which the brain protrudes through an abnormal opening of the cranium with or without the meninges, leaving a projection of a bag-like structure hanging on the head.",
+      "references": ["56", "67", "82"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "type": "standard",
+      "questionText": "What condition is characterized by the failure of facial features to form along the midline of the face, sometimes resulting in a single central incisor or cyclopia?",
+      "options": ["Anencephaly", "Encephalocele", "Holoprosencephaly", "Craniorachischisis totalis"],
+      "correctAnswer": "Holoprosencephaly",
+      "explanation": "Holoprosencephaly is the failure of features to form along the midline of the face, characterized by incomplete separation of both cerebral hemispheres. Features can include a single central incisor or cyclopia.",
+      "references": ["56", "70"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "type": "standard",
+      "questionText": "Which chromosomal abnormality is most commonly associated with holoprosencephaly?",
+      "options": ["Trisomy 21 (Down Syndrome)", "Trisomy 18 (Edward Syndrome)", "Trisomy 13 (Patau Syndrome)", "Turner Syndrome (XO)"],
+      "correctAnswer": "Trisomy 13 (Patau Syndrome)",
+      "explanation": "Chromosomal abnormalities such as Patau and Edward syndromes carry a higher risk for holoprosencephaly, with Patau syndrome (trisomy 13) being the most commonly associated.",
+      "references": ["70"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "40",
+      "type": "standard",
+      "questionText": "The complete failure of the entire neural plate to fold, leaving the CNS open to the amniotic cavity, results in what often still-born condition?",
+      "options": ["Anencephaly", "Spina bifida cystica", "Holoprosencephaly", "Craniorachischisis totalis"],
+      "correctAnswer": "Craniorachischisis totalis",
+      "explanation": "Craniorachischisis totalis is when the entire neural plate fails to fold, and the CNS is open to the amniotic cavity. These are often associated with still-born fetuses.",
+      "references": ["56"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "41",
+      "type": "standard",
+      "questionText": "Maternal folate deficiency is a well-recognized risk factor for which group of congenital malformations?",
+      "options": ["Holoprosencephaly", "Agenesis of Corpus Callosum", "Neural Tube Defects", "Septo-optical Dysplasia"],
+      "correctAnswer": "Neural Tube Defects",
+      "explanation": "Maternal folate deficiency may contribute to NTD development in genetically susceptible individuals. Routine prenatal folic acid supplementation has been effective in decreasing NTD prevalence.",
+      "references": ["69", "80", "83"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "42",
+      "type": "standard",
+      "questionText": "Which diagnostic test, usually performed between 14 and 20 weeks of gestation, involves sampling amniotic fluid to screen for fetal anomalies including CNS issues?",
+      "options": ["Non-invasive cell-free DNA test", "Amniocentesis", "Quad-screen test", "Anatomy sonogram"],
+      "correctAnswer": "Amniocentesis",
+      "explanation": "Amniocentesis, which is usually performed between 14 and 20 weeks, is the sampling of the amniotic fluid to screen for fetal anomalies.",
+      "references": ["54"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "43",
+      "type": "standard",
+      "questionText": "An elevated level of which hormone in amniotic fluid raises suspicion for anomalies of the CNS and ventral abdominal wall?",
+      "options": ["hCG", "Estriol", "Alpha-fetoprotein (AFP)", "Inhibin-A"],
+      "correctAnswer": "Alpha-fetoprotein (AFP)",
+      "explanation": "Alpha-fetoprotein (AFP) is a hormone that is elevated in amniotic fluid in anomalies of the CNS and ventral abdominal wall.",
+      "references": ["54", "83"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "44",
+      "type": "standard",
+      "questionText": "Abnormally high proliferation of neural cells can lead to which condition?",
+      "options": ["Microcephaly", "Lissencephaly", "Megalencephaly", "Heterotopia"],
+      "correctAnswer": "Megalencephaly",
+      "explanation": "An abnormally high proliferation of the neural cells can lead to megalencephaly.",
+      "references": ["66"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "45",
+      "type": "standard",
+      "questionText": "Decreased proliferation of neural cells can lead to which condition?",
+      "options": ["Megalencephaly", "Lissencephaly", "Microcephaly", "Polymicrogyria"],
+      "correctAnswer": "Microcephaly",
+      "explanation": "Decreased proliferation of neural cells leads to microcephaly.",
+      "references": ["66"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "46",
+      "type": "standard",
+      "questionText": "What condition is characterized by abnormally located nodules of neurons around the ventricles, resulting from a failure of neurons to migrate?",
+      "options": ["Lissencephaly", "Polymicrogyria", "Periventricular heterotopia", "Focal cortical dysplasia"],
+      "correctAnswer": "Periventricular heterotopia",
+      "explanation": "Periventricular heterotopia is a genetic disease due to a failure of neurons to migrate, leading to abnormally located nodules around the ventricles.",
+      "references": ["75"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "47",
+      "type": "standard",
+      "questionText": "Lissencephaly, a spectrum of abnormal development of cerebral gyri and sulci, primarily results from defects in which developmental process?",
+      "options": ["Neuronal proliferation", "Neuronal migration", "Post-migrational organization", "Synaptic pruning"],
+      "correctAnswer": "Neuronal migration",
+      "explanation": "Lissencephaly-pachygyria is a spectrum of abnormal development of the cerebral gyri and sulci resulting from the abnormal migration of neurons.",
+      "references": ["76"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "48",
+      "type": "standard",
+      "questionText": "Which term describes a partial development of cerebral gyri and sulci, representing a milder form within the lissencephaly-pachygyria spectrum?",
+      "options": ["Agyria", "Cobblestone malformation", "Pachygyria", "Polymicrogyria"],
+      "correctAnswer": "Pachygyria",
+      "explanation": "The term for a partial development of cerebral gyri and sulci is pachygyria, and complete absence is agyria. Pachygyria typically has milder symptoms compared to lissencephaly.",
+      "references": ["76"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "49",
+      "type": "standard",
+      "questionText": "Polymicrogyria is an abnormality of the cerebral cortex characterized by:",
+      "options": ["Complete absence of gyri", "Increased brain size", "Multiple small gyri", "Protrusion of brain tissue"],
+      "correctAnswer": "Multiple small gyri",
+      "explanation": "Polymicrogyria, as the name implies, is simply an abnormally formed cerebral cortex that has multiple small gyri.",
+      "references": ["77"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "50",
+      "type": "standard",
+      "questionText": "What is the most frequent cause of seizures not amenable to medications among cortical malformations?",
+      "options": ["Holoprosencephaly", "Agenesis of Corpus Callosum", "Focal cortical dysplasias", "Lissencephaly"],
+      "correctAnswer": "Focal cortical dysplasias",
+      "explanation": "Focal cortical dysplasias (FCDs) have been demonstrated to be the most frequent cause of seizures not amenable to medications.",
+      "references": ["78"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "51",
+      "type": "standard",
+      "questionText": "Which type of Focal Cortical Dysplasia (FCD) is considered mild, often observed in adults, and characterized by abnormal absence of cortical lamination?",
+      "options": ["Type I FCD", "Type II FCD", "Type III FCD", "Type IV FCD"],
+      "correctAnswer": "Type I FCD",
+      "explanation": "Type I FCD is an abnormal absence of cortical lamination. It is mild and more likely found in adults.",
+      "references": ["40", "78"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "52",
+      "type": "standard",
+      "questionText": "Mutations in genes controlling major molecular pathways like the PI3K/AKT-mTOR pathway have been implicated in which conditions?",
+      "options": ["Spina bifida occulta", "Meningocele", "Megalencephaly and Hemimegalencephaly", "Anencephaly"],
+      "correctAnswer": "Megalencephaly and Hemimegalencephaly",
+      "explanation": "Mutations in genes controlling major molecular pathways like the phosphatidylinositol 3-kinase (PI3K/AKT) have been implicated in Megalencephaly, and the PI3K/AKT-mTOR pathway in Hemimegalencephaly.",
+      "references": ["73", "74"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "53",
+      "type": "standard",
+      "questionText": "The central axis of the nervous system, running from the posterior to anterior ends of the neural tube (inferior tip of the spinal cord to the anterior surface of the cerebrum), is called the:",
+      "options": ["Cephalic flexure", "Neuraxis", "Primitive streak", "Notochord"],
+      "correctAnswer": "Neuraxis",
+      "explanation": "The neural tube establishes the anterior–posterior dimension of the nervous system, which is called the neuraxis.",
+      "references": ["104", "120"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "54",
+      "type": "standard",
+      "questionText": "What is the major curve between the brain stem and forebrain in humans, which results in the neuraxis ending in an anterior position?",
+      "options": ["Cervical flexure", "Pontine flexure", "Cephalic flexure", "Sacral flexure"],
+      "correctAnswer": "Cephalic flexure",
+      "explanation": "There is a major curve between the brain stem and forebrain, which is called the cephalic flexure.",
+      "references": ["104", "118"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "55",
+      "type": "standard",
+      "questionText": "The adult brain structure derived from the Telencephalon is the:",
+      "options": ["Diencephalon", "Brain stem", "Cerebellum", "Cerebrum"],
+      "correctAnswer": "Cerebrum",
+      "explanation": "The Telencephalon is the cerebrum, which is the major portion of the human brain.",
+      "references": ["105", "114", "122"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "56",
+      "type": "standard",
+      "questionText": "The Diencephalon, a region of the adult brain, is notably situated between:",
+      "options": ["Midbrain and Pons", "Cerebrum and the rest of the nervous system", "Cerebellum and Medulla", "Spinal cord and Brainstem"],
+      "correctAnswer": "Cerebrum and the rest of the nervous system",
+      "explanation": "The Diencephalon is between the cerebrum and the rest of the nervous system and can be described as the region through which all projections have to pass between the cerebrum and everything else.",
+      "references": ["105", "118"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "57",
+      "type": "standard",
+      "questionText": "Which structures collectively constitute the brain stem, developing from the Mesencephalon, Metencephalon, and Myelencephalon?",
+      "options": ["Cerebrum, Diencephalon, Cerebellum", "Midbrain, Pons, Medulla", "Thalamus, Hypothalamus, Epithalamus", "Cranial nerves, Spinal nerves, Ganglia"],
+      "correctAnswer": "Midbrain, Pons, Medulla",
+      "explanation": "The structures that come from the mesencephalon and rhombencephalon, except for the cerebellum, are collectively considered the brain stem, which specifically includes the midbrain, pons, and medulla.",
+      "references": ["100", "105", "118"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "58",
+      "type": "standard",
+      "questionText": "The open spaces within the CNS where cerebrospinal fluid circulates, representing the remnant of the hollow center of the neural tube, are called:",
+      "options": ["Cisterns", "Ventricles", "Sulci", "Gyri"],
+      "correctAnswer": "Ventricles",
+      "explanation": "Another aspect of the adult CNS structures that relates to embryonic development is the ventricles—open spaces within the CNS where cerebrospinal fluid circulates. They are the remnant of the hollow center of the neural tube.",
+      "references": ["107", "115"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "59",
+      "type": "standard",
+      "questionText": "The retina, which began as part of the diencephalon in embryonic development, is primarily connected to which adult brain structure?",
+      "options": ["Cerebrum", "Cerebellum", "Midbrain", "Diencephalon (thalamus and hypothalamus)"],
+      "correctAnswer": "Diencephalon (thalamus and hypothalamus)",
+      "explanation": "The retina, which began as part of the diencephalon, is primarily connected to the diencephalon (thalamus and hypothalamus).",
+      "references": ["99", "106", "122"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "60",
+      "type": "standard",
+      "questionText": "Which type of testing can be performed at 10 weeks of gestation to identify certain anomalies or diseases by testing cell-free DNA in the plasma of pregnant women?",
+      "options": ["Amniocentesis", "Anatomy sonogram", "Non-invasive testing", "Quad-screen test"],
+      "correctAnswer": "Non-invasive testing",
+      "explanation": "Non-invasive testing can be performed at 10 weeks of gestation to test for cell-free DNA in the plasma of pregnant women and helps identify certain anomalies or diseases.",
+      "references": ["54"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "61",
+      "type": "standard",
+      "questionText": "What are the three germinal layers that form the trilaminar embryonic disk?",
+      "options": ["Epidermis, Dermis, Hypodermis", "Notochord, Neural tube, Neural crest", "Endoderm, Mesoderm, Ectoderm", "Forebrain, Midbrain, Hindbrain"],
+      "correctAnswer": "Endoderm, Mesoderm, Ectoderm",
+      "explanation": "These three germinal layers form the trilaminar embryonic disk: Endoderm (innermost), Mesoderm (middle), and Ectoderm (outermost).",
+      "references": ["13", "34", "46", "94"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "62",
+      "type": "standard",
+      "questionText": "In the spinal cord, which side is associated with sensory functions?",
+      "options": ["Ventral side", "Anterior side", "Dorsal side", "Lateral side"],
+      "correctAnswer": "Dorsal side",
+      "explanation": "As the spinal cord develops, the dorsal tissues will be associated with sensory functions. In the spinal cord, the dorsal side receives sensory input.",
+      "references": ["104", "143", "145"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "63",
+      "type": "standard",
+      "questionText": "In the spinal cord, which side is associated with motor functions?",
+      "options": ["Dorsal side", "Posterior side", "Ventral side", "Superior side"],
+      "correctAnswer": "Ventral side",
+      "explanation": "As the spinal cord develops, the ventral tissues will be associated with motor functions. Motor signals issue from neurons in the ventral spinal cord to activate the muscles.",
+      "references": ["104", "143", "145"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "64",
+      "type": "standard",
+      "questionText": "The notochord defines several axes of the individual. Which of the following axes is NOT directly defined by the notochord?",
+      "options": ["Dorsal-ventral axis", "Anterior-posterior axis", "Left-right axis", "Superior-inferior axis of the limbs"],
+      "correctAnswer": "Superior-inferior axis of the limbs",
+      "explanation": "The notochord defines the dorsal-ventral, anterior-posterior, and left-right axes.",
+      "references": ["133"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "65",
+      "type": "standard",
+      "questionText": "What specific part of the mesoderm contains mostly somites, which give rise to the axial skeleton, dermis, and muscle?",
+      "options": ["Intermediate mesoderm", "Lateral plate mesoderm", "Paraxial mesoderm", "Visceral mesoderm"],
+      "correctAnswer": "Paraxial mesoderm",
+      "explanation": "The mesoderm is differentiated into 3 parts: Paraxial mesoderm (contains mostly somites which give rise to the axial skeleton, dermis, and muscle).",
+      "references": ["46"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "66",
+      "type": "standard",
+      "questionText": "Which primary brain vesicle forms the cerebral hemispheres, thalamus, hypothalamus, and retina?",
+      "options": ["Mesencephalon", "Rhombencephalon", "Prosencephalon", "Myelencephalon"],
+      "correctAnswer": "Prosencephalon",
+      "explanation": "The Prosencephalon (forebrain) forms the cerebral hemispheres, thalamus, hypothalamus, and retina.",
+      "references": ["141"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "67",
+      "type": "standard",
+      "questionText": "The cerebellum, known for balance and coordination of movement, is derived from which primary brain vesicle?",
+      "options": ["Prosencephalon", "Mesencephalon", "Rhombencephalon", "Telencephalon"],
+      "correctAnswer": "Rhombencephalon",
+      "explanation": "The Rhombencephalon (hindbrain) includes the cerebellum (for balance and coordination of movement).",
+      "references": ["141"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "68",
+      "type": "standard",
+      "questionText": "What layer of the developing spinal cord contains axons and will eventually form the white matter?",
+      "options": ["Ventricular layer", "Mantle layer", "Marginal layer", "Ependymal layer"],
+      "correctAnswer": "Marginal layer",
+      "explanation": "The spinal cord, formed from the neural plate, contains 3 layers: Ventricular, Mantle, and Marginal layer (contains axons, and will eventually form the white matter).",
+      "references": ["50"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "69",
+      "type": "standard",
+      "questionText": "Neural stem cells stay near the center of the neural tube, lining the inner cavity that will later be filled with cerebrospinal fluid. This cavity is called a:",
+      "options": ["Cortex", "Ganglion", "Ventricle", "Plexus"],
+      "correctAnswer": "Ventricle",
+      "explanation": "The neural stem cells stay near the center of the neural tube, lining the inner cavity that will later be filled with cerebrospinal fluid and called a ventricle.",
+      "references": ["148", "150"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "70",
+      "type": "standard",
+      "questionText": "In the cerebrum, dividing cells from the mantle layer migrate out to produce a third set of cell bodies at the outer surface of the brain, forming the first layer of the cerebral cortex. How many discrete layers will the cerebral cortex ultimately generate?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "correctAnswer": "Six",
+      "explanation": "These neurons form the first layer of the cerebral cortex, which will generate six discrete layers through additional cell division and migration.",
+      "references": ["149", "150"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "71",
+      "type": "standard",
+      "questionText": "The layers of the cerebral cortex form in an 'inside-out' manner, meaning:",
+      "options": ["Newer neurons migrate through existing ones to form outer layers", "Older neurons migrate to the periphery first", "Layers form randomly without specific order", "Only the innermost layer differentiates from stem cells"],
+      "correctAnswer": "Newer neurons migrate through existing ones to form outer layers",
+      "explanation": "The layers of the cerebral cortex form in an 'inside-out' manner. Those neurons that form the first group of cells dividing and migrating from the cortex travel the shortest distance. Those neurons formed next migrate through this first group to form the next layer.",
+      "references": ["151"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "72",
+      "type": "standard",
+      "questionText": "Which condition is characterized by a partial development or complete absence of the corpus callosum, the connecting structure between the two cerebral hemispheres?",
+      "options": ["Holoprosencephaly", "Septo-optical Dysplasia", "Agenesis of Corpus Callosum (ACC)", "Hemimegalencephaly"],
+      "correctAnswer": "Agenesis of Corpus Callosum (ACC)",
+      "explanation": "ACC is a partial development or complete absence of the corpus callosum, which is the connecting structure between the two cerebral hemispheres.",
+      "references": ["71"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "73",
+      "type": "standard",
+      "questionText": "Septo-optical Dysplasia is an abnormality of the forebrain comprised of a triad. Which of the following is NOT part of this triad?",
+      "options": ["Defect in septum pellucidum", "Hypoplasia of the optic nerve", "Pituitary insufficiency", "Megalencephaly"],
+      "correctAnswer": "Megalencephaly",
+      "explanation": "Septo-optical Dysplasia is comprised of the triad of a defect in the midline forebrain structures (septum pellucidum), hypoplasia of the optic nerve (cranial nerve II), and pituitary insufficiency.",
+      "references": ["72"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "74",
+      "type": "standard",
+      "questionText": "Megalencephaly is defined as an increased head size. To exclude familial megalencephaly and be clinically applicable, brain size should be greater than how many standard deviations above the mean?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctAnswer": "Three",
+      "explanation": "Clinically, it is more applicable to define megalencephaly as brain size greater than three standard deviations above the mean to exclude familial megalencephaly.",
+      "references": ["73"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "75",
+      "type": "standard",
+      "questionText": "Which condition involves a one-sided cerebral hemisphere enlargement, commonly associated with neurocutaneous syndromes?",
+      "options": ["Megalencephaly", "Holoprosencephaly", "Hemimegalencephaly", "Microcephaly"],
+      "correctAnswer": "Hemimegalencephaly",
+      "explanation": "Hemimegalencephaly is a one-sided cerebral hemisphere enlargement involving part of or the whole cerebral hemisphere. It is commonly seen in association with neurocutaneous syndromes.",
+      "references": ["74"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "76",
+      "type": "standard",
+      "questionText": "The common clinical manifestation of periventricular heterotopia is:",
+      "options": ["Hydrocephalus", "Intractable seizures", "Afebrile seizure", "Developmental delay"],
+      "correctAnswer": "Afebrile seizure",
+      "explanation": "The most common clinical manifestation of periventricular heterotopia is an afebrile seizure.",
+      "references": ["75"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "77",
+      "type": "standard",
+      "questionText": "The cobblestone lissencephaly malformation, a type of lissencephaly, is associated with the excessive migration of which cells into the leptomeninges?",
+      "options": ["Neuroblasts", "Glial cells", "Neural crest cells", "Ependymal cells"],
+      "correctAnswer": "Neural crest cells",
+      "explanation": "The cobblestone defect results from the combination of the excessive migration of neural crest cells into the leptomeninges and abnormalities in the surface of the cerebral pia layer.",
+      "references": ["76"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "78",
+      "type": "standard",
+      "questionText": "Schizencephaly, a rare brain malformation described as a split-brain or cleft traversing the brain pia mater to the ventricles, is generally classified as a subtype of:",
+      "options": ["Lissencephaly", "Polymicrogyria", "Focal Cortical Dysplasia", "Holoprosencephaly"],
+      "correctAnswer": "Polymicrogyria",
+      "explanation": "Schizencephaly generally classifies as a subtype of polymicrogyria.",
+      "references": ["77"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "79",
+      "type": "standard",
+      "questionText": "Which of the following describes Type II Focal Cortical Dysplasia (FCD)?",
+      "options": ["Abnormal absence of cortical lamination", "More clinically severe and observed in children", "Co-occurring with tumors or vascular malformations", "Mild and more likely in adults"],
+      "correctAnswer": "More clinically severe and observed in children",
+      "explanation": "In contrast to Type I, which is mild and more likely in adults, Type II FCD is more clinically severe and observed more in children.",
+      "references": ["41", "78"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "80",
+      "type": "standard",
+      "questionText": "Focal Cortical Dysplasia (FCD) Type III is classified based on its co-occurrence with other brain lesions. If hippocampus sclerosis is present, it is classified as:",
+      "options": ["IIIb", "IIIc", "IIId", "IIIa"],
+      "correctAnswer": "IIIa",
+      "explanation": "If hippocampus sclerosis is present, FCD Type III is classified as IIIa.",
+      "references": ["40", "79"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "81",
+      "type": "standard",
+      "questionText": "What process occurs when neuroderm cells differentiate into neurons and glial cells, which then migrate and form synapses?",
+      "options": ["Neurulation", "Synaptic pruning", "Neurogenesis", "Organogenesis"],
+      "correctAnswer": "Neurogenesis",
+      "explanation": "Neuroderm cells begin to differentiate into neurones and glial cells. Neurones migrate throughout the brain, and once they have reached their final destination they develop axons and dendrites, forming synapses. The creation of new neurons is part of neurogenesis, though the source does not use the exact word 'neurogenesis' in this context but describes the process.",
+      "references": ["18", "39"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "82",
+      "type": "standard",
+      "questionText": "The development of the nervous system begins with a portion of the ectoderm differentiating into a specialized region known as:",
+      "options": ["Endoderm", "Mesoderm", "Neuroectoderm", "Neural tube"],
+      "correctAnswer": "Neuroectoderm",
+      "explanation": "As the embryo develops, a portion of the ectoderm differentiates into a specialized region of neuroectoderm, which is the precursor for the tissue of the nervous system.",
+      "references": ["95", "113"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "83",
+      "type": "standard",
+      "questionText": "The neural plate forms a neural groove, visible as a line along which surface of the embryo?",
+      "options": ["Ventral surface", "Lateral surface", "Anterior surface", "Dorsal surface"],
+      "correctAnswer": "Dorsal surface",
+      "explanation": "A neural groove forms, visible as a line along the dorsal surface of the embryo.",
+      "references": ["95", "120"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "84",
+      "type": "standard",
+      "questionText": "What is the ridge-like edge on either side of the neural groove referred to as?",
+      "options": ["Neural tube", "Neural crest", "Neural plate", "Neural fold"],
+      "correctAnswer": "Neural fold",
+      "explanation": "The ridge-like edge on either side of the neural groove is referred as the neural fold.",
+      "references": ["95", "120"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "85",
+      "type": "standard",
+      "questionText": "Which part of the neural tube develops into the brain, starting at 25 days?",
+      "options": ["Posterior portion", "Caudal end", "Anterior end", "Middle segment"],
+      "correctAnswer": "Anterior end",
+      "explanation": "Beginning at 25 days, the anterior end develops into the brain, and the posterior portion becomes the spinal cord.",
+      "references": ["97"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "86",
+      "type": "standard",
+      "questionText": "The adult structure known as the pons develops from which secondary vesicle?",
+      "options": ["Telencephalon", "Diencephalon", "Metencephalon", "Myelencephalon"],
+      "correctAnswer": "Metencephalon",
+      "explanation": "The Metencephalon corresponds to the adult structure known as the pons.",
+      "references": ["100", "119"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "87",
+      "type": "standard",
+      "questionText": "The cerebellum accounts for approximately what percentage of the mass of the brain?",
+      "options": ["5 percent", "10 percent", "15 percent", "20 percent"],
+      "correctAnswer": "10 percent",
+      "explanation": "The cerebellum accounts for about 10 percent of the mass of the brain.",
+      "references": ["100"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "88",
+      "type": "standard",
+      "questionText": "The primary vesicles establish the basic regions of the nervous system as:",
+      "options": ["Cerebrum, Cerebellum, Brainstem", "Telencephalon, Diencephalon, Mesencephalon", "Forebrain, Midbrain, Hindbrain", "Spinal Cord, Brain, Cranial Nerves"],
+      "correctAnswer": "Forebrain, Midbrain, Hindbrain",
+      "explanation": "The primary vesicles help to establish the basic regions of the nervous system: forebrain, midbrain, and hindbrain.",
+      "references": ["105", "114", "121"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "89",
+      "type": "standard",
+      "questionText": "The anterior neural tube develops into which three primary vesicles first?",
+      "options": ["Telencephalon, Diencephalon, Mesencephalon", "Prosencephalon, Mesencephalon, Rhombencephalon", "Metencephalon, Myelencephalon, Cerebellum", "Cerebrum, Thalamus, Midbrain"],
+      "correctAnswer": "Prosencephalon, Mesencephalon, Rhombencephalon",
+      "explanation": "The anterior end of the neural tube undergoes enlargements, producing three primary vesicles: Prosencephalon, Mesencephalon, and Rhombencephalon.",
+      "references": ["97", "98", "121", "141"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "90",
+      "type": "standard",
+      "questionText": "Which type of spina bifida typically requires surgery to close the opening or remove the cyst, and involves meninges protruding through the spinal column without direct nerve involvement, but may lead to complications?",
+      "options": ["Spina bifida occulta", "Meningocele", "Myelomeningocele", "Spina bifida aperta"],
+      "correctAnswer": "Meningocele",
+      "explanation": "Meningocele means that the meninges protrude through the spinal column but nerves may not be involved and few symptoms are present, though complications may arise later in life. Often surgery to close the opening or to remove the cyst is necessary.",
+      "references": ["109", "110"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "91",
+      "type": "standard",
+      "questionText": "Which protein is secreted by the notochord to influence the neural tube directly above it to become the ventral motor region of the spinal cord?",
+      "options": ["Folic acid", "Growth factors", "Extracellular matrix proteins", "Specific signaling proteins"],
+      "correctAnswer": "Specific signaling proteins",
+      "explanation": "Proteins released by cells in the notochord influence the neural tube directly above it to become the ventral motor region of the spinal cord.",
+      "references": ["144", "145"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "92",
+      "type": "standard",
+      "questionText": "The initial flat disc of cells in the early vertebrate embryo transforms in three dimensions through a movement called gastrulation, which occurs in the region called the:",
+      "options": ["Neural plate", "Primitive streak", "Notochord", "Neural groove"],
+      "correctAnswer": "Primitive streak",
+      "explanation": "Gastrulation is a cell movement that takes place in the region called the primitive streak.",
+      "references": ["131"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "93",
+      "type": "standard",
+      "questionText": "Hans Spemann's experiments with salamander embryos demonstrated that the specification of the nervous system took place at what stage?",
+      "options": ["Zygote formation", "Primitive streak formation", "Gastrulation", "Neurulation"],
+      "correctAnswer": "Gastrulation",
+      "explanation": "In the early 1900s, Hans Spemann showed that the specification of the nervous system took place at gastrulation.",
+      "references": ["134"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "94",
+      "type": "standard",
+      "questionText": "Spemann's experiment, where an 'organizer' region from one salamander embryo was grafted into another, resulted in the formation of:",
+      "options": ["A larger single embryo", "Conjoined twin salamanders", "An embryo with no nervous system", "An embryo with an underdeveloped notochord"],
+      "correctAnswer": "Conjoined twin salamanders",
+      "explanation": "Spemann and his student Hilde Mangold's experiment showed that the embryo with the organizer graft developed two anterior-posterior axes, resulting in conjoined twin salamanders.",
+      "references": ["135"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "95",
+      "type": "standard",
+      "questionText": "The closure of the neural tube into a tube starts at which end of the embryo and zippers its way down?",
+      "options": ["Tail end", "Mid-trunk", "Head end", "Lumbar region"],
+      "correctAnswer": "Head end",
+      "explanation": "Its closure into a tube starts at the “top” or head end of the embryo, and zippers its way down toward the tail end.",
+      "references": ["136", "137"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "96",
+      "type": "standard",
+      "questionText": "The structure that connects the neural tube to the dorsal epidermis, and whose cells migrate away to form parts of the peripheral nervous system and other structures, is the:",
+      "options": ["Notochord", "Neural plate", "Neural crest", "Mantle layer"],
+      "correctAnswer": "Neural crest",
+      "explanation": "The stalk between the epidermis and neural tube forms the neural crest, a transient structure of cells that will migrate away, thereby creating separation between the neural tube and epidermis.",
+      "references": ["138"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "97",
+      "type": "standard",
+      "questionText": "Besides genetic factors, what two dietary factors are mentioned as crucial for the proper formation of the neural tube?",
+      "options": ["Vitamin C and Vitamin D", "Iron and Calcium", "Cholesterol and Folic Acid (Vitamin B9)", "Omega-3 and Zinc"],
+      "correctAnswer": "Cholesterol and Folic Acid (Vitamin B9)",
+      "explanation": "Numerous genes have to be active at the right time for the neural tube to form properly, and several dietary factors, such as cholesterol and folic acid (Vitamin B9), must be present as well.",
+      "references": ["139"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "98",
+      "type": "standard",
+      "questionText": "The anterior portion of the neural tube balloons into three primary vesicles. Which of these will form part of the brainstem and includes the tectum (for visual and auditory processing) and motor pathways of the basal ganglia?",
+      "options": ["Forebrain", "Hindbrain", "Midbrain", "Telencephalon"],
+      "correctAnswer": "Midbrain",
+      "explanation": "The midbrain forms part of the brainstem and includes the tectum (for visual and auditory processing) and the motor pathways of the basal ganglia. This corresponds to the Mesencephalon.",
+      "references": ["98", "141"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "99",
+      "type": "standard",
+      "questionText": "In the brain, the cerebellar cortex and cerebral cortex modify the early structure of stem cells, axons, and neural cell bodies. Which cells, more numerous than neurons, serve 'housekeeping' functions and are increasingly viewed as equal partners in nervous system computation?",
+      "options": ["Ependymal cells", "Microglia", "Glial cells", "Schwann cells"],
+      "correctAnswer": "Glial cells",
+      "explanation": "Glial cells, which are actually more numerous than neurons and have long been known to serve a number of “housekeeping” functions, are increasingly being viewed as equal partners in the computational functions of the nervous system.",
+      "references": ["148"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "100",
+      "type": "standard",
+      "questionText": "Adult stem cells lining the ventricles continue to divide, producing thousands of new neural precursor cells each day. These cells may be responsible for the regulation of:",
+      "options": ["Motor control", "Sensory perception", "New memories", "Autonomic functions"],
+      "correctAnswer": "New memories",
+      "explanation": "Scientists found that in adults there are stem cells lining the ventricles that continue to divide, producing thousands of new neural precursor cells each day. These adult stem cells have not been found in many locations, but the locations where they have been found suggest that they may, among other things, be responsible for the regulation of new memories.",
+      "references": ["151"],
+      "difficulty": "medium"
+    }
+  ]
+}

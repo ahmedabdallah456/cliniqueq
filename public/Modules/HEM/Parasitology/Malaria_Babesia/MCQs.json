@@ -1,0 +1,911 @@
+
+{
+"title": "Malaria & Babesiosis",
+"module": "HEM_INF",
+"subject": "Microbiology",
+"difficulty": "medium",
+"examTypes": ["USMLE", "PLAB", "Exit Exam", "Facility of Medicine of Nahda University"],
+"description": "Multiple Choice Questions covering key aspects of Malaria and Babesiosis based on provided source material.",
+"questions": [
+{
+"id": "1",
+"type": "standard",
+"questionText": "According to the sources, what is the general classification of Malaria?",
+"options": [
+"A viral disease",
+"A bacterial infection",
+"A serious parasitic disease",
+"A fungal infection"
+],
+"correctAnswer": "A serious parasitic disease",
+"explanation": "The sources describe Malaria as a serious parasitic disease.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "2",
+"type": "standard",
+"questionText": "Approximately how many acute cases of Malaria are estimated annually, according to the sources?",
+"options": [
+"50 million",
+"100 million",
+"250 million",
+"500 million"
+],
+"correctAnswer": "500 million",
+"explanation": "The sources state there are approximately 500 million acute cases of Malaria every year.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "3",
+"type": "standard",
+"questionText": "Which geographical regions are primarily affected by Malaria, as mentioned in the sources?",
+"options": [
+"Europe and North America",
+"Tropical and subtropical areas of Africa, Asia, and South America",
+"Australia and Oceania",
+"Antarctic and Arctic regions"
+],
+"correctAnswer": "Tropical and subtropical areas of Africa, Asia, and South America",
+"explanation": "Malaria is mostly found in tropical and subtropical areas of Africa, Asia, and South America.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "4",
+"type": "standard",
+"questionText": "What is the primary vector responsible for transmitting human Malaria?",
+"options": [
+"Aedes mosquito",
+"Culex mosquito",
+"Male Anopheles mosquito",
+"Female Anopheles mosquito"
+],
+"correctAnswer": "Female Anopheles mosquito",
+"explanation": "Human malaria is transmitted by the female anopheline mosquito.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "5",
+"type": "standard",
+"questionText": "Which of the following is NOT listed as one of the four types of *Plasmodium* species that cause human malaria in the sources?",
+"options": [
+"*Plasmodium vivax*",
+"*Plasmodium knowlesi*",
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*"
+],
+"correctAnswer": "*Plasmodium knowlesi*",
+"explanation": "The sources list *Plasmodium falciparum*, *malariae*, *ovale*, and *vivax* as the four types causing human malaria. *P. knowlesi* is not mentioned.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "6",
+"type": "standard",
+"questionText": "Which *Plasmodium* species is described as the predominant type in most parts of the world?",
+"options": [
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*",
+"*Plasmodium ovale*",
+"*Plasmodium vivax*"
+],
+"correctAnswer": "*Plasmodium vivax*",
+"explanation": "*Plasmodium vivax* is described as the predominant type in most parts.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "7",
+"type": "standard",
+"questionText": "Which *Plasmodium* species is associated with Quartan Malaria?",
+"options": [
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*",
+"*Plasmodium ovale*",
+"*Plasmodium vivax*"
+],
+"correctAnswer": "*Plasmodium malariae*",
+"explanation": "*Plasmodium malariae* is associated with Quartan Malaria.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "8",
+"type": "standard",
+"questionText": "Which *Plasmodium* species is associated with Subtertian or Malignant Malaria?",
+"options": [
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*",
+"*Plasmodium ovale*",
+"*Plasmodium vivax*"
+],
+"correctAnswer": "*Plasmodium falciparum*",
+"explanation": "*Plasmodium falciparum* is associated with Subtertian or Malignant Malaria.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "9",
+"type": "standard",
+"questionText": "Which of the following is considered the definitive host (DH) for the *Plasmodium* parasite?",
+"options": [
+"Man",
+"Mosquito",
+"Rodents",
+"Cattle"
+],
+"correctAnswer": "Mosquito",
+"explanation": "The Mosquito is described as the Definitive Host (DH) for the *Plasmodium* parasite, while Man is the Intermediate Host (IH).",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "10",
+"type": "standard",
+"questionText": "What is the infective stage of the *Plasmodium* parasite transmitted from the mosquito to humans?",
+"options": [
+"Merozoites",
+"Gametocytes",
+"Sporozoites",
+"Schizonts"
+],
+"correctAnswer": "Sporozoites",
+"explanation": "The infective stage transmitted by the mosquito bite is the sporozoite.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "11",
+"type": "standard",
+"questionText": "Where do *Plasmodium* sporozoites initially invade after entering the human bloodstream?",
+"options": [
+"Red blood cells",
+"Liver cells",
+"Brain cells",
+"Splenic cells"
+],
+"correctAnswer": "Liver cells",
+"explanation": "Sporozoites in the bloodstream invade the liver cells within 30 minutes.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "12",
+"type": "standard",
+"questionText": "What is the process of asexual reproduction in the liver called?",
+"options": [
+"Gametogony",
+"Sporogony",
+"Erythrocytic schizogony",
+"Exoerythrocytic schizogony"
+],
+"correctAnswer": "Exoerythrocytic schizogony",
+"explanation": "Asexual reproduction in the liver is referred to as exoerythrocytic schizogony.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "13",
+"type": "standard",
+"questionText": "Which form of the parasite in the liver can remain dormant and cause clinical relapse in *P. vivax* and *P. ovale* infections?",
+"options": [
+"Merozoite",
+"Sporozoite",
+"Hypnozoite",
+"Schizont"
+],
+"correctAnswer": "Hypnozoite",
+"explanation": "Dormant hypnozoites, formed from some *P. vivax* & *P. ovale* sporozoites in the liver, can reactivate and cause relapses.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "14",
+"type": "standard",
+"questionText": "What stage of the parasite initiates the erythrocytic phase by invading red blood cells?",
+"options": [
+"Sporozoite",
+"Hypnozoite",
+"Merozoite",
+"Gametocyte"
+],
+"correctAnswer": "Merozoite",
+"explanation": "Merozoites released from the liver schizonts invade new erythrocytes, starting the erythrocytic phase.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "15",
+"type": "standard",
+"questionText": "During the erythrocytic phase, what is the end product of incomplete haemoglobin metabolism by the parasite?",
+"options": [
+"Merozoites",
+"Malaria pigment (haemozoin)",
+"Sporozoites",
+"Hypnozoites"
+],
+"correctAnswer": "Malaria pigment (haemozoin)",
+"explanation": "As the parasite feeds during the erythrocytic phase, malaria pigment (haemozoin) is produced as an end product of incomplete haemoglobin metabolism.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "16",
+"type": "standard",
+"questionText": "In the human host, which stage of the parasite develops in red blood cells and makes the human infective to the mosquito vector?",
+"options": [
+"Ring forms",
+"Trophozoites",
+"Schizonts",
+"Gametocytes"
+],
+"correctAnswer": "Gametocytes",
+"explanation": "After a few cycles, some merozoites infecting RBCs develop into male and female gametocytes, making the human infective to mosquitoes.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "17",
+"type": "standard",
+"questionText": "Where does the sexual multiplication (sporogony) of the *Plasmodium* parasite occur?",
+"options": [
+"Human liver",
+"Human red blood cells",
+"Mosquito stomach wall",
+"Mosquito salivary glands"
+],
+"correctAnswer": "Mosquito stomach wall",
+"explanation": "Gametocytes develop into gametes which fuse to form zygotes that develop into oocysts just beneath the outer covering of the stomach wall of the vector. Sporogony occurs in the mosquito vector.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "18",
+"type": "standard",
+"questionText": "What stage of the *Plasmodium* parasite is found in the salivary glands of the mosquito, making it infective to humans?",
+"options": [
+"Gametocytes",
+"Oocysts",
+"Merozoites",
+"Sporozoites"
+],
+"correctAnswer": "Sporozoites",
+"explanation": "Sporozoites develop in the oocyst and find their way to the salivary gland of the mosquito, making it infective to man.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "19",
+"type": "standard",
+"questionText": "Which of the following is NOT listed as coinciding with Malaria paroxysms?",
+"options": [
+"Rupture of red blood cells",
+"Release of parasite metabolites",
+"Immunologic response",
+"Invasion of liver cells by sporozoites"
+],
+"correctAnswer": "Invasion of liver cells by sporozoites",
+"explanation": "Malaria paroxysms coincide with the rupture of RBCs, release of parasite metabolites (toxins), and immunologic response. Sporozoite invasion of liver cells occurs before the blood stage.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "20",
+"type": "standard",
+"questionText": "What is the typical periodicity of malaria paroxysms in *Plasmodium vivax* and *Plasmodium ovale* infections?",
+"options": [
+"Every 24 hours",
+"Every 48 hours (Tertian)",
+"Every 72 hours (Quartan)",
+"Every 36-48 hours (Subtertian)"
+],
+"correctAnswer": "Every 48 hours (Tertian)",
+"explanation": "Paroxysms in *P. vivax* and *P. ovale* are repeated every 48 hours, which is termed Tertian.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "21",
+"type": "standard",
+"questionText": "What is the typical periodicity of malaria paroxysms in *Plasmodium malariae* infections?",
+"options": [
+"Every 24 hours",
+"Every 48 hours (Tertian)",
+"Every 72 hours (Quartan)",
+"Every 36-48 hours (Subtertian)"
+],
+"correctAnswer": "Every 72 hours (Quartan)",
+"explanation": "Paroxysms in *P. malariae* are repeated every 72 hours, which is termed Quartan.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "22",
+"type": "standard",
+"questionText": "Recurrence of malaria attacks due to reactivation of hypnozoites is termed:",
+"options": [
+"Latency",
+"Recrudescence",
+"Relapse",
+"Termination"
+],
+"correctAnswer": "Relapse",
+"explanation": "Relapse is defined as the recurrence of attacks due to reactivation of hypnozoites. This occurs in *P. vivax* and *P. ovale*.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "23",
+"type": "standard",
+"questionText": "Recurrence of malaria attacks in patients with low-grade parasitaemia when they become debilitated is termed:",
+"options": [
+"Latency",
+"Recrudescence",
+"Relapse",
+"Termination"
+],
+"correctAnswer": "Recrudescence",
+"explanation": "Recrudescence is the recurrence of attacks in patients with low-grade parasitaemia when they become debilitated. This occurs in *P. malariae* and *P. falciparum*.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "24",
+"type": "standard",
+"questionText": "Which *Plasmodium* species primarily infects reticulocytes?",
+"options": [
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*",
+"*Plasmodium ovale* and *Plasmodium vivax*",
+"All species infect red cells of any age"
+],
+"correctAnswer": "*Plasmodium ovale* and *Plasmodium vivax*",
+"explanation": "*P. vivax* and *P. ovale* primarily infect Reticulocytes.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "25",
+"type": "standard",
+"questionText": "Which *Plasmodium* species is known to infect red blood cells of any age?",
+"options": [
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*",
+"*Plasmodium ovale*",
+"*Plasmodium vivax*"
+],
+"correctAnswer": "*Plasmodium falciparum*",
+"explanation": "*P. falciparum* infects Red cells of any age.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "26",
+"type": "standard",
+"questionText": "Which of the following is listed as a mechanism of anemia in Malaria?",
+"options": [
+"Increased red blood cell production in bone marrow",
+"Immune destruction of non-parasitised red blood cells",
+"Reduced clearance of red blood cells by the spleen",
+"Increased oxygen carrying capacity of blood"
+],
+"correctAnswer": "Immune destruction of non-parasitised red blood cells",
+"explanation": "Mechanisms of Anemia in Malaria include immune destruction of RBCs in some patients. Other mechanisms are destruction of parasitised RBCs, phagocytosis in spleen, and reduced bone marrow production.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "27",
+"type": "standard",
+"questionText": "Nephrotic syndrome is listed as a complication primarily associated with which *Plasmodium* species, due to immune complex deposition?",
+"options": [
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*",
+"*Plasmodium ovale*",
+"*Plasmodium vivax*"
+],
+"correctAnswer": "*Plasmodium malariae*",
+"explanation": "Nephrotic syndrome is mentioned as a complication due to immune complex deposition in *P. malariae* infection.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "28",
+"type": "standard",
+"questionText": "Which *Plasmodium* species is associated with malignant or pernicious malaria and a range of severe complications?",
+"options": [
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*",
+"*Plasmodium ovale*",
+"*Plasmodium vivax*"
+],
+"correctAnswer": "*Plasmodium falciparum*",
+"explanation": "*P. falciparum* is described as malignant (Pernicious) and associated with severe complications.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "29",
+"type": "standard",
+"questionText": "Black water fever, a severe complication of *P. falciparum* infection, is characterized by:",
+"options": [
+"Massive splenomegaly",
+"Dark red or black urine due to massive hemorrhage/autoimmune hemolysis",
+"Severe hypoglycemia",
+"Renal failure without hemoglobinuria"
+],
+"correctAnswer": "Dark red or black urine due to massive hemorrhage/autoimmune hemolysis",
+"explanation": "Black water fever is described as a malignant complication of *P. falciparum*, involving massive hemorrhage (autoimmune) leading to dark red or black urine.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "30",
+"type": "standard",
+"questionText": "The pathogenicity of *Plasmodium falciparum* is mainly due to cytoadherence and sequestration. What causes infected red blood cells to adhere to one another and capillary walls?",
+"options": [
+"Increased flexibility of red blood cells",
+"Development of knobs on the surface of parasitised red cells",
+"Release of toxins that make cells sticky",
+"Decreased haemoglobin content"
+],
+"correctAnswer": "Development of knobs on the surface of parasitised red cells",
+"explanation": "The pathogenicity of *P. falciparum* is mainly due to Cytoadherence, where parasitised red cells develop knobs on their surface, causing them to adhere.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "31",
+"type": "standard",
+"questionText": "Sequestration of parasitised red cells in the microcirculation in *P. falciparum* infection can lead to:",
+"options": [
+"Increased blood flow and oxygenation",
+"Congestion, hypoxia, occlusion and rupture of capillaries",
+"Reduced immune response",
+"Improved nutrient delivery to organs"
+],
+"correctAnswer": "Congestion, hypoxia, occlusion and rupture of capillaries",
+"explanation": "Sequestration of parasitised cells in the microcirculation causes congestion, hypoxia, occlusion and rupture of capillaries.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "32",
+"type": "standard",
+"questionText": "Which of the following is listed as a malignant complication of *P. falciparum* malaria?",
+"options": [
+"Benign tertian malaria",
+"Quartan malaria",
+"Cerebral Malaria",
+"Nephrotic syndrome"
+],
+"correctAnswer": "Cerebral Malaria",
+"explanation": "Cerebral Malaria is listed as a malignant (Pernicious) complication of *P. falciparum*. Benign tertian and Quartan refer to other species, and Nephrotic syndrome is linked to *P. malariae*.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "33",
+"type": "standard",
+"questionText": "In microscopic diagnosis of *Plasmodium falciparum*, which stages are typically found in peripheral blood?",
+"options": [
+"Ring forms, trophozoites, and schizonts",
+"Trophozoites and schizonts only",
+"Ring forms and gametocytes only",
+"Gametocytes and schizonts only"
+],
+"correctAnswer": "Ring forms and gametocytes only",
+"explanation": "In *P. falciparum*, only rings and gametocytes are typically found in peripheral blood, as trophozoites and schizonts are sequestrated in internal organs.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "34",
+"type": "standard",
+"questionText": "In microscopic diagnosis of *Plasmodium vivax*, *P. ovale*, and *P. malariae*, which erythrocytic stages can typically be detected in peripheral blood?",
+"options": [
+"Only ring forms",
+"Only ring forms and gametocytes",
+"Only trophozoites and schizonts",
+"All erythrocytic stages (rings, trophozoites, schizonts, and gametocytes)"
+],
+"correctAnswer": "All erythrocytic stages (rings, trophozoites, schizonts, and gametocytes)",
+"explanation": "In *P. vivax*, *P. ovale*, and *P. malariae*, all erythrocytic stages (rings, trophozoites, schizonts, and gametocytes) could be detected in peripheral blood.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "35",
+"type": "standard",
+"questionText": "Which diagnostic method for malaria involves concentrating parasite stages by centrifugation in a special blood capillary tube coated with fluorescent dye?",
+"options": [
+"Examination of thick blood films",
+"Malaria rapid diagnostic tests (RDTs)",
+"Fluorescence microscopy technique (QBC)",
+"PCR for parasite DNA"
+],
+"correctAnswer": "Fluorescence microscopy technique (QBC)",
+"explanation": "The fluorescence microscopy technique, Quantitative buffy coat (QBC), involves concentrating parasite stages using a special tube and fluorescent dye.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "36",
+"type": "standard",
+"questionText": "Malaria rapid diagnostic tests (RDTs) assist in diagnosis by detecting what in human blood?",
+"options": [
+"Parasite DNA or RNA",
+"Anti-Plasmodium antibodies",
+"Evidence of malaria parasites (antigens)",
+"Hypnozoites"
+],
+"correctAnswer": "Evidence of malaria parasites (antigens)",
+"explanation": "RDTs assist in the diagnosis of malaria by detecting evidence of malaria parasites (antigens) in human blood.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "37",
+"type": "standard",
+"questionText": "Drugs that destroy the blood stages of the *Plasmodium* parasite are called:",
+"options": [
+"Tissue Schizonticides",
+"Blood Schizonticides",
+"Blood Gametocyticides",
+"True Prophylactics"
+],
+"correctAnswer": "Blood Schizonticides",
+"explanation": "Drugs that destroy Blood stages are called Blood Schizonticides.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "38",
+"type": "standard",
+"questionText": "Which drug is listed as a blood schizonticidal drug used for the treatment of the clinical malaria attack?",
+"options": [
+"Primaquine",
+"Chloroquine",
+"Mefloquine",
+"All of the above"
+],
+"correctAnswer": "Chloroquine",
+"explanation": "Chloroquine is listed as a blood schizonticidal drug used for the treatment of the clinical attack. Artemisinin is also mentioned. Mefloquine is listed as a suppressant prophylactic and in ACT. Primaquine is a tissue schizonticidal and gametocyticidal.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "39",
+"type": "standard",
+"questionText": "Which drug is used for the radical treatment of *P. vivax* and *P. ovale* infections by acting on liver stages, including hypnozoites, to prevent relapses?",
+"options": [
+"Chloroquine",
+"Artemisinin",
+"Primaquine",
+"Quinine"
+],
+"correctAnswer": "Primaquine",
+"explanation": "Primaquine is used for radical treatment in *P. vivax* and *P. ovale* infections by acting on liver stages, including hypnozoites, to prevent relapses.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "40",
+"type": "standard",
+"questionText": "Primaquine is contraindicated in which patient populations according to the sources?",
+"options": [
+"Patients with hypertension",
+"Pregnant women and patients with G6PD deficiency",
+"Children under 5 years old",
+"Patients with liver disease"
+],
+"correctAnswer": "Pregnant women and patients with G6PD deficiency",
+"explanation": "Primaquine should not be given to pregnant women and patients with G6PD deficiency.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "41",
+"type": "standard",
+"questionText": "In case of chloroquine resistance, the WHO recommends the use of:",
+"options": [
+"Primaquine monotherapy",
+"High-dose Chloroquine",
+"Artemisinin based combination therapy (ACT)",
+"Exchange blood transfusion"
+],
+"correctAnswer": "Artemisinin based combination therapy (ACT)",
+"explanation": "In case of chloroquine resistance, the WHO recommends the use of Artimisinin based combination therapy (ACT).",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "42",
+"type": "standard",
+"questionText": "Chemoprophylaxis for travelers to endemic areas should ideally begin how long before travel, according to the sources?",
+"options": [
+"One day before",
+"One week before",
+"On the day of arrival",
+"After returning from the area"
+],
+"correctAnswer": "One week before",
+"explanation": "Chemoprophylaxis for travelers to endemic areas is given one week before travelling to endemic areas, during and for 4 weeks after leaving.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "43",
+"type": "standard",
+"questionText": "Which Plasmodium species is typically associated with enlarged parasitized red blood cells that are oval shaped?",
+"options": [
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*",
+"*Plasmodium ovale*",
+"*Plasmodium vivax*"
+],
+"correctAnswer": "*Plasmodium ovale*",
+"explanation": "*P. ovale* parasitizes RBCs that are Enlarged and Oval shaped.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "44",
+"type": "standard",
+"questionText": "Schuffner’s dots are stippling patterns typically seen in red blood cells infected with which Plasmodium species?",
+"options": [
+"*Plasmodium falciparum* and *P. malariae*",
+"*Plasmodium vivax* and *P. ovale*",
+"*Plasmodium malariae* and *P. ovale*",
+"*Plasmodium falciparum* and *P. vivax*"
+],
+"correctAnswer": "*Plasmodium vivax* and *P. ovale*",
+"explanation": "Schuffner’s dots (Fine Pink Dots) are seen in RBCs infected with *P. vivax* and *P. ovale*.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "45",
+"type": "standard",
+"questionText": "Maurer’s clefts are stippling patterns typically seen in red blood cells infected with which Plasmodium species?",
+"options": [
+"*Plasmodium falciparum*",
+"*Plasmodium malariae*",
+"*Plasmodium ovale*",
+"*Plasmodium vivax*"
+],
+"correctAnswer": "*Plasmodium falciparum*",
+"explanation": "Maurer dots (Irregular Red Clefts) are seen in RBCs infected with *P. falciparum*.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "46",
+"type": "standard",
+"questionText": "Which Plasmodium species is known for causing multiple ring forms in a single red blood cell?",
+"options": [
+"*Plasmodium vivax*",
+"*Plasmodium ovale*",
+"*Plasmodium malariae*",
+"*Plasmodium falciparum*"
+],
+"correctAnswer": "*Plasmodium falciparum*",
+"explanation": "Multiple infection (multiple rings per RBC) is Common in *P. falciparum*.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "47",
+"type": "standard",
+"questionText": "The trophozoite stage of *Plasmodium vivax* is described as:",
+"options": [
+"More compact and less vacuolated",
+"Amoeboid and highly vacuolated",
+"Band shaped",
+"Not seen in peripheral blood"
+],
+"correctAnswer": "Amoeboid and highly vacuolated",
+"explanation": "The trophozoite of *P. vivax* is described as Amoeboid and Highly vacuolated.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "48",
+"type": "standard",
+"questionText": "The schizont stage of *Plasmodium malariae* is often described as having a rosette shape and contains approximately how many merozoites?",
+"options": [
+"8 merozoites",
+"16 merozoites",
+"24 merozoites",
+"32 merozoites"
+],
+"correctAnswer": "8 merozoites",
+"explanation": "The schizont of *P. malariae* Fills the RBC and Contains 8 merozoites (Rosette Shape).",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "49",
+"type": "standard",
+"questionText": "What is the characteristic shape of the gametocytes of *Plasmodium falciparum*?",
+"options": [
+"Round",
+"Oval",
+"Rosette",
+"Crescent or banana shaped"
+],
+"correctAnswer": "Crescent or banana shaped",
+"explanation": "The gametocytes of *P. falciparum* are described as Crescent or banana shaped.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "50",
+"type": "standard",
+"questionText": "Compared to *P. vivax*, *P. ovale*, and *P. malariae*, the pigment in *P. falciparum* is described as:",
+"options": [
+"Fine",
+"Coarse",
+"Absent",
+"Variable"
+],
+"correctAnswer": "Coarse",
+"explanation": "The pigment in *P. falciparum*, *P. ovale*, and *P. malariae* is Coarse, while in *P. vivax* it is Fine.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "51",
+"type": "standard",
+"questionText": "Babesiosis is described as what type of disease?",
+"options": [
+"A bacterial infection",
+"A viral infection",
+"A fungal infection",
+"A Tick-borne zoonotic disease"
+],
+"correctAnswer": "A Tick-borne zoonotic disease",
+"explanation": "Babesiosis is described as a Tick-borne zoonotic disease.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "52",
+"type": "standard",
+"questionText": "Babesiosis is caused by intra-erythrocytic protozoan parasites of which genus?",
+"options": [
+"*Plasmodium*",
+"*Trypanosoma*",
+"*Leishmania*",
+"*Babesia*"
+],
+"correctAnswer": "*Babesia*",
+"explanation": "Babesiosis is caused by intra-erythrocytic protozoan parasites of the genus *Babesia*.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "53",
+"type": "standard",
+"questionText": "What is the vector responsible for transmitting Babesiosis to humans?",
+"options": [
+"Female Anopheles mosquito",
+"Sandfly",
+"Hard Tick",
+"Tsetse fly"
+],
+"correctAnswer": "Hard Tick",
+"explanation": "Babesiosis is a Tick-borne disease, and the vector is the Hard Tick.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "54",
+"type": "standard",
+"questionText": "Besides tick bite, which other mode of Babesiosis transmission is mentioned as occasionally occurring?",
+"options": [
+"Inhalation of aerosols",
+"Contaminated food",
+"Blood transfusion",
+"Sexual contact"
+],
+"correctAnswer": "Blood transfusion",
+"explanation": "Man is typically infected by tick bite, but occasionally, infection occurs through blood transfusion.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "55",
+"type": "standard",
+"questionText": "What are the diagnostic stages of *Babesia* typically observed in stained blood films?",
+"options": [
+"Sporozoites and merozoites",
+"Trophozoites and schizonts with pigment",
+"Ring forms and Maltese cross forms with no pigment",
+"Gametocytes"
+],
+"correctAnswer": "Ring forms and Maltese cross forms with no pigment",
+"explanation": "Babesia typically appears as ring forms and the 'Maltese cross form' in infected erythrocytes, and there is no pigment. These are the diagnostic stages.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "56",
+"type": "standard",
+"questionText": "Which microscopic feature of *Babesia* distinguishes it from *P. falciparum* rings, besides the absence of pigment?",
+"options": [
+"Larger size of rings",
+"Presence of band-shaped forms",
+"Merozoites remaining in close proximity forming a 'Maltese cross'",
+"Amoeboid trophozoites"
+],
+"correctAnswer": "Merozoites remaining in close proximity forming a 'Maltese cross'",
+"explanation": "*Babesia* divide by binary fission yielding 2-4 merozoites that remain in close proximity, described as the 'Maltese cross form'. *Babesia* rings may be mistaken for *P. falciparum*, but lack pigment.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "57",
+"type": "standard",
+"questionText": "Severe Babesiosis infection often occurs in which patient population?",
+"options": [
+"Healthy young adults",
+"Patients over 50 years of age and immunocompromised individuals",
+"Children under 10 years old",
+"Patients with mild anemia"
+],
+"correctAnswer": "Patients over 50 years of age and immunocompromised individuals",
+"explanation": "Severe Babesiosis requires hospitalization and often occurs in patients over 50 years of age and in people immunocompromised (e.g., splenectomy, malignancy, HIV).",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "58",
+"type": "standard",
+"questionText": "Which of the following is listed as a manifestation of severe Babesiosis?",
+"options": [
+"Mild splenomegaly",
+"Fever below 38°C",
+"Severe anaemia and jaundice",
+"Productive cough"
+],
+"correctAnswer": "Severe anaemia and jaundice",
+"explanation": "Most common manifestations of severe illness include severe anaemia, jaundice, fever above 40°C, chills, pulmonary edema, congestive heart failure, intravascular hemolysis, and renal failure. Mild/moderate infection might have mild splenomegaly and non-productive cough.",
+"references": "",
+"difficulty": "medium"
+},
+{
+"id": "59",
+"type": "standard",
+"questionText": "What combination of drugs is typically used to treat Babesiosis?",
+"options": [
+"Chloroquine and Primaquine",
+"Artemisinin and Mefloquine",
+"Clindamycin and Quinine",
+"Sulfadoxine and Pyrimethamine"
+],
+"correctAnswer": "Clindamycin and Quinine",
+"explanation": "A combination of clindamycin and quinine, 3 times daily orally for 7 to 10 days, is used for Babesiosis treatment.",
+"references": "",
+"difficulty": "easy"
+},
+{
+"id": "60",
+"type": "standard",
+"questionText": "Besides treating patients, which measure is listed for the prevention and control of Babesiosis?",
+"options": [
+"Vaccination for humans",
+"Mosquito control",
+"Screening of blood donors",
+"Mass drug administration"
+],
+"correctAnswer": "Screening of blood donors",
+"explanation": "Prevention and Control methods for Babesiosis listed include treatment of patients, treatment and immunization of farm animals, control of ticks, and screening of blood donors.",
+"references": "",
+"difficulty": "easy"
+}
+]
+}

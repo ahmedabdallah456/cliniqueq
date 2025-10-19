@@ -1,0 +1,310 @@
+{
+  "title": "Brain Stem Anatomy",
+  "module": "CNS",
+  "subject": "Anatomy",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB", "Nahda University"],
+  "description": "Questions on the external structure and features of the brain stem, including the medulla oblongata, pons, and midbrain",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "What is the length of the medulla oblongata?",
+      "options": ["1 cm", "2 cm", "3 cm", "4 cm"],
+      "correctAnswer": "3 cm",
+      "explanation": "The medulla oblongata is approximately 3 cm long, extending from the lower border of the pons to the spinal cord.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "Which part of the medulla oblongata forms part of the floor of the 4th ventricle?",
+      "options": ["Closed medulla", "Open medulla", "Lateral medulla", "Ventral medulla"],
+      "correctAnswer": "Open medulla",
+      "explanation": "The open medulla, which is the upper half, forms part of the floor of the 4th ventricle.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "What structure on the ventrolateral surface of the medulla is produced by the corticospinal tract?",
+      "options": ["Olive", "Pyramid", "Inferior cerebellar peduncle", "Anterior median fissure"],
+      "correctAnswer": "Pyramid",
+      "explanation": "The pyramid is an elongated elevation on the ventrolateral surface caused by the corticospinal tract.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "Which cranial nerve exits through the anterolateral sulcus of the medulla?",
+      "options": ["Glossopharyngeal", "Vagus", "Hypoglossal", "Accessory"],
+      "correctAnswer": "Hypoglossal",
+      "explanation": "The hypoglossal nerve exits via the anterolateral sulcus, separating the pyramid from the olive.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "What overlies the dorsal nucleus of the vagus nerve on the dorsal surface of the open medulla?",
+      "options": ["Hypoglossal trigone", "Vagal trigone", "Vestibular area", "Inferior fovea"],
+      "correctAnswer": "Vagal trigone",
+      "explanation": "The vagal trigone overlies the dorsal nucleus of the vagus nerve in the floor of the 4th ventricle.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "Which structure is found on the dorsal surface of the closed medulla, overlying the gracile nucleus?",
+      "options": ["Cuneate tubercle", "Gracile tubercle", "Inferior cerebellar peduncle", "Posterior median sulcus"],
+      "correctAnswer": "Gracile tubercle",
+      "explanation": "The gracile tubercle overlies the gracile nucleus on the dorsal surface of the closed medulla.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "The pons is divided into which two main parts?",
+      "options": ["Tectum and tegmentum", "Basis pontis and tegmentum", "Cerebral peduncle and tectum", "Open and closed parts"],
+      "correctAnswer": "Basis pontis and tegmentum",
+      "explanation": "The pons consists of a ventral basis pontis and a dorsal tegmentum.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "What lodges in the basilar groove on the ventral surface of the pons?",
+      "options": ["Vertebral artery", "Basilar artery", "Posterior cerebral artery", "Anterior inferior cerebellar artery"],
+      "correctAnswer": "Basilar artery",
+      "explanation": "The basilar groove on the ventral pons houses the basilar artery.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "Which cranial nerve emerges from the cerebellopontine angle?",
+      "options": ["Trigeminal", "Abducent", "Facial and vestibulocochlear", "Oculomotor"],
+      "correctAnswer": "Facial and vestibulocochlear",
+      "explanation": "The facial (VII) and vestibulocochlear (VIII) nerves exit at the cerebellopontine angle.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "What is produced by the abducent nucleus and encircling facial nerve fibers on the dorsal pons?",
+      "options": ["Medial eminence", "Facial colliculus", "Sulcus limitans", "Vestibular area"],
+      "correctAnswer": "Facial colliculus",
+      "explanation": "The facial colliculus is formed by the abducent nucleus and the looping facial nerve fibers.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "The midbrain is continuous with which structure superiorly?",
+      "options": ["Pons", "Medulla oblongata", "Diencephalon", "Spinal cord"],
+      "correctAnswer": "Diencephalon",
+      "explanation": "The midbrain lies between the pons and the diencephalon, continuous with the latter above.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "What divides the midbrain into cerebral peduncle and tectum?",
+      "options": ["4th ventricle", "Central canal", "Cerebral aqueduct", "Medullary stria"],
+      "correctAnswer": "Cerebral aqueduct",
+      "explanation": "The cerebral aqueduct of Sylvius separates the anterior cerebral peduncle from the posterior tectum.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "Which cranial nerve emerges medial to the cerebral peduncle on the ventral midbrain?",
+      "options": ["Trochlear", "Oculomotor", "Trigeminal", "Abducent"],
+      "correctAnswer": "Oculomotor",
+      "explanation": "The oculomotor nerve (III) exits medial to the cerebral peduncle on the ventral surface.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "The four colliculi on the posterior midbrain are also known as?",
+      "options": ["Corpora quadrigemina", "Cerebral peduncles", "Brachia", "Tectum"],
+      "correctAnswer": "Corpora quadrigemina",
+      "explanation": "The four colliculi (two superior and two inferior) are collectively called corpora quadrigemina.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Which colliculi overlie visual reflex centers?",
+      "options": ["Inferior colliculi", "Superior colliculi", "Medial colliculi", "Lateral colliculi"],
+      "correctAnswer": "Superior colliculi",
+      "explanation": "The superior colliculi are associated with visual reflex centers.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "The trochlear nerve emerges from which aspect of the brain stem?",
+      "options": ["Ventral", "Lateral", "Dorsal", "Medial"],
+      "correctAnswer": "Dorsal",
+      "explanation": "The trochlear nerve (IV) is the only cranial nerve emerging from the dorsal aspect, below the inferior colliculi.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "What connects the superior colliculus to the lateral geniculate body?",
+      "options": ["Inferior brachium", "Superior brachium", "Middle cerebellar peduncle", "Inferior cerebellar peduncle"],
+      "correctAnswer": "Superior brachium",
+      "explanation": "The superior brachium links the superior colliculus with the lateral geniculate body.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "Which sulcus separates the pyramid from the olive in the medulla?",
+      "options": ["Posterolateral sulcus", "Anterolateral sulcus", "Posterior median sulcus", "Sulcus limitans"],
+      "correctAnswer": "Anterolateral sulcus",
+      "explanation": "The anterolateral sulcus separates the pyramid from the olive and allows exit of the hypoglossal nerve.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "The inferior cerebellar peduncle connects the medulla to which structure?",
+      "options": ["Pons", "Midbrain", "Cerebellum", "Diencephalon"],
+      "correctAnswer": "Cerebellum",
+      "explanation": "The inferior cerebellar peduncle is a bundle of fibers linking the medulla to the cerebellum.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "What divides the medullary part of the 4th ventricle floor into three triangular areas?",
+      "options": ["Medullary stria", "Inferior fovea", "Sulcus limitans", "Facial colliculus"],
+      "correctAnswer": "Inferior fovea",
+      "explanation": "The inferior fovea divides the dorsal open medulla into hypoglossal trigone, vagal trigone, and vestibular area.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "The transverse pontine fibers collect to form which peduncle?",
+      "options": ["Superior cerebellar peduncle", "Middle cerebellar peduncle", "Inferior cerebellar peduncle", "Cerebral peduncle"],
+      "correctAnswer": "Middle cerebellar peduncle",
+      "explanation": "Transverse pontine fibers form the middle cerebellar peduncle, connecting pons to cerebellum.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "Which nerve consists of large sensory and small motor roots emerging from the pons?",
+      "options": ["Facial", "Trigeminal", "Abducent", "Vestibulocochlear"],
+      "correctAnswer": "Trigeminal",
+      "explanation": "The trigeminal nerve (V) has a large sensory root laterally and small motor root medially from the lateral upper pons.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "The dorsal surface of the pons is bounded laterally by which structures?",
+      "options": ["Inferior cerebellar peduncles", "Middle cerebellar peduncles", "Superior cerebellar peduncles", "Cerebral peduncles"],
+      "correctAnswer": "Superior cerebellar peduncles",
+      "explanation": "The dorsal pons is bounded on either side by the superior cerebellar peduncles.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "What overlies the superior and lateral vestibular nuclei on the dorsal pons?",
+      "options": ["Facial colliculus", "Medial eminence", "Vestibular area", "Sulcus limitans"],
+      "correctAnswer": "Vestibular area",
+      "explanation": "The vestibular area overlies the superior and lateral vestibular nuclei.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "The cerebral peduncles emerge from the upper surface of which structure?",
+      "options": ["Medulla", "Pons", "Diencephalon", "Cerebellum"],
+      "correctAnswer": "Pons",
+      "explanation": "The two cerebral peduncles emerge from the upper surface of the pons and ascend to the cerebral hemispheres.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "Which colliculi overlie lower auditory centers?",
+      "options": ["Superior colliculi", "Inferior colliculi", "Medial colliculi", "Lateral colliculi"],
+      "correctAnswer": "Inferior colliculi",
+      "explanation": "The inferior colliculi are associated with lower auditory centers.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "The superior cerebellar peduncles run along the sides of which ventricle?",
+      "options": ["Lateral ventricle", "Third ventricle", "Fourth ventricle", "Cerebral aqueduct"],
+      "correctAnswer": "Fourth ventricle",
+      "explanation": "The superior cerebellar peduncles extend downwards, backwards, and laterally along the sides of the 4th ventricle to the cerebellum.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "What connects the inferior colliculus to the medial geniculate body?",
+      "options": ["Superior brachium", "Inferior brachium", "Middle cerebellar peduncle", "Superior cerebellar peduncle"],
+      "correctAnswer": "Inferior brachium",
+      "explanation": "The inferior brachium links the inferior colliculus with the medial geniculate body.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "Which sulcus on the dorsal closed medulla is continuous with that of the spinal cord?",
+      "options": ["Anterior median fissure", "Posterolateral sulcus", "Posterior median sulcus", "Anterolateral sulcus"],
+      "correctAnswer": "Posterior median sulcus",
+      "explanation": "The posterior median sulcus on the dorsal closed medulla continues from the spinal cord.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "The abducent nerve exits from the sulcus between which two structures?",
+      "options": ["Olive and pyramid", "Pyramid and pons", "Pons and midbrain", "Midbrain and diencephalon"],
+      "correctAnswer": "Pyramid and pons",
+      "explanation": "The abducent nerve (VI) emerges from the sulcus between the pyramid and the pons.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    }
+  ]
+}

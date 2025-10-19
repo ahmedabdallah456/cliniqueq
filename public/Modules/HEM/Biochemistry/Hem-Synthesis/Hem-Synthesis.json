@@ -1,0 +1,910 @@
+{
+"title": "Heme Synthesis and Porphyria",
+"module": "HEM",
+"subject": "Biochemistry",
+"difficulty": "medium",
+"examTypes": ["USMLE", "PLAB", "Nahda Medicine"],
+"description": "Questions about the biosynthesis of heme, related disorders (porphyria), and factors affecting the pathway based on provided source materials.",
+"questions": [
+{
+"id": "1",
+"type": "standard",
+"questionText": "Which two molecules condense in the initial reaction of heme biosynthesis?",
+"options": [
+"ALA and PBG",
+"Glycine and Succinyl-CoA",
+"Porphobilinogen and Hydroxymethylbilane",
+"Protoporphyrin IX and Iron"
+],
+"correctAnswer": "Glycine and Succinyl-CoA",
+"explanation": "The initial reaction involves the condensation of glycine and succinyl-CoA to form -aminolevulinate (ALA).",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "2",
+"type": "standard",
+"questionText": "What is the primary enzyme that catalyzes the initial reaction of heme biosynthesis?",
+"options": [
+"ALA dehydratase",
+"Ferrochelatase",
+"Uroporphyrinogen I synthase",
+"-aminolevulinate synthase (ALA synthase)"
+],
+"correctAnswer": "-aminolevulinate synthase (ALA synthase)",
+"explanation": "The condensation of glycine and succinyl-CoA is catalyzed by -aminolevulinate synthase (ALA synthase).",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "3",
+"type": "standard",
+"questionText": "Where does the initial reaction of heme biosynthesis occur?",
+"options": [
+"Cytosol",
+"Endoplasmic Reticulum",
+"Mitochondria",
+"Golgi Apparatus"
+],
+"correctAnswer": "Mitochondria",
+"explanation": "The initial reaction in the formation of porphyrins occurs in mitochondria. This reaction is the formation of -aminolevulinate.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "4",
+"type": "standard",
+"questionText": "What coenzyme is required by -aminolevulinate synthase?",
+"options": [
+"Biotin",
+"Pyridoxal phosphate (PLP)",
+"FAD",
+"NAD+"
+],
+"correctAnswer": "Pyridoxal phosphate (PLP)",
+"explanation": "-aminolevulinate synthase needs pyridoxal phosphate (PLP) as a coenzyme.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "5",
+"type": "standard",
+"questionText": "Heme acts as an allosteric inhibitor for which enzyme in its synthesis pathway?",
+"options": [
+"ALA dehydratase",
+"Ferrochelatase",
+"ALA synthase",
+"Uroporphyrinogen decarboxylase"
+],
+"correctAnswer": "ALA synthase",
+"explanation": "-aminolevulinate synthase (ALA synthase) is allosterically inhibited by heme (end product feedback inhibition).",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "6",
+"type": "standard",
+"questionText": "Beyond allosteric inhibition, how else does heme regulate ALA synthase activity?",
+"options": [
+"By activating the enzyme",
+"By causing its degradation",
+"By repressing its synthesis",
+"By modifying its structure"
+],
+"correctAnswer": "By repressing its synthesis",
+"explanation": "Heme also represses the synthesis of -aminolevulinate synthase.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "7",
+"type": "standard",
+"questionText": "Which molecule is formed by the condensation of two molecules of -aminolevulinate?",
+"options": [
+"Hydroxymethylbilane",
+"Porphobilinogen (PBG)",
+"Uroporphyrinogen III",
+"Protoporphyrin IX"
+],
+"correctAnswer": "Porphobilinogen (PBG)",
+"explanation": "Two molecules of -aminolevulinate then condense to form porphobilinogen.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "8",
+"type": "standard",
+"questionText": "What enzyme catalyzes the condensation of two -aminolevulinate molecules to form porphobilinogen?",
+"options": [
+"ALA synthase",
+"Ferrochelatase",
+"ALA dehydratase (PBG synthase)",
+"Coproporphyrinogen oxidase"
+],
+"correctAnswer": "ALA dehydratase (PBG synthase)",
+"explanation": "This dehydration reaction is catalyzed by -aminolevulinate dehydratase (ALA dehydratase or PBG synthase).",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "9",
+"type": "standard",
+"questionText": "The formation of porphobilinogen from -aminolevulinate occurs in which cellular compartment?",
+"options": [
+"Mitochondria",
+"Nucleus",
+"Cytosol",
+"Endoplasmic Reticulum"
+],
+"correctAnswer": "Cytosol",
+"explanation": "Subsequent reactions after the initial step in the mitochondria occur in the cytosol, including the formation of porphobilinogen.",
+"references": ["", ""],
+"difficulty": "medium"
+},
+{
+"id": "10",
+"type": "standard",
+"questionText": "Which metal inhibits -aminolevulinate dehydratase?",
+"options": [
+"Iron",
+"Zinc",
+"Copper",
+"Lead"
+],
+"correctAnswer": "Lead",
+"explanation": "The enzyme -aminolevulinate dehydratase is sensitive to inhibition by lead in cases of lead poisoning.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "11",
+"type": "standard",
+"questionText": "How many molecules of porphobilinogen condense head-to-tail to form hydroxymethylbilane?",
+"options": [
+"Two",
+"Three",
+"Four",
+"Six"
+],
+"correctAnswer": "Four",
+"explanation": "Four porphobilinogens condense head-to-tail to form a linear tetrapyrrole (hydroxymethylbilane).",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "12",
+"type": "standard",
+"questionText": "What is the enzyme responsible for condensing four porphobilinogens into hydroxymethylbilane?",
+"options": [
+"ALA dehydratase",
+"Uroporphyrinogen I synthase (hydroxymethylbilane synthase)",
+"Uroporphyrinogen III synthase",
+"Ferrochelatase"
+],
+"correctAnswer": "Uroporphyrinogen I synthase (hydroxymethylbilane synthase)",
+"explanation": "Hydroxymethylbilane is formed by the enzyme uroporphyrinogen I synthase (also called hydroxymethylbilane synthase).",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "13",
+"type": "standard",
+"questionText": "Hydroxymethylbilane cyclizes to form uroporphyrinogen III in the presence of which enzyme?",
+"options": [
+"Uroporphyrinogen I synthase",
+"Uroporphyrinogen III synthase",
+"Uroporphyrinogen decarboxylase",
+"Coproporphyrinogen oxidase"
+],
+"correctAnswer": "Uroporphyrinogen III synthase",
+"explanation": "Hydroxymethylbilane cyclizes by removal of H2O to form uroporphyrinogen III, in the presence of uroporphyrinogen III synthase.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "14",
+"type": "standard",
+"questionText": "The conversion of uroporphyrinogen III to coproporphyrinogen III involves the decarboxylation of which side chains?",
+"options": [
+"Vinyl side chains",
+"Methyl side chains",
+"Propionate side chains",
+"Acetate side chains"
+],
+"correctAnswer": "Acetate side chains",
+"explanation": "Coproporphyrinogen III is formed by decarboxylation of the four acetate side chains (A) (by uroporphyrinogen decarboxylase) to form four methyl groups (M).",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "15",
+"type": "standard",
+"questionText": "What enzyme catalyzes the conversion of uroporphyrinogen III to coproporphyrinogen III?",
+"options": [
+"Uroporphyrinogen III synthase",
+"Coproporphyrinogen oxidase",
+"Uroporphyrinogen decarboxylase",
+"Protoporphyrinogen oxidase"
+],
+"correctAnswer": "Uroporphyrinogen decarboxylase",
+"explanation": "Coproporphyrinogen III is formed by decarboxylation of the four acetate side chains (A) by uroporphyrinogen decarboxylase.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "16",
+"type": "standard",
+"questionText": "The conversion of coproporphyrinogen III to protoporphyrinogen IX occurs in which cellular compartment?",
+"options": [
+"Cytosol",
+"Mitochondria",
+"Nucleus",
+"Endoplasmic Reticulum"
+],
+"correctAnswer": "Mitochondria",
+"explanation": "Subsequent reactions after the initial step and intermediate steps (in cytosol) occur in mitochondria, including the formation of protoporphyrinogen IX.",
+"references": ["", ""],
+"difficulty": "medium"
+},
+{
+"id": "17",
+"type": "standard",
+"questionText": "Which enzyme catalyzes the conversion of coproporphyrinogen III to protoporphyrinogen IX?",
+"options": [
+"Uroporphyrinogen decarboxylase",
+"Coproporphyrinogen oxidase",
+"Protoporphyrinogen oxidase",
+"Ferrochelatase"
+],
+"correctAnswer": "Coproporphyrinogen oxidase",
+"explanation": "Conversion of two of the propionate side chains into vinyl groups by coproporphyrinogen oxidase leads to formation of protoporphyrinogen IX.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "18",
+"type": "standard",
+"questionText": "The conversion of coproporphyrinogen III to protoporphyrinogen IX involves changing which side chains?",
+"options": [
+"Two acetate side chains to methyl groups",
+"Four acetate side chains to methyl groups",
+"Two propionate side chains to vinyl groups",
+"Four propionate side chains to vinyl groups"
+],
+"correctAnswer": "Two propionate side chains to vinyl groups",
+"explanation": "Conversion of two of the propionate side chains into vinyl groups by coproporphyrinogen oxidase leads to formation of protoporphyrinogen IX.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "19",
+"type": "standard",
+"questionText": "What enzyme oxidizes protoporphyrinogen IX to protoporphyrin IX?",
+"options": [
+"Coproporphyrinogen oxidase",
+"Ferrochelatase",
+"Protoporphyrinogen oxidase",
+"ALA synthase"
+],
+"correctAnswer": "Protoporphyrinogen oxidase",
+"explanation": "The oxidation of protoporphyrinogen to protoporphyrin IX is catalyzed by the mitochondrial enzyme, protoporphyrinogen oxidase.",
+"references": ["", ""],
+"difficulty": "medium"
+},
+{
+"id": "20",
+"type": "standard",
+"questionText": "The final step in heme synthesis involves the insertion of ferrous iron into which molecule?",
+"options": [
+"Porphobilinogen",
+"Hydroxymethylbilane",
+"Uroporphyrinogen III",
+"Protoporphyrin IX"
+],
+"correctAnswer": "Protoporphyrin IX",
+"explanation": "The insertion of the ferrous form of iron into the centre of the protoporphyrin ring is catalyzed by ferrochelatase (heme synthase) to form heme.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "21",
+"type": "standard",
+"questionText": "What is the enzyme that catalyzes the insertion of iron into protoporphyrin IX to form heme?",
+"options": [
+"ALA synthase",
+"Protoporphyrinogen oxidase",
+"Ferrochelatase (heme synthase)",
+"Uroporphyrinogen I synthase"
+],
+"correctAnswer": "Ferrochelatase (heme synthase)",
+"explanation": "The insertion of the ferrous form of iron into the centre of the protoporphyrin ring is catalyzed by ferrochelatase (heme synthase) to form heme.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "22",
+"type": "standard",
+"questionText": "The formation of heme from protoporphyrin IX and iron occurs in which cellular compartment?",
+"options": [
+"Cytosol",
+"Endoplasmic Reticulum",
+"Mitochondria",
+"Nucleus"
+],
+"correctAnswer": "Mitochondria",
+"explanation": "The last three steps in the formation of porphyrins occur in mitochondria. This includes the formation of protoporphyrinogen IX, protoporphyrin IX, and heme.",
+"references": ["", "", ""],
+"difficulty": "medium"
+},
+{
+"id": "23",
+"type": "standard",
+"questionText": "Which metal inhibits ferrochelatase?",
+"options": [
+"Iron",
+"Zinc",
+"Lead",
+"Copper"
+],
+"correctAnswer": "Lead",
+"explanation": "Ferrochelatase is inhibited by lead.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "24",
+"type": "standard",
+"questionText": "What is the ferrous form of protoporphyrin IX commonly known as?",
+"options": [
+"Porphobilinogen",
+"Uroporphyrinogen",
+"Heme",
+"Bilirubin"
+],
+"correctAnswer": "Heme",
+"explanation": "Heme is defined as Ferrous Protoporphyrin IX.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "25",
+"type": "standard",
+"questionText": "The major sites of heme biosynthesis are erythrocyte-producing cells of the bone marrow and what other tissue?",
+"options": [
+"Muscle",
+"Brain",
+"Kidney",
+"Liver"
+],
+"correctAnswer": "Liver",
+"explanation": "The major sites of heme biosynthesis are liver, which synthesizes a number of heme proteins (particularly, cytochrome P450), and erythrocyte-producing cells of the bone marrow, which are active in hemoglobin synthesis.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "26",
+"type": "standard",
+"questionText": "What type of proteins does the liver primarily synthesize heme for?",
+"options": [
+"Hemoglobin",
+"Cytochrome P450",
+"Myoglobin",
+"Catalase"
+],
+"correctAnswer": "Cytochrome P450",
+"explanation": "The liver synthesizes a number of heme proteins, particularly cytochrome P450.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "27",
+"type": "standard",
+"questionText": "What type of heme protein synthesis is active in the erythrocyte-producing cells of the bone marrow?",
+"options": [
+"Cytochrome P450",
+"Myoglobin",
+"Hemoglobin",
+"Catalase"
+],
+"correctAnswer": "Hemoglobin",
+"explanation": "Erythrocyte-producing cells of the bone marrow are active in hemoglobin synthesis.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "28",
+"type": "standard",
+"questionText": "Porphyria is a group of disorders caused by defects in the synthesis of which molecule?",
+"options": [
+"Globin",
+"Bilirubin",
+"Heme",
+"Iron"
+],
+"correctAnswer": "Heme",
+"explanation": "Porphyria is a group of disorders caused by inherited (or occasionally acquired) defects in heme synthesis.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "29",
+"type": "standard",
+"questionText": "What accumulates in the tissues in porphyria due to defects in heme synthesis?",
+"options": [
+"Excess heme",
+"Porphyrins or porphyrin precursors",
+"Iron deposits",
+"Excess globins"
+],
+"correctAnswer": "Porphyrins or porphyrin precursors",
+"explanation": "Defects in heme synthesis in porphyria result in the accumulation of porphyrins or porphyrin precursors in the tissues.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "30",
+"type": "standard",
+"questionText": "Which of the following is a water-soluble porphyrin precursor excreted in urine?",
+"options": [
+"Protoporphyrin",
+"Coproporphyrins III",
+"ALA",
+"Heme"
+],
+"correctAnswer": "ALA",
+"explanation": "Being water-soluble, ALA, PBG & uroporphyrinogen are excreted in urine.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "31",
+"type": "standard",
+"questionText": "Which of the following is a water-insoluble porphyrin excreted in stools?",
+"options": [
+"ALA",
+"PBG",
+"Protoporphyrin",
+"Uroporphyrinogen"
+],
+"correctAnswer": "Protoporphyrin",
+"explanation": "Being water-insoluble, protoporphyrin is excreted in stools.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "32",
+"type": "standard",
+"questionText": "Coproporphyrins III are described as moderately water-soluble. How are they excreted?",
+"options": [
+"Only in urine",
+"Only in stools",
+"Both in urine and stools",
+"Excreted through bile only"
+],
+"correctAnswer": "Both in urine and stools",
+"explanation": "Being moderately water-soluble, coproporphyrins III are excreted both in urine and stools.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "33",
+"type": "standard",
+"questionText": "Which are colorless: porphyrinogens or porphyrins?",
+"options": [
+"Porphyrinogens",
+"Porphyrins",
+"Both are colored",
+"Both are colorless"
+],
+"correctAnswer": "Porphyrinogens",
+"explanation": "The various porphyrinogens are colorless. They can undergo spontaneous oxidation... to the corresponding porphyrins which are all colored.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "34",
+"type": "standard",
+"questionText": "What causes porphyrinogens to become colored porphyrins?",
+"options": [
+"Reduction",
+"Hydration",
+"Spontaneous oxidation, especially in presence of light",
+"Binding with iron"
+],
+"correctAnswer": "Spontaneous oxidation, especially in presence of light",
+"explanation": "The various porphyrinogens are colorless. They can undergo spontaneous oxidation, especially in presence of light, to the corresponding porphyrins which are all colored.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "35",
+"type": "standard",
+"questionText": "Accumulation of which two precursors is primarily associated with neuropsychiatric manifestations in porphyria?",
+"options": [
+"Uroporphyrinogen and Coproporphyrinogen",
+"Protoporphyrinogen and Protoporphyrin",
+"ALA and PBG",
+"Heme and Iron"
+],
+"correctAnswer": "ALA and PBG",
+"explanation": "Neuropsychiatric manifestations are characterized by the accumulation of ALA or PBG.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "36",
+"type": "standard",
+"questionText": "ALA and PBG are described as neurotoxic. What is one mechanism mentioned for their toxicity?",
+"options": [
+"Increase Na/K ATPase activity",
+"Decrease ATPase activity in nerve cells",
+"Inhibit neurotransmitter release",
+"Damage myelin sheath"
+],
+"correctAnswer": "Decrease ATPase activity in nerve cells",
+"explanation": "ALA and PBG are neurotoxic (decrease ATPase activity in nerve cells).",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "37",
+"type": "standard",
+"questionText": "Accumulation of which class of molecules in the skin leads to photosensitivity in porphyria?",
+"options": [
+"ALA and PBG",
+"Porphyrinogens",
+"Porphyrins",
+"Succinyl-CoA"
+],
+"correctAnswer": "Porphyrins",
+"explanation": "Photosensitivity results from the accumulation of porphyrins in the skin.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "38",
+"type": "standard",
+"questionText": "Porphyrins accumulate in the skin and cause photosensitivity by absorbing light, particularly at which wavelength?",
+"options": [
+"280 nm",
+"340 nm",
+"400 nm",
+"550 nm"
+],
+"correctAnswer": "400 nm",
+"explanation": "Porphyrins absorb light, particularly of wavelength 400 nm.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "39",
+"type": "standard",
+"questionText": "Light absorption by porphyrins in the skin leads to the release of what damaging molecules?",
+"options": [
+"Protons",
+"Free radicals",
+"Metal ions",
+"Amino acids"
+],
+"correctAnswer": "Free radicals",
+"explanation": "Porphyrins absorb light... This activates porphyrins to release free radicals that cause damage to lysosomes.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "40",
+"type": "standard",
+"questionText": "Damage to which organelles by free radicals is implicated in skin cell destruction in photosensitivity?",
+"options": [
+"Mitochondria",
+"Endoplasmic reticulum",
+"Nucleus",
+"Lysosomes"
+],
+"correctAnswer": "Lysosomes",
+"explanation": "Porphyrins absorb light... This activates porphyrins to release free radicals that cause damage to lysosomes, leading to release of lysosomal enzymes, which destroy skin cells.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "41",
+"type": "standard",
+"questionText": "Porphyrias are classified as erythropoietic or hepatic based on the location of what?",
+"options": [
+"Accumulation of precursors",
+"Clinical manifestations",
+"Enzyme deficiency",
+"Mode of inheritance"
+],
+"correctAnswer": "Enzyme deficiency",
+"explanation": "The porphyrias are classified as erythropoietic or hepatic, depending on whether the enzyme deficiency occurs in the erythropoietic cells of the bone marrow or in the liver.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "42",
+"type": "standard",
+"questionText": "Which enzyme is deficient in Acute Intermittent Porphyria?",
+"options": [
+"ALA synthase",
+"Ferrochelatase",
+"Uroporphyrinogen I synthase",
+"Uroporphyrinogen decarboxylase"
+],
+"correctAnswer": "Uroporphyrinogen I synthase",
+"explanation": "Acute intermittent porphyria (hepatic) is linked to the enzyme Uroporphyrinogen I synthase.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "43",
+"type": "standard",
+"questionText": "Acute Intermittent Porphyria is classified as which type of porphyria?",
+"options": [
+"Erythropoietic",
+"Hepatic",
+"Cutaneous",
+"Neuropsychiatric"
+],
+"correctAnswer": "Hepatic",
+"explanation": "Acute intermittent porphyria is a hepatic porphyria.",
+"references": ["", ""],
+"difficulty": "easy"
+},
+{
+"id": "44",
+"type": "standard",
+"questionText": "Which symptoms are characteristic of Acute Intermittent Porphyria?",
+"options": [
+"Photosensitivity",
+"Joint pain and swelling",
+"Abdominal pain and neuropsychiatric signs",
+"Anemia and jaundice"
+],
+"correctAnswer": "Abdominal pain and neuropsychiatric signs",
+"explanation": "Major signs and symptoms of Acute Intermittent Porphyria include abdominal pain and neuropsychiatric signs and symptoms.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "45",
+"type": "standard",
+"questionText": "Laboratory findings in Acute Intermittent Porphyria include an increase of which substances in urine?",
+"options": [
+"Uroporphyrinogen",
+"Protoporphyrin IX",
+"ALA and PBG",
+"Coproporphyrins III"
+],
+"correctAnswer": "ALA and PBG",
+"explanation": "Laboratory results for Acute Intermittent Porphyria show an increase of urinary ALA and PBG.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "46",
+"type": "standard",
+"questionText": "Which enzyme deficiency causes Porphyria Cutanea Tarda?",
+"options": [
+"Ferrochelatase",
+"Uroporphyrinogen decarboxylase",
+"Coproporphyrinogen oxidase",
+"Uroporphyrinogen I synthase"
+],
+"correctAnswer": "Uroporphyrinogen decarboxylase",
+"explanation": "Porphyria cutanea tarda (hepatic) is linked to the enzyme Uroporphyrinogen decarboxylase.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "47",
+"type": "standard",
+"questionText": "Porphyria Cutanea Tarda is classified as which type of porphyria?",
+"options": [
+"Erythropoietic",
+"Hepatic",
+"Acute",
+"Neuropsychiatric"
+],
+"correctAnswer": "Hepatic",
+"explanation": "Porphyria cutanea tarda is a hepatic porphyria.",
+"references": ["", ""],
+"difficulty": "easy"
+},
+{
+"id": "48",
+"type": "standard",
+"questionText": "What is a major sign and symptom of Porphyria Cutanea Tarda?",
+"options": [
+"Abdominal pain",
+"Severe anemia",
+"Photosensitivity",
+"Skeletal muscle paralysis"
+],
+"correctAnswer": "Photosensitivity",
+"explanation": "Major signs and symptoms of Porphyria cutanea tarda include photosensitivity.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "49",
+"type": "standard",
+"questionText": "Laboratory findings in Porphyria Cutanea Tarda include an increase of which substance in urine?",
+"options": [
+"ALA and PBG",
+"Protoporphyrin IX",
+"Uroporphyrinogen",
+"Coproporphyrins III"
+],
+"correctAnswer": "Uroporphyrinogen",
+"explanation": "Laboratory results for Porphyria cutanea tarda show an increase of urinary uroporphyrinogen.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "50",
+"type": "standard",
+"questionText": "Which enzyme deficiency is associated with Protoporphyria?",
+"options": [
+"ALA synthase",
+"Ferrochelatase",
+"Protoporphyrinogen oxidase",
+"Uroporphyrinogen decarboxylase"
+],
+"correctAnswer": "Ferrochelatase",
+"explanation": "Protoporphyria (erythropoietic) is linked to the enzyme Ferrochelatase.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "51",
+"type": "standard",
+"questionText": "Protoporphyria is classified as which type of porphyria?",
+"options": [
+"Hepatic",
+"Acute",
+"Neuropsychiatric",
+"Erythropoietic"
+],
+"correctAnswer": "Erythropoietic",
+"explanation": "Protoporphyria is an erythropoietic porphyria.",
+"references": ["", ""],
+"difficulty": "easy"
+},
+{
+"id": "52",
+"type": "standard",
+"questionText": "What is a major symptom of Protoporphyria?",
+"options": [
+"Abdominal pain",
+"Skeletal muscle paralysis",
+"Photosensitivity",
+"Increased urinary ALA"
+],
+"correctAnswer": "Photosensitivity",
+"explanation": "Major signs and symptoms of Protoporphyria include photosensitivity.",
+"references": [""],
+"difficulty": "easy"
+},
+{
+"id": "53",
+"type": "standard",
+"questionText": "Laboratory findings in Protoporphyria include an increase of which substance in feces and red cells?",
+"options": [
+"ALA",
+"PBG",
+"Uroporphyrinogen",
+"Protoporphyrin IX"
+],
+"correctAnswer": "Protoporphyrin IX",
+"explanation": "Laboratory results for Protoporphyria show an increase of fecal and red cell protoporphyrin IX.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "54",
+"type": "standard",
+"questionText": "Which porphyria type is caused by a deficiency in Uroporphyrinogen III synthase?",
+"options": [
+"Acute Intermittent Porphyria",
+"Porphyria Cutanea Tarda",
+"Congenital Erythropoietic Porphyria",
+"Hereditary Coproporphyria"
+],
+"correctAnswer": "Congenital Erythropoietic Porphyria",
+"explanation": "Congenital erythropoietic porphyria is listed in the diagram as linked to Uroporphyrinogen III synthase and classified as erythropoietic.",
+"references": ["", ""],
+"difficulty": "medium"
+},
+{
+"id": "55",
+"type": "standard",
+"questionText": "Which porphyria type is caused by a deficiency in Coproporphyrinogen oxidase?",
+"options": [
+"Protoporphyria",
+"Variegate Porphyria",
+"Hereditary Coproporphyria",
+"Acute Intermittent Porphyria"
+],
+"correctAnswer": "Hereditary Coproporphyria",
+"explanation": "Hereditary coproporphyria is listed in the diagram as linked to Coproporphyrinogen oxidase and classified as hepatic.",
+"references": ["", ""],
+"difficulty": "medium"
+},
+{
+"id": "56",
+"type": "standard",
+"questionText": "Which porphyria type is caused by a deficiency in Protoporphyrinogen oxidase?",
+"options": [
+"Porphyria Cutanea Tarda",
+"Variegate Porphyria",
+"Protoporphyria",
+"Congenital Erythropoietic Porphyria"
+],
+"correctAnswer": "Variegate Porphyria",
+"explanation": "Variegate porphyria is listed in the diagram as linked to Protoporphyrinogen oxidase and classified as hepatic.",
+"references": ["", ""],
+"difficulty": "medium"
+},
+{
+"id": "57",
+"type": "standard",
+"questionText": "How do drugs like barbiturates and sulfonamides precipitate attacks of porphyria?",
+"options": [
+"By directly inhibiting heme synthesis enzymes",
+"By increasing heme levels, feedback inhibiting ALA synthase",
+"By inducing ALA synthase and/or cytochrome P450, increasing demand for heme and precursors",
+"By damaging liver cells, reducing heme synthesis"
+],
+"correctAnswer": "By inducing ALA synthase and/or cytochrome P450, increasing demand for heme and precursors",
+"explanation": "A large number of drugs (e.g., barbiturates, sulfonamides) induce the ALA synthase and/or induce cytochrome P450, which uses up heme. In patients with porphyria, increased activities of ALA synthase result in increased levels of potentially harmful heme precursors prior to the metabolic block. Thus, taking drugs that cause induction of cytochrome P450... can precipitate attacks of porphyria.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "58",
+"type": "standard",
+"questionText": "In patients with porphyria, increased activity of ALA synthase, often induced by drugs, leads to the accumulation of what?",
+"options": [
+"Heme",
+"Bilirubin",
+"Potentially harmful heme precursors",
+"Iron"
+],
+"correctAnswer": "Potentially harmful heme precursors",
+"explanation": "In patients with porphyria, increased activities of ALA synthase result in increased levels of potentially harmful heme precursors prior to the metabolic block.",
+"references": [""],
+"difficulty": "medium"
+},
+{
+"id": "59",
+"type": "standard",
+"questionText": "Lead poisoning can affect heme metabolism by inhibiting which enzymes?",
+"options": [
+"ALA synthase and Uroporphyrinogen I synthase",
+"Uroporphyrinogen decarboxylase and Coproporphyrinogen oxidase",
+"ALA dehydratase (PBG synthase) and Ferrochelatase",
+"Protoporphyrinogen oxidase and Uroporphyrinogen III synthase"
+],
+"correctAnswer": "ALA dehydratase (PBG synthase) and Ferrochelatase",
+"explanation": "High levels of lead can affect heme metabolism by combining with the SH groups in enzymes like ferrochelatase and ALA dehydratase. ALA dehydratase is also known as PBG synthase.",
+"references": ["", ""],
+"difficulty": "medium"
+},
+{
+"id": "60",
+"type": "standard",
+"questionText": "Which lab finding is characteristic of lead poisoning according to the sources?",
+"options": [
+"Elevated urinary PBG and uroporphyrinogen",
+"Elevated red cell protoporphyrin and urinary ALA and coproporphyrin",
+"Elevated urinary protoporphyrin IX and fecal ALA",
+"Decreased red cell protoporphyrin and urinary ALA"
+],
+"correctAnswer": "Elevated red cell protoporphyrin and urinary ALA and coproporphyrin",
+"explanation": "Elevated levels of protoporphyrin are found in red cells, and elevated levels of ALA and of coproporphyrin are found in urine. Lead poisoning inhibits PBG synthase (ALA dehydratase) and ferrochelatase.",
+"references": ["", "", "", ""],
+"difficulty": "medium"
+}
+]
+}

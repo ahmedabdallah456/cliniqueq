@@ -1,0 +1,250 @@
+{
+  "title": "Algorism of Malarial Treatment",
+  "module": "HEM",
+  "subject": "Pharmacology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB"],
+  "description": "Questions about the life cycle, treatment, and chemoprophylaxis of malaria.",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "Which stage of the malaria parasite life cycle occurs in the liver immediately after a mosquito bite?",
+      "options": ["Erythrocytic stage", "Exoerythrocytic stage", "Gametocyte stage", "Merozoite stage"],
+      "correctAnswer": "Exoerythrocytic stage",
+      "explanation": "Sporozoites injected by the mosquito travel to the liver and initiate the exoerythrocytic stage by infecting hepatocytes."
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "What is the dormant liver stage of P. vivax and P. ovale called?",
+      "options": ["Sporozoite", "Merozoite", "Hypnozoite", "Gametocyte"],
+      "correctAnswer": "Hypnozoite",
+      "explanation": "Hypnozoites are dormant forms in the liver specific to P. vivax and P. ovale, responsible for relapses."
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "Which stage of the malaria parasite is responsible for the clinical symptoms of malaria?",
+      "options": ["Sporozoites", "Hypnozoites", "Erythrocytic stage", "Gametocytes"],
+      "correctAnswer": "Erythrocytic stage",
+      "explanation": "The rupture of infected red blood cells (RBCs) during the erythrocytic stage releases merozoites and causes fever and other clinical manifestations."
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "What is the primary mechanism of action for Chloroquine and Hydroxychloroquine?",
+      "options": ["Inhibiting DNA synthesis", "Disrupting hemoglobin metabolism and increasing pH", "Blocking folic acid synthesis", "Targeting hypnozoites"],
+      "correctAnswer": "Disrupting hemoglobin metabolism and increasing pH",
+      "explanation": "Chloroquine and hydroxychloroquine interfere with the parasite's ability to digest hemoglobin within the RBCs during the erythrocytic stage."
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "Which antimalarial drug is specifically used to eradicate liver parasites (hypnozoites) in P. vivax or P. ovale infections?",
+      "options": ["Chloroquine", "Artemisinin", "Mefloquine", "Primaquine"],
+      "correctAnswer": "Primaquine",
+      "explanation": "Primaquine is a hypnozointocidal agent, crucial for preventing relapses in P. vivax and P. ovale infections."
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "Which antimalarial class is noted for being active against all parasite lifecycle stages?",
+      "options": ["Quinine derivatives", "Artemisinins", "Antifolates", "Aminoquinolines"],
+      "correctAnswer": "Artemisinins",
+      "explanation": "Artemisinins show broad activity, affecting various stages of the malaria parasite's life cycle."
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "What does ACT stand for in malaria treatment?",
+      "options": ["Advanced Chloroquine Therapy", "Artemisinin-based Combination Therapy", "Atovaquone Combination Treatment", "Active Curative Therapy"],
+      "correctAnswer": "Artemisinin-based Combination Therapy",
+      "explanation": "ACT is the standard treatment for P. falciparum malaria and chloroquine-resistant P. vivax, combining artemisinin derivatives with other antimalarials."
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "Which of the following is considered a 'blood schizonticidal' agent used for clinical cure?",
+      "options": ["Primaquine", "Proguanil", "Pyrimethamine", "Chloroquine"],
+      "correctAnswer": "Chloroquine",
+      "explanation": "Blood schizonticidals, like chloroquine, target the erythrocytic stages responsible for clinical illness."
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "What is the standard treatment for chloroquine-sensitive P. vivax or P. ovale?",
+      "options": ["ACTs for 3 days", "Chloroquine or hydroxychloroquine combined with primaquine for 14 days", "IV Artesunate", "Mefloquine weekly"],
+      "correctAnswer": "Chloroquine or hydroxychloroquine combined with primaquine for 14 days",
+      "explanation": "This combination targets both the blood stages (chloroquine) and the liver hypnozoites (primaquine)."
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "How is chloroquine-resistant P. vivax malaria treated?",
+      "options": ["Chloroquine only", "Primaquine only", "ACTs", "Doxycycline only"],
+      "correctAnswer": "ACTs",
+      "explanation": "For chloroquine-resistant P. vivax, Artemisinin-based Combination Therapy (ACT) is recommended."
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "What is the recommended treatment for uncomplicated P. falciparum malaria?",
+      "options": ["Chloroquine + Primaquine", "IV Quinine", "ACTs for 3 days", "Malarone daily"],
+      "correctAnswer": "ACTs for 3 days",
+      "explanation": "Artemisinin-based Combination Therapy for 3 days is the standard for uncomplicated P. falciparum."
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "What is the initial treatment for complicated P. falciparum malaria?",
+      "options": ["Oral ACTs", "IV Artesunate or IV Quinine", "Chloroquine IV", "Primaquine IM"],
+      "correctAnswer": "IV Artesunate or IV Quinine",
+      "explanation": "Complicated P. falciparum requires initial intravenous treatment with Artesunate (preferred) or Quinine, followed by a course of ACTs."
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "Which stage of the parasite enters the red blood cells (RBCs)?",
+      "options": ["Sporozoites", "Merozoites", "Hypnozoites", "Gametocytes"],
+      "correctAnswer": "Merozoites",
+      "explanation": "Merozoites are released from ruptured liver schizonts and invade RBCs, initiating the erythrocytic stage."
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "What is the 'ring form' in the malaria life cycle?",
+      "options": ["A type of gametocyte", "An early trophozoite in RBCs", "A liver schizont", "A sporozoite shape"],
+      "correctAnswer": "An early trophozoite in RBCs",
+      "explanation": "The 'ring form' is the characteristic appearance of the early trophozoite stage within an infected red blood cell."
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Which of these drugs is NOT typically used for chemoprophylaxis?",
+      "options": ["Atovaquone-proguanil", "Doxycycline", "Mefloquine", "IV Artesunate"],
+      "correctAnswer": "IV Artesunate",
+      "explanation": "IV Artesunate is used for treating severe malaria, not for prevention (chemoprophylaxis)."
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "What is the dosing schedule for Atovaquone-proguanil (Malarone) for chemoprophylaxis?",
+      "options": ["Weekly, starting 2 weeks before travel", "Daily, starting 1-2 days before, until 4 weeks after", "Daily, starting 1-2 days before, until 7 days after", "Weekly, starting 1 week before travel"],
+      "correctAnswer": "Daily, starting 1-2 days before, until 7 days after",
+      "explanation": "Atovaquone-proguanil requires daily dosing starting shortly before travel and continuing for one week after leaving the endemic area."
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "What is the dosing schedule for Doxycycline for chemoprophylaxis?",
+      "options": ["Weekly", "Daily, starting 1-2 days before, until 4 weeks after", "Daily, starting 1-2 days before, until 7 days after", "Monthly"],
+      "correctAnswer": "Daily, starting 1-2 days before, until 4 weeks after",
+      "explanation": "Doxycycline is taken daily and must be continued for four weeks after returning from the malarial zone."
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "What is the dosing schedule for Mefloquine for chemoprophylaxis?",
+      "options": ["Daily", "Weekly, starting 2 weeks before, until 4 weeks after", "Weekly, starting 1 week before, until 1 week after", "Bi-weekly"],
+      "correctAnswer": "Weekly, starting 2 weeks before, until 4 weeks after",
+      "explanation": "Mefloquine requires weekly dosing, starting two weeks prior to travel and continuing for four weeks after return."
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "Which important factor should be obtained during a pre-travel evaluation for malaria chemoprophylaxis?",
+      "options": ["Blood type", "Recent antibiotic use", "Psychiatric history", "Dietary habits"],
+      "correctAnswer": "Psychiatric history",
+      "explanation": "Psychiatric history is particularly important when considering Mefloquine, which can have neuropsychiatric side effects."
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "Which vector is responsible for transmitting malaria?",
+      "options": ["Tsetse fly", "Sandfly", "Anopheles mosquito", "Aedes mosquito"],
+      "correctAnswer": "Anopheles mosquito",
+      "explanation": "Malaria is transmitted to humans through the bite of an infected female Anopheles mosquito."
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "Where does the exoerythrocytic stage of the malaria parasite primarily occur?",
+      "options": ["Skin", "Bloodstream", "Liver", "Spleen"],
+      "correctAnswer": "Liver",
+      "explanation": "The exoerythrocytic (or hepatic) stage develops within the liver cells (hepatocytes)."
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "Which of the following is a gametocidal agent?",
+      "options": ["Chloroquine", "Mefloquine", "Doxycycline", "Primaquine"],
+      "correctAnswer": "Primaquine",
+      "explanation": "Primaquine, along with pyrimethamine, proguanil, and artemisinin, has activity against gametocytes, which are involved in transmission."
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "What is the duration of IV Quinine treatment recommended before starting ACTs in complicated P. falciparum malaria?",
+      "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
+      "correctAnswer": "24 hours",
+      "explanation": "For complicated P. falciparum, if IV Quinine is used, it's typically given for 24 hours before switching to an ACT course."
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "Chloroquine and Hydroxychloroquine are synthetic forms of which natural compound?",
+      "options": ["Artemisinin", "Quinine", "Doxycycline", "Proguanil"],
+      "correctAnswer": "Quinine",
+      "explanation": "These drugs are synthetic analogues of quinine, originally derived from the cinchona tree bark."
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "Which species of Plasmodium are known to form hypnozoites?",
+      "options": ["P. falciparum and P. malariae", "P. vivax and P. ovale", "P. falciparum and P. vivax", "P. malariae and P. knowlesi"],
+      "correctAnswer": "P. vivax and P. ovale",
+      "explanation": "Only P. vivax and P. ovale have a dormant liver stage (hypnozoite), leading to potential relapses."
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "What is the 'infected hepatocyte' in the malaria life cycle called before it ruptures?",
+      "options": ["Sporozoite", "Merozoite", "Hepatic schizont", "Gametocyte"],
+      "correctAnswer": "Hepatic schizont",
+      "explanation": "Inside the hepatocyte, the sporozoite develops into a hepatic schizont, which contains thousands of merozoites."
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "What is Atovaquone-proguanil commonly known as?",
+      "options": ["Lariam", "Vibramycin", "Aralen", "Malarone"],
+      "correctAnswer": "Malarone",
+      "explanation": "Malarone is the brand name for the fixed-dose combination of atovaquone and proguanil."
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "Which chemoprophylaxis regimen requires the longest continuation period after leaving the malarial zone?",
+      "options": ["Atovaquone-proguanil", "Doxycycline", "Mefloquine", "Both Doxycycline and Mefloquine"],
+      "correctAnswer": "Both Doxycycline and Mefloquine",
+      "explanation": "Both Doxycycline and Mefloquine need to be continued for four weeks after returning from the malarial zone."
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "What is the primary target of 'blood schizonticidals'?",
+      "options": ["Liver hypnozoites", "Sporozoites", "Gametocytes", "Erythrocytic stage parasites"],
+      "correctAnswer": "Erythrocytic stage parasites",
+      "explanation": "These drugs act on the parasites within the red blood cells, thereby treating the acute symptoms (clinical cure)."
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "Why is combination therapy, like ACTs, generally preferred for treating malaria?",
+      "options": ["It is cheaper", "It reduces the risk of drug resistance", "It only targets one stage", "It requires fewer doses"],
+      "correctAnswer": "It reduces the risk of drug resistance",
+      "explanation": "Using multiple drugs with different mechanisms of action makes it harder for the parasite to develop resistance and improves treatment efficacy."
+    }
+  ]
+}

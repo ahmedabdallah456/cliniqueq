@@ -1,0 +1,190 @@
+{
+  "title": "Lymphadenitis",
+  "module": "Pathology",
+  "subject": "Pathology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB", "NEET-PG"],
+  "description": "MCQs on lymphadenopathy, lymphadenitis, granulomatous inflammation, and reactive hyperplasia.",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "What is lymphadenopathy?",
+      "options": ["Infection of lymph vessels", "Enlargement of lymph nodes due to disease", "Cancer of the lymphatic system", "Blockage of lymph flow"],
+      "correctAnswer": "Enlargement of lymph nodes due to disease",
+      "explanation": "Lymphadenopathy refers to lymph node enlargement resulting from various pathological processes.",
+      "references": ["Robbins Basic Pathology, 10th Edition"]
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "Which of the following is an example of localized lymphadenopathy?",
+      "options": ["Lymphoma", "Tuberculosis", "Tonsillitis affecting cervical nodes", "Sarcoidosis"],
+      "correctAnswer": "Tonsillitis affecting cervical nodes",
+      "explanation": "Localized lymphadenopathy affects a specific group of nodes, such as cervical nodes in tonsillitis.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "Which disease is characterized by caseating granulomas?",
+      "options": ["Sarcoidosis", "Infectious mononucleosis", "Tuberculosis", "Lymphoma"],
+      "correctAnswer": "Tuberculosis",
+      "explanation": "Tuberculosis classically presents with caseating granulomas in affected lymph nodes.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "What is the hallmark of sarcoidosis in lymph nodes?",
+      "options": ["Suppurative inflammation", "Caseating granulomas", "Non-caseating granulomas", "Necrosis"],
+      "correctAnswer": "Non-caseating granulomas",
+      "explanation": "Sarcoidosis typically presents with non-caseating granulomas without central necrosis.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "Which condition is associated with sinus histiocytosis?",
+      "options": ["Bacterial infection", "Fungal infection", "Nodes draining malignancies", "Sarcoidosis"],
+      "correctAnswer": "Nodes draining malignancies",
+      "explanation": "Sinus histiocytosis is commonly seen in lymph nodes draining cancers, due to increased macrophage activity.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "Which cells are predominantly increased in follicular hyperplasia?",
+      "options": ["T cells", "B cells", "Macrophages", "Plasma cells"],
+      "correctAnswer": "B cells",
+      "explanation": "Follicular hyperplasia involves the proliferation of B cells in lymphoid follicles.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "Paracortical hyperplasia primarily involves which type of cells?",
+      "options": ["B cells", "Neutrophils", "T cells", "Plasma cells"],
+      "correctAnswer": "T cells",
+      "explanation": "Paracortical hyperplasia is characterized by T-cell proliferation in the paracortical zones.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "Which virus is responsible for infectious mononucleosis?",
+      "options": ["Cytomegalovirus", "Epstein-Barr virus", "HIV", "Hepatitis B virus"],
+      "correctAnswer": "Epstein-Barr virus",
+      "explanation": "Epstein-Barr virus (EBV) causes infectious mononucleosis and is associated with atypical lymphocytes.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "Which feature is typical of acute bacterial lymphadenitis?",
+      "options": ["Non-caseating granulomas", "Fibrosis", "Neutrophilic infiltration", "Atypical lymphocytes"],
+      "correctAnswer": "Neutrophilic infiltration",
+      "explanation": "Acute bacterial lymphadenitis presents with neutrophils and tissue congestion in the affected nodes.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "What is reactive lymphoid hyperplasia?",
+      "options": ["Malignant proliferation of lymphocytes", "Non-neoplastic enlargement of lymph nodes", "Viral-induced cancer", "Metastatic deposit in lymph node"],
+      "correctAnswer": "Non-neoplastic enlargement of lymph nodes",
+      "explanation": "Reactive lymphoid hyperplasia is a benign, non-neoplastic response to antigenic stimulation.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "Which of the following is a cause of generalized lymphadenopathy?",
+      "options": ["Tonsillitis", "Appendicitis", "Infectious mononucleosis", "Insect bite"],
+      "correctAnswer": "Infectious mononucleosis",
+      "explanation": "Infectious mononucleosis often causes generalized lymph node enlargement due to systemic viral infection.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "Which metabolic condition can rarely cause lymphadenopathy?",
+      "options": ["Diabetes", "Gout", "Storage diseases", "Hypothyroidism"],
+      "correctAnswer": "Storage diseases",
+      "explanation": "Rare metabolic storage disorders like Gaucher disease can cause lymphadenopathy.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "Which of the following is a primary neoplastic cause of lymphadenopathy?",
+      "options": ["Lymphoma", "Tuberculosis", "Sarcoidosis", "Reactive hyperplasia"],
+      "correctAnswer": "Lymphoma",
+      "explanation": "Lymphoma is a primary malignancy of the lymphoid tissue and a neoplastic cause of node enlargement.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "Which region is most commonly affected in mesenteric lymphadenitis?",
+      "options": ["Axillary", "Inguinal", "Abdominal", "Cervical"],
+      "correctAnswer": "Abdominal",
+      "explanation": "Mesenteric lymphadenitis involves abdominal lymph nodes, often seen in appendicitis.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Which finding is seen in infectious mononucleosis blood smear?",
+      "options": ["Atypical lymphocytes", "Reed-Sternberg cells", "Myeloblasts", "Granulomas"],
+      "correctAnswer": "Atypical lymphocytes",
+      "explanation": "Atypical lymphocytes are a hallmark of infectious mononucleosis caused by EBV.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "Which of the following is NOT a feature of acute viral lymphadenitis?",
+      "options": ["Fever", "Enlarged lymph nodes", "Neutrophil predominance", "Splenomegaly"],
+      "correctAnswer": "Neutrophil predominance",
+      "explanation": "Viral infections typically cause lymphocytic infiltration, not neutrophilic predominance.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "Chronic nonspecific lymphadenitis is most likely due to:",
+      "options": ["Neoplasm", "Acute infection", "Chronic infection", "Trauma"],
+      "correctAnswer": "Chronic infection",
+      "explanation": "Chronic nonspecific lymphadenitis results from prolonged antigenic stimulation, often due to chronic infections.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "Which of the following typically shows paracortical hyperplasia?",
+      "options": ["Bacterial infections", "Fungal infections", "Viral infections", "Storage diseases"],
+      "correctAnswer": "Viral infections",
+      "explanation": "Viral infections like infectious mononucleosis cause T-cell (paracortical) hyperplasia in nodes.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "Lymph node enlargement in cancer is usually due to:",
+      "options": ["Reactive hyperplasia", "Primary lymphoma", "Metastasis", "Granulomatous inflammation"],
+      "correctAnswer": "Metastasis",
+      "explanation": "Secondary lymphadenopathy in cancer typically occurs due to metastatic deposits in the nodes.",
+      "references": ["Robbins Basic Pathology"]
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "Which lymph node finding is common in nodes draining an area of cancer?",
+      "options": ["Granulomas", "Suppuration", "Sinus histiocytosis", "Follicular hyperplasia"],
+      "correctAnswer": "Sinus histiocytosis",
+      "explanation": "Sinus histiocytosis reflects the immune system’s response to tumor antigens in draining lymph nodes.",
+      "references": ["Robbins Basic Pathology"]
+    }
+  ]
+}

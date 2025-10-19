@@ -1,0 +1,411 @@
+{
+  "title": "Spinal Cord Anatomy",
+  "module": "CNS",
+  "year": 2,
+  "subject": "Anatomy",
+  "difficulty": "Easy",
+  "examTypes": ["USMLE", "PLAB", "Nahda University"],
+  "description": "Questions about the organization of the nervous system, spinal cord structure, segments, meninges, and clinical aspects",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "Which of the following is part of the central nervous system (CNS)?",
+      "options": ["Cranial nerves", "Spinal nerves", "Brain", "Autonomic nervous system"],
+      "correctAnswer": "Brain",
+      "explanation": "The CNS consists of the brain and spinal cord, while cranial and spinal nerves are part of the PNS.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "How many pairs of cranial nerves are there?",
+      "options": ["10", "12", "31", "5"],
+      "correctAnswer": "12",
+      "explanation": "There are 12 pairs of cranial nerves connected to the brain stem.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "The parasympathetic division of the autonomic nervous system is also known as:",
+      "options": ["Thoracolumbar", "Craniosacral", "Sympathetic", "Somatic"],
+      "correctAnswer": "Craniosacral",
+      "explanation": "The parasympathetic division arises from cranial and sacral regions.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "The spinal cord occupies which portion of the vertebral canal?",
+      "options": ["Lower 2/3", "Upper 2/3", "Entire length", "Lower 1/3"],
+      "correctAnswer": "Upper 2/3",
+      "explanation": "The spinal cord occupies the upper 2/3 of the vertebral canal.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "What is the approximate length of the spinal cord in adult males?",
+      "options": ["42 cm", "45 cm", "50 cm", "38 cm"],
+      "correctAnswer": "45 cm",
+      "explanation": "The spinal cord is about 45 cm in males and 42 cm in females.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "The spinal cord begins as a continuation of which structure?",
+      "options": ["Cerebellum", "Medulla oblongata", "Pons", "Midbrain"],
+      "correctAnswer": "Medulla oblongata",
+      "explanation": "It continues from the medulla oblongata at the lower border of the foramen magnum.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "At birth, the spinal cord ends at the level of which vertebra?",
+      "options": ["L1", "L3", "S2", "L5"],
+      "correctAnswer": "L3",
+      "explanation": "At birth, it ends at L3, and in adults at the L1/L2 disc due to differential growth.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "The cervical enlargement of the spinal cord corresponds to which segments?",
+      "options": ["L1-S3", "C5-T1", "T1-T12", "S1-S5"],
+      "correctAnswer": "C5-T1",
+      "explanation": "The cervical enlargement is from C5-T1, giving origin to the brachial plexus.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "Which sulcus on the spinal cord is the deepest?",
+      "options": ["Posterior median sulcus", "Anterolateral sulcus", "Posterolateral sulcus", "Anterior median fissure"],
+      "correctAnswer": "Anterior median fissure",
+      "explanation": "The anterior median fissure is the deepest groove on the spinal cord.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "The dorsal roots of spinal nerves enter through which sulci?",
+      "options": ["Anterolateral sulci", "Posterolateral sulci", "Anterior median fissure", "Posterior median sulcus"],
+      "correctAnswer": "Posterolateral sulci",
+      "explanation": "Dorsal (sensory) roots enter via the posterolateral sulci.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "How many spinal cord segments are there in total?",
+      "options": ["30", "31", "32", "12"],
+      "correctAnswer": "31",
+      "explanation": "There are 31 segments: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "The dorsal root of a spinal nerve contains which type of fibers?",
+      "options": ["Motor", "Sensory", "Mixed", "Autonomic"],
+      "correctAnswer": "Sensory",
+      "explanation": "The dorsal root consists of sensory fibers and carries the dorsal root ganglion.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "After uniting, the spinal nerve trunk divides into:",
+      "options": ["Ventral and dorsal roots", "Anterior and posterior rami", "Sensory and motor roots", "Sympathetic and parasympathetic"],
+      "correctAnswer": "Anterior and posterior rami",
+      "explanation": "The mixed spinal nerve divides into anterior and posterior rami.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "According to the rule for vertebral levels, the C5 spine is opposite to which segment?",
+      "options": ["C5", "C6", "C4", "T1"],
+      "correctAnswer": "C6",
+      "explanation": "In the cervical region, add one: C5 spine opposite C6 segment.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "The T10 spine is opposite to which spinal segment?",
+      "options": ["T10", "T12", "L1", "T11"],
+      "correctAnswer": "L1",
+      "explanation": "In lower thoracic, add 3: T10 spine opposite L1 segment.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "Cervical nerves C1 to C7 emerge:",
+      "options": ["Below their corresponding vertebra", "Above their corresponding vertebra", "At the same level", "Through the sacral foramina"],
+      "correctAnswer": "Above their corresponding vertebra",
+      "explanation": "C1-C7 emerge above, C8 above T1, and others below.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "The cauda equina consists of:",
+      "options": ["Cervical nerve roots", "Lumbar and sacral nerve roots", "Thoracic nerve roots", "Cranial nerves"],
+      "correctAnswer": "Lumbar and sacral nerve roots",
+      "explanation": "It's a leash of lumbar and sacral roots descending to their exit foramina.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "The meninges surrounding the spinal cord from inside out are:",
+      "options": ["Dura, arachnoid, pia", "Pia, dura, arachnoid", "Pia, arachnoid, dura", "Arachnoid, pia, dura"],
+      "correctAnswer": "Pia, arachnoid, dura",
+      "explanation": "The order is pia mater (inner), arachnoid, dura mater (outer).",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "The spinal pia mater is closely adherent to:",
+      "options": ["Dura mater", "Arachnoid mater", "Spinal cord", "Vertebral canal"],
+      "correctAnswer": "Spinal cord",
+      "explanation": "The pia mater is a delicate membrane closely adherent to the spinal cord.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "How many processes does each denticulate ligament have?",
+      "options": ["10", "21", "31", "5"],
+      "correctAnswer": "21",
+      "explanation": "Each denticulate ligament has 21 serrated processes anchoring to the dura.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "The filum terminale extends from the conus medullaris to:",
+      "options": ["Foramen magnum", "Back of coccyx", "S2 vertebra", "L1 vertebra"],
+      "correctAnswer": "Back of coccyx",
+      "explanation": "It attaches to the back of the coccyx after piercing the arachnoid and dura at S2.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "The spinal arachnoid mater ends at the level of:",
+      "options": ["L1", "S2", "L3", "Foramen magnum"],
+      "correctAnswer": "S2",
+      "explanation": "It ends at S2, continuous with the brain's arachnoid mater.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "The subarachnoid space contains all except:",
+      "options": ["Cerebrospinal fluid", "Spinal blood vessels", "Spinal nerve roots", "Internal vertebral venous plexus"],
+      "correctAnswer": "Internal vertebral venous plexus",
+      "explanation": "The subarachnoid space contains CSF, vessels, and roots; the venous plexus is in the extradural space.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "The spinal dura mater extends from the foramen magnum to:",
+      "options": ["L1", "S2", "L3", "Coccyx"],
+      "correctAnswer": "S2",
+      "explanation": "It extends down to the S2 vertebra.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "The extradural space lodges:",
+      "options": ["CSF", "Spinal blood vessels", "Internal vertebral venous plexus", "Dorsal root ganglion"],
+      "correctAnswer": "Internal vertebral venous plexus",
+      "explanation": "The extradural (epidural) space contains the venous plexus and spinal nerve roots.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "The lumbar cistern extends from:",
+      "options": ["L1 to S2", "L2 to S2", "S1 to Coccyx", "L3 to S2"],
+      "correctAnswer": "L2 to S2",
+      "explanation": "It is the lower subarachnoid space from L2 to S2, devoid of spinal cord.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "The contents of the lumbar cistern include all except:",
+      "options": ["CSF", "Cauda equina", "Filum terminale", "Spinal cord"],
+      "correctAnswer": "Spinal cord",
+      "explanation": "It is devoid of spinal cord but contains CSF, cauda equina, and filum terminale.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "Lumbar puncture is safely performed below which level to avoid spinal cord injury?",
+      "options": ["L1", "L2", "S2", "T12"],
+      "correctAnswer": "L2",
+      "explanation": "It is safe below L2 vertebra as the spinal cord ends at L1/L2.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "Which structure anchors the spinal cord to the dura mater laterally?",
+      "options": ["Filum terminale", "Denticulate ligaments", "Subarachnoid septum", "Linea splendens"],
+      "correctAnswer": "Denticulate ligaments",
+      "explanation": "Denticulate ligaments anchor the cord laterally to the dura.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "The subarachnoid septum attaches the spinal cord to the dura mater:",
+      "options": ["Anteriorly", "Posteriorly", "Laterally", "Superiorly"],
+      "correctAnswer": "Posteriorly",
+      "explanation": "It is a backward extension attaching posteriorly.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "type": "standard",
+      "questionText": "The dura mater is attached above to:",
+      "options": ["Coccyx", "Margin of foramen magnum", "S2 vertebra", "L1 vertebra"],
+      "correctAnswer": "Margin of foramen magnum",
+      "explanation": "The dura is attached to the margin of the foramen magnum and intervertebral foramina.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "type": "standard",
+      "questionText": "The linea splendens is a thickening of the pia mater along:",
+      "options": ["Posterior median sulcus", "Anterior median fissure", "Anterolateral sulcus", "Posterolateral sulcus"],
+      "correctAnswer": "Anterior median fissure",
+      "explanation": "It is a median glistening band along the anterior median fissure.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "type": "standard",
+      "questionText": "The sympathetic division of the ANS is:",
+      "options": ["Craniosacral", "Thoracolumbar", "Cervical", "Sacral"],
+      "correctAnswer": "Thoracolumbar",
+      "explanation": "The sympathetic division is thoracolumbar.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "type": "standard",
+      "questionText": "The conus medullaris is the tapered lower end of:",
+      "options": ["Filum terminale", "Cauda equina", "Spinal cord", "Dura mater"],
+      "correctAnswer": "Spinal cord",
+      "explanation": "The lower end of the spinal cord tapers into the conus medullaris.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "type": "standard",
+      "questionText": "In the 3rd month of intrauterine life, the spinal cord occupies:",
+      "options": ["Upper 2/3 of vertebral canal", "Whole vertebral canal", "Lower 2/3", "L1 to S2"],
+      "correctAnswer": "Whole vertebral canal",
+      "explanation": "By the 3rd month, it occupies the whole vertebral canal.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "type": "standard",
+      "questionText": "The lumbar enlargement gives origin to plexuses for:",
+      "options": ["Upper limb", "Lower limb", "Neck", "Abdomen"],
+      "correctAnswer": "Lower limb",
+      "explanation": "From L1-S3, it gives origin to lumbar and sacral plexuses.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "37",
+      "type": "standard",
+      "questionText": "The dorsal root ganglion is located on:",
+      "options": ["Ventral root", "Dorsal root", "Anterior ramus", "Posterior ramus"],
+      "correctAnswer": "Dorsal root",
+      "explanation": "Each dorsal root carries an oval swelling called the dorsal root ganglion.",
+      "references": ["Gray's Anatomy, 41st Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "type": "standard",
+      "questionText": "T11 spine is opposite to which segments?",
+      "options": ["L2 to L5", "S1 to S5", "T11 to T12", "L1 only"],
+      "correctAnswer": "L2 to L5",
+      "explanation": "T11 spine is opposite to L2 to L5 segments.",
+      "references": ["Snell's Clinical Neuroanatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "type": "standard",
+      "questionText": "The subdural space separates:",
+      "options": ["Pia and arachnoid", "Arachnoid and dura", "Dura and periosteum", "Pia and spinal cord"],
+      "correctAnswer": "Arachnoid and dura",
+      "explanation": "It is a narrow space between arachnoid and dura mater.",
+      "references": ["Moore's Clinically Oriented Anatomy, 8th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "40",
+      "type": "standard",
+      "questionText": "Which is not a prolongation of the spinal dura mater?",
+      "options": ["Around spinal nerve roots", "Around filum terminale", "Around conus medullaris", "Around spinal nerve trunks"],
+      "correctAnswer": "Around conus medullaris",
+      "explanation": "Dura forms sheaths around roots, trunks, and filum terminale, but not specifically around conus.",
+      "references": ["Netter's Atlas of Human Anatomy, 7th Edition"],
+      "difficulty": "medium"
+    }
+  ]
+}

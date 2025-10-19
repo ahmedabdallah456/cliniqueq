@@ -1,0 +1,910 @@
+{
+  "title": "Heme Catabolism",
+  "module": "HEM",
+  "subject": "Biochemistry",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB","Nahda Medicine"],
+  "description": "Questions about heme catabolism, bilirubin metabolism, and related disorders.",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "Approximately how many grams of hemoglobin does the human body turn over per day?",
+      "options": [
+        "1 g",
+        "3 g",
+        "6 g",
+        "10 g"
+      ],
+      "correctAnswer": "6 g",
+      "explanation": "Human turns over approximately 6 g of hemoglobin per day.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "From 1 gram of hemoglobin, approximately how many milligrams of bilirubin are produced?",
+      "options": [
+        "10 mg",
+        "35 mg",
+        "100 mg",
+        "250 mg"
+      ],
+      "correctAnswer": "35 mg",
+      "explanation": "It is estimated that 1 g of hemoglobin yields 35 mg of bilirubin.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "What is the estimated daily bilirubin formation in human adults?",
+      "options": [
+        "50-100 mg",
+        "150-200 mg",
+        "250-350 mg",
+        "400-500 mg"
+      ],
+      "correctAnswer": "250-350 mg",
+      "explanation": "The daily bilirubin formation in human adults is approximately 250–350 mg.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "Which system is primarily responsible for the first stage of bile pigment formation, involving the breakdown of worn-out erythrocytes?",
+      "options": [
+        "Gastrointestinal system",
+        "Reticulo-endothelial system",
+        "Renal system",
+        "Cardiovascular system"
+      ],
+      "correctAnswer": "Reticulo-endothelial system",
+      "explanation": "The formation of the bile pigments can be divided into 3 stages: I- In reticulo-endothelial system (RES).",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "After approximately 120 days, worn-out erythrocytes are taken up by reticulo-endothelial cells mainly located in which organs?",
+      "options": [
+        "Kidneys, lungs, heart",
+        "Liver, spleen, bone marrow",
+        "Stomach, pancreas, small intestine",
+        "Brain, spinal cord, nerves"
+      ],
+      "correctAnswer": "Liver, spleen, bone marrow",
+      "explanation": "After approximately 120 days in the circulation, the worn out erythrocytes are taken up by the reticulo-endothelial cells, mainly in the liver, spleen, and bone marrow.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "What happens to the globin portion of hemoglobin in the reticulo-endothelial system?",
+      "options": [
+        "It is excreted in bile",
+        "It is stored as ferritin",
+        "It undergoes proteolysis into amino acids",
+        "It is conjugated with glucuronic acid"
+      ],
+      "correctAnswer": "It undergoes proteolysis into amino acids",
+      "explanation": "The globin is removed and undergoes proteolysis into amino acids.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "How is bilirubin transported from the reticulo-endothelial system to the liver?",
+      "options": [
+        "Bound non-covalently to albumin",
+        "As a free, water-soluble molecule",
+        "Bound to hemoglobin",
+        "Via red blood cells"
+      ],
+      "correctAnswer": "Bound non-covalently to albumin",
+      "explanation": "Bilirubin is only slightly soluble in plasma and, therefore, is transported to the liver by binding non-covalently to albumin.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "Why cannot unconjugated bilirubin normally be excreted in urine?",
+      "options": [
+        "It is too large a molecule",
+        "It is rapidly metabolized by the kidneys",
+        "It is bound to plasma proteins (albumin)",
+        "It is actively reabsorbed by the renal tubules"
+      ],
+      "correctAnswer": "It is bound to plasma proteins (albumin)",
+      "explanation": "Bilirubin is only slightly soluble in plasma and, therefore, is transported to the liver by binding non-covalently to albumin. Thus it cannot be excreted in urine.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "If plasma bilirubin levels exceed the albumin carrying capacity (about 20 mg/dL), unconjugated bilirubin can pass the blood-brain barrier due to its hydrophobic nature, leading to what condition?",
+      "options": [
+        "Hepatitis",
+        "Cirrhosis",
+        "Kernicterus",
+        "Gallstones"
+      ],
+      "correctAnswer": "Kernicterus",
+      "explanation": "If the plasma level of this bilirubin exceeds the carrying capacity of albumin (about 20 mg/dL), it passes the blood brain barrier (due to its hydrophobic nature) and produces brain damage or “kernicterus”.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "What is the name given to the chief bilirubin in the blood, which is transported bound to albumin?",
+      "options": [
+        "Cholebilirubin",
+        "Urobilinogen",
+        "Hemobilirubin",
+        "Biliverdin"
+      ],
+      "correctAnswer": "Hemobilirubin",
+      "explanation": "It is the chief bilirubin in the blood, and hence the name “hemobilirubin”. Hemobilirubin is also called unconjugated bilirubin.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "What is the primary enzyme responsible for conjugating bilirubin with glucuronic acid in the liver?",
+      "options": [
+        "Heme oxygenase",
+        "Biliverdin reductase",
+        "Glucuronyltransferase",
+        "Alkaline phosphatase"
+      ],
+      "correctAnswer": "Glucuronyltransferase",
+      "explanation": "Conjugation of bilirubin with glucuronic acid... is catalyzed by the enzyme glucuronyltransferase.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "What molecule provides the glucuronic acid residue for bilirubin conjugation?",
+      "options": [
+        "ATP",
+        "NADPH",
+        "UDP-glucuronate",
+        "Bile salt"
+      ],
+      "correctAnswer": "UDP-glucuronate",
+      "explanation": "Glucuronic acid... Supplied by UDP-glucuronate is catalyzed by the enzyme glucuronyltransferase.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "What is the final product of bilirubin conjugation in the liver, which involves the addition of two glucuronic acid residues?",
+      "options": [
+        "Bilirubin monoglucuronide",
+        "Stercobilinogen",
+        "Biliverdin",
+        "Bilirubin diglucuronide"
+      ],
+      "correctAnswer": "Bilirubin diglucuronide",
+      "explanation": "A glucuronic acid residue becomes connected to the carboxyl group of one, then the second, propionate side chain of bilirubin, forming bilirubin diglucuronide.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "Conjugation of bilirubin primarily increases its:",
+      "options": [
+        "Hydrophobicity",
+        "Binding to albumin",
+        "Polarity and water-solubility",
+        "Absorption from the intestine"
+      ],
+      "correctAnswer": "Polarity and water-solubility",
+      "explanation": "Conjugation increases polarity and water-solubility of bilirubin (now its water soluble).",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Which of the following is listed as capable of inducing the enzyme glucuronyltransferase?",
+      "options": [
+        "Aspirin",
+        "Phenobarbital",
+        "Warfarin",
+        "Insulin"
+      ],
+      "correctAnswer": "Phenobarbital",
+      "explanation": "Glucuronylansferase is induced by drugs, e.g. phenobarbital, and by glucose.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "What is the principal route of excretion for conjugated bilirubin?",
+      "options": [
+        "Kidneys",
+        "Sweat",
+        "Lungs",
+        "Bile"
+      ],
+      "correctAnswer": "Bile",
+      "explanation": "Excretion of conjugated bilirubin Is principally through the bile.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "What is conjugated bilirubin often called, referencing its primary excretion route?",
+      "options": [
+        "Hemobilirubin",
+        "Stercobilinogen",
+        "Cholebilirubin",
+        "Urobilin"
+      ],
+      "correctAnswer": "Cholebilirubin",
+      "explanation": "Excretion of conjugated bilirubin Is principally through the bile, and hence the name “cholebilirubin”.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "Which type of bilirubin can be excreted in urine due to its water-soluble nature and lack of binding to plasma proteins?",
+      "options": [
+        "Unconjugated bilirubin",
+        "Hemobilirubin",
+        "Bilirubin monoglucuronide",
+        "Conjugated bilirubin"
+      ],
+      "correctAnswer": "Conjugated bilirubin",
+      "explanation": "Being water-soluble, conjugated bilirubin is not bound to plasma proteins, thus it can be excreted in urine. Unconjugated bilirubin is bound to albumin and cannot be excreted in urine.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "What is considered the rate-limiting step in bilirubin metabolism?",
+      "options": [
+        "Uptake of unconjugated bilirubin by liver cells",
+        "Conjugation of bilirubin with glucuronic acid",
+        "Secretion of conjugated bilirubin into the bile",
+        "Absorption of urobilinogen from the intestines"
+      ],
+      "correctAnswer": "Secretion of conjugated bilirubin into the bile",
+      "explanation": "Secretion of conjugated bilirubin into the bile occurs by an active transport system. This is the rate-limiting step in bilirubin metabolism.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "In the large intestine, by the action of intestinal bacterial flora, bilirubin is released from glucuronic acid and undergoes successive reductions ending in the formation of a colorless product known as:",
+      "options": [
+        "Biliverdin",
+        "Stercobilinogen",
+        "Heme",
+        "Direct bilirubin"
+      ],
+      "correctAnswer": "Stercobilinogen",
+      "explanation": "In the large intestine, by the action of intestinal bacterial flora, bilirubin is released from glucuronic acid and undergoes successive reductions ending in the formation of colorless stercobilinogen, also known as urobilinogen.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "What is the main pigment of feces, formed by the spontaneous oxidation of stercobilinogen by the oxygen of air?",
+      "options": [
+        "Bilirubin",
+        "Urobilinogen",
+        "Stercobilin",
+        "Biliverdin"
+      ],
+      "correctAnswer": "Stercobilin",
+      "explanation": "The stercobilinogen is spontaneously oxidized by the oxygen of air to the brown stercobilin, the main pigment of feces.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "Urobilinogen, partly absorbed from the intestines, is returned to the liver via which blood vessel system?",
+      "options": [
+        "Systemic circulation",
+        "Portal blood",
+        "Renal artery",
+        "Hepatic artery"
+      ],
+      "correctAnswer": "Portal blood",
+      "explanation": "Urobilinogen, is partly (small percentage) absorbed from the intestines and returned, via the portal blood, to the liver (enterohepatic circulation).",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "What is the typical normal range for urobilinogen excretion in urine per day?",
+      "options": [
+        "0-0.1 mg/day",
+        "0.5-4 mg/day",
+        "10-20 mg/day",
+        "50-100 mg/day"
+      ],
+      "correctAnswer": "0.5-4 mg/day",
+      "explanation": "Little urobilinogen normally escapes to the systemic circulation and is excreted in the urine (0.5 to 4 mg/day).",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "What is urobilinogen converted to on exposure to air in urine?",
+      "options": [
+        "Bilirubin",
+        "Stercobilin",
+        "Urobilin",
+        "Biliverdin"
+      ],
+      "correctAnswer": "Urobilin",
+      "explanation": "Little urobilinogen normally escapes to the systemic circulation and is excreted in the urine... where it is converted to urobilin on exposure to air.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "The enzyme Heme oxygenase, found in the RES, catalyzes the cleavage of the alpha-methenyl bridge of heme, producing biliverdin, Fe3+, and what gas molecule?",
+      "options": [
+        "O2",
+        "CO2",
+        "NO",
+        "CO"
+      ],
+      "correctAnswer": "CO",
+      "explanation": "RES Heme oxygenase (produces cleavage of -methenyl bridge) produces Biliverdin, NADP+, Fe3+, CO.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "What is the color of Biliverdin?",
+      "options": [
+        "Yellow",
+        "Green",
+        "Brown",
+        "Colorless"
+      ],
+      "correctAnswer": "Green",
+      "explanation": "Biliverdin (Green) is converted to Bilirubin (Yellow).",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "The enzyme Biliverdin reductase converts Biliverdin to Bilirubin using which cofactor?",
+      "options": [
+        "ATP",
+        "NADPH,H+",
+        "FAD",
+        "CoA"
+      ],
+      "correctAnswer": "NADPH,H+",
+      "explanation": "Biliverdin (Green) Heme Biliverdin reductase NADPH,H+ converts to Bilirubin (Yellow) NADP+, Fe3+, CO. The arrow shows NADPH,H+ being used.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "The Van den Bergh reaction is a method used to estimate the level of what substance in blood?",
+      "options": [
+        "Hemoglobin",
+        "Iron",
+        "Globin",
+        "Bilirubin"
+      ],
+      "correctAnswer": "Bilirubin",
+      "explanation": "Serum bilirubin can be estimated by the Van den Bergh reaction.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "In the Van den Bergh reaction, which type of bilirubin reacts rapidly with the reagent in aqueous solution without the addition of a solvent?",
+      "options": [
+        "Unconjugated bilirubin (Hemobilirubin)",
+        "Indirect-reacting bilirubin",
+        "Water-soluble, conjugated bilirubin (Cholebilirubin)",
+        "Stercobilinogen"
+      ],
+      "correctAnswer": "Water-soluble, conjugated bilirubin (Cholebilirubin)",
+      "explanation": "In aqueous solution, the water-soluble, conjugated bilirubin (as it is not bound to Albumin) reacts rapidly with the reagent (within one minute), and is said to be “direct-reacting.”.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "What does 'indirect-reacting' bilirubin, as measured by the Van den Bergh method, correspond to?",
+      "options": [
+        "Conjugated bilirubin",
+        "Total bilirubin",
+        "Unconjugated bilirubin",
+        "Urobilinogen"
+      ],
+      "correctAnswer": "Unconjugated bilirubin",
+      "explanation": "The indirect-reacting” bilirubin, which corresponds to the unconjugated bilirubin, is obtained by subtracting the direct-reacting bilirubin from the total bilirubin.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "type": "standard",
+      "questionText": "What is the normal total serum bilirubin range in mg/dL?",
+      "options": [
+        "0.0-0.1 mg/dL",
+        "0.2-1.2 mg/dL",
+        "1.5-2.5 mg/dL",
+        "3.0-5.0 mg/dL"
+      ],
+      "correctAnswer": "0.2-1.2 mg/dL",
+      "explanation": "Normal total serum bilirubin ranges between 0.2-1.2 mg/dL.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "32",
+      "type": "standard",
+      "questionText": "Jaundice is defined as the yellow color of skin, nail beds, and sclerae caused by the deposition of bilirubin, secondary to increased bilirubin levels in the blood. What is another term for jaundice?",
+      "options": [
+        "Anemia",
+        "Hemorrhage",
+        "Icterus",
+        "Edema"
+      ],
+      "correctAnswer": "Icterus",
+      "explanation": "Jaundice (also called icterus) refers to the yellow color of skin, nail beds, and sclerae caused by deposition of bilirubin, secondary to increased bilirubin levels in the blood (hyperbilirubinemia).",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "33",
+      "type": "standard",
+      "questionText": "An elevation of serum bilirubin above what level typically leads to visible yellowish discoloration (jaundice)?",
+      "options": [
+        "0.5 mg/dL",
+        "1.2 mg/dL",
+        "2 mg/dL",
+        "10 mg/dL"
+      ],
+      "correctAnswer": "2 mg/dL",
+      "explanation": "Elevation of serum bilirubin above 2 mg/dL leads to yellowish discoloration of the skin, sclera and mucous membranes, a condition known as jaundice, icterus, or hyperbilirubinemia.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "34",
+      "type": "standard",
+      "questionText": "Values of serum bilirubin between 1.2-2 mg/dL are considered what type of jaundice?",
+      "options": [
+        "Severe jaundice",
+        "Obstructive jaundice",
+        "Latent jaundice",
+        "Physiologic jaundice"
+      ],
+      "correctAnswer": "Latent jaundice",
+      "explanation": "Values between 1.2-2 mg/dL are considered latent jaundice.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "type": "standard",
+      "questionText": "According to the handout, jaundice is classified based on the predominant form of bilirubin in the serum. Which type is characterized by mainly indirect bilirubin?",
+      "options": [
+        "Unconjugated hyperbilirubinemia",
+        "Conjugated hyperbilirubinemia",
+        "Mixed hyperbilirubinemia",
+        "Latent jaundice"
+      ],
+      "correctAnswer": "Unconjugated hyperbilirubinemia",
+      "explanation": "According to the predominant form of bilirubin in serum, jaundice is classified into: (a) Unconjugated hyperbilirubinemia, (b) Conjugated hyperbilirubinemia, and (c) Both unconjugated and conjugated hyperbilirubinemia (mixed type). Serum bilirubin increases, mainly indirect bilirubin in Unconjugated Hyperbilirubinemia, specifically Hemolytic jaundice.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "type": "standard",
+      "questionText": "In hemolytic jaundice, which form of bilirubin primarily increases in the serum?",
+      "options": [
+        "Mainly direct bilirubin",
+        "Mainly conjugated bilirubin",
+        "Mainly indirect bilirubin",
+        "Equal parts direct and indirect"
+      ],
+      "correctAnswer": "Mainly indirect bilirubin",
+      "explanation": "In hemolytic jaundice, there is increased hemolysis... Serum bilirubin increases, mainly indirect bilirubin.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "37",
+      "type": "standard",
+      "questionText": "Which of the following findings is typical in the urine of a patient with hemolytic jaundice?",
+      "options": [
+        "Increased conjugated bilirubin",
+        "Increased urobilinogen",
+        "Absence of urobilinogen",
+        "Absence of bilirubin"
+      ],
+      "correctAnswer": "Increased urobilinogen",
+      "explanation": "In hemolytic jaundice... Urobilinogen increases in the urine.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "type": "standard",
+      "questionText": "Hemolytic jaundice is also known as \"acholuric jaundice.\" What does \"acholuric\" mean?",
+      "options": [
+        "Increased bile in urine",
+        "No bile in urine",
+        "Increased urobilinogen in urine",
+        "No urobilinogen in urine"
+      ],
+      "correctAnswer": "No bile in urine",
+      "explanation": "Since unconjugated bilirubin is bound to the plasma albumin, it cannot be excreted in the urine, and hence the name “acholuric jaundice”. (Acholuric: A= no, chole= bile, uric= urine). 'Bile' here refers to bile pigments like conjugated bilirubin.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "type": "standard",
+      "questionText": "Which of the following is listed as a cause of hemolytic jaundice?",
+      "options": [
+        "Gallstones",
+        "Viral hepatitis",
+        "Crigler-Najjar syndrome",
+        "Sickle cell anemia"
+      ],
+      "correctAnswer": "Sickle cell anemia",
+      "explanation": "Causes of hemolytic jaundice include: a- Abnormal hemoglobin: sickle cell anemia and thalassemias.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "40",
+      "type": "standard",
+      "questionText": "Physiologic neonatal jaundice, a transient condition in the first few days of life, is partly caused by increased hemolysis and partly by:",
+      "options": [
+        "Biliary obstruction",
+        "Gallstone formation",
+        "Immaturity of the enzyme UDP-glucuronyltransferase",
+        "Viral infection"
+      ],
+      "correctAnswer": "Immaturity of the enzyme UDP-glucuronyltransferase",
+      "explanation": "It partly results from increased hemolysis and partly from immaturity of the enzyme UDP-glucuronyltransferase.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "41",
+      "type": "standard",
+      "questionText": "How does phototherapy treat physiologic neonatal jaundice?",
+      "options": [
+        "By destroying bilirubin in the skin",
+        "By converting insoluble unconjugated bilirubin to more soluble isomers",
+        "By enhancing glucuronyltransferase activity",
+        "By increasing bile flow"
+      ],
+      "correctAnswer": "By converting insoluble unconjugated bilirubin to more soluble isomers",
+      "explanation": "Exposure to blue fluorescent light (phototherapy) helps conversion of the insoluble form of unconjugated bilirubin to the more soluble isomers that can be excreted into the bile without conjugation to glucuronic acid.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "42",
+      "type": "standard",
+      "questionText": "Phenobarbital can be used to treat neonatal jaundice by inducing the synthesis of which enzyme?",
+      "options": [
+        "Heme oxygenase",
+        "Biliverdin reductase",
+        "UDP-glucuronyltransferase",
+        "Alkaline phosphatase"
+      ],
+      "correctAnswer": "UDP-glucuronyltransferase",
+      "explanation": "Phenobarbital may also be used in the treatment of these cases to induce the synthesis of the enzyme glucuronyltransferase.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "43",
+      "type": "standard",
+      "questionText": "Crigler-Najjar Syndrome, type I, is a rare autosomal recessive disease characterized by:",
+      "options": [
+        "Partial deficiency of UDP-glucuronyltransferase",
+        "Total deficiency of UDP-glucuronyltransferase",
+        "Defect in bilirubin uptake",
+        "Defect in conjugated bilirubin secretion"
+      ],
+      "correctAnswer": "Total deficiency of UDP-glucuronyltransferase",
+      "explanation": "Crigler-Najjar Syndrome, type I... in which there is total deficiency of UDP-glucuronyltransferase.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "44",
+      "type": "standard",
+      "questionText": "In Crigler-Najjar Syndrome, type I, serum unconjugated bilirubin typically:",
+      "options": [
+        "Does not exceed 13 mg/dL",
+        "Does not exceed 20 mg/dL",
+        "Exceeds 20 mg/dL",
+        "Is predominantly conjugated"
+      ],
+      "correctAnswer": "Exceeds 20 mg/dL",
+      "explanation": "In Crigler-Najjar Syndrome, type I... Serum unconjugated bilirubin exceeds 20 mg/dL.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "45",
+      "type": "standard",
+      "questionText": "Patients with Crigler-Najjar Syndrome, type I, typically do not respond to which treatment that is effective in Type II and neonatal jaundice?",
+      "options": [
+        "Phototherapy",
+        "Blood transfusion",
+        "Phenobarbital therapy",
+        "Liver transplant"
+      ],
+      "correctAnswer": "Phenobarbital therapy",
+      "explanation": "Patients [with Crigler-Najjar Syndrome, type I] do not respond to phenobarbital therapy. Patients with Type II respond to large doses of phenobarbital therapy.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "46",
+      "type": "standard",
+      "questionText": "Crigler-Najjar Syndrome, type II, is characterized by:",
+      "options": [
+        "Total deficiency of UDP-glucuronyltransferase",
+        "Partial deficiency of UDP-glucuronyltransferase",
+        "Defect in bilirubin excretion into bile",
+        "Increased bilirubin uptake by the liver"
+      ],
+      "correctAnswer": "Partial deficiency of UDP-glucuronyltransferase",
+      "explanation": "Crigler-Najjar Syndrome, type II... in which there is partial deficiency of UDP-glucuronyltransferase.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "47",
+      "type": "standard",
+      "questionText": "What is a characteristic finding in the bile of patients with Crigler-Najjar Syndrome, type II, providing evidence for the specific defect in adding the second glucuronic acid?",
+      "options": [
+        "Presence of stercobilinogen",
+        "Absence of bilirubin",
+        "Presence of bilirubin monoglucuronide",
+        "Increased unconjugated bilirubin"
+      ],
+      "correctAnswer": "Presence of bilirubin monoglucuronide",
+      "explanation": "The defect [in Crigler-Najjar Type II] is in the addition of the second glucuronic acid, as evidenced by the presence of bilirubin monoglucuronide in bile.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "48",
+      "type": "standard",
+      "questionText": "Gilbert Syndrome is described as a benign condition caused by a defect primarily affecting:",
+      "options": [
+        "Biliary obstruction and bile flow",
+        "Increased hemolysis and bilirubin production",
+        "Uptake of unconjugated bilirubin and conjugation pathways",
+        "Secretion of conjugated bilirubin into bile"
+      ],
+      "correctAnswer": "Uptake of unconjugated bilirubin and conjugation pathways",
+      "explanation": "Gilbert Syndrome... caused by a defect in the uptake of unconjugated bilirubin by the liver and conjugation pathways.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "49",
+      "type": "standard",
+      "questionText": "Obstructive Jaundice is caused by obstruction of the biliary passages. This leads to an increase in which form of bilirubin in the serum?",
+      "options": [
+        "Mainly indirect bilirubin",
+        "Mainly unconjugated bilirubin",
+        "Mainly conjugated bilirubin",
+        "Only urobilinogen"
+      ],
+      "correctAnswer": "Mainly conjugated bilirubin",
+      "explanation": "This [obstruction] leads to regurgitation of conjugated bilirubin (water soluble) to the blood. Serum bilirubin increases, mainly conjugated bilirubin.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "50",
+      "type": "standard",
+      "questionText": "Which of the following is a characteristic finding in the feces of a patient with complete biliary obstruction (Obstructive Jaundice)?",
+      "options": [
+        "Dark brown stools (increased stercobilin)",
+        "Pale, clay colored stools (disappearance of stercobilin)",
+        "Increased urobilinogen",
+        "Presence of conjugated bilirubin"
+      ],
+      "correctAnswer": "Pale, clay colored stools (disappearance of stercobilin)",
+      "explanation": "In Obstructive Jaundice... Stercobilin disappears from the feces, which produces clay colored stool.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "51",
+      "type": "standard",
+      "questionText": "In Obstructive Jaundice, due to the blockage preventing bilirubin from reaching the intestine, what happens to urobilinogen in the urine?",
+      "options": [
+        "It increases significantly",
+        "It decreases or disappears",
+        "It is replaced by stercobilin",
+        "Its level remains normal"
+      ],
+      "correctAnswer": "It decreases or disappears",
+      "explanation": "In Obstructive Jaundice... Urobilinogen disappears from the urine. This happens because bilirubin doesn't reach the intestine to be converted into urobilinogen.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "52",
+      "type": "standard",
+      "questionText": "Which serum enzyme levels are typically elevated in Obstructive Jaundice due to biliary obstruction?",
+      "options": [
+        "ALT and AST",
+        "LDH and CK",
+        "Alkaline phosphatase (ALP) and - glutamyltransferase (-GT)",
+        "Amylase and Lipase"
+      ],
+      "correctAnswer": "Alkaline phosphatase (ALP) and - glutamyltransferase (-GT)",
+      "explanation": "Due to biliary obstruction, the serum levels of the enzyme alkaline phosphatase (ALP) and - glutamyltransferase (-GT) are elevated.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "53",
+      "type": "standard",
+      "questionText": "Dubin-Johnson Syndrome is an autosomal recessive disorder associated with an increase in conjugated bilirubin caused by a defect in the ability of hepatocytes to secrete conjugated bilirubin into where?",
+      "options": [
+        "The blood",
+        "The urine",
+        "The bile",
+        "The lymph"
+      ],
+      "correctAnswer": "The bile",
+      "explanation": "Dubin-Johnson is an autosomal recessive disorder, that causes an increase of conjugated bilirubin. This condition is associated with a defect in the ability of hepatocytes to secrete conjugated bilirubin into the bile.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "54",
+      "type": "standard",
+      "questionText": "What is a distinguishing feature of the liver histology in Dubin-Johnson Syndrome compared to Rotor Syndrome?",
+      "options": [
+        "Increased Kupffer cells",
+        "Fatty infiltration",
+        "Presence of a dark pigment in the center of hepatic lobules",
+        "Absence of hepatocytes"
+      ],
+      "correctAnswer": "Presence of a dark pigment in the center of hepatic lobules",
+      "explanation": "Hepatocytes in the center of hepatic lobules contain a dark pigment in the case of Dubin-Johnson. Rotor syndrome is a similar condition, but there is no staining of the liver.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "55",
+      "type": "standard",
+      "questionText": "Jaundice characterized by an increase in both conjugated and unconjugated bilirubin is also known by what terms?",
+      "options": [
+        "Hemolytic jaundice or acholuric jaundice",
+        "Obstructive jaundice or cholestasis",
+        "Toxic hyperbilirubinemia or hepatocellular jaundice",
+        "Physiologic neonatal jaundice or latent jaundice"
+      ],
+      "correctAnswer": "Toxic hyperbilirubinemia or hepatocellular jaundice",
+      "explanation": "Both Conjugated & Unconjugated Hyperbilirubinemia is also called toxic hyperbilirubinemia or hepatocellular jaundice.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "56",
+      "type": "standard",
+      "questionText": "What is the usual primary cause of hepatocellular jaundice (toxic hyperbilirubinemia)?",
+      "options": [
+        "Gallstones",
+        "Increased red blood cell destruction",
+        "Viral hepatitis",
+        "Congenital enzyme deficiency"
+      ],
+      "correctAnswer": "Viral hepatitis",
+      "explanation": "It is usually due to viral hepatitis, but may also be caused by some toxins.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "57",
+      "type": "standard",
+      "questionText": "In hepatocellular jaundice, why does conjugated hyperbilirubinemia occur?",
+      "options": [
+        "Increased secretion of conjugated bilirubin into bile",
+        "Regurgitation of bile from the intestine",
+        "Swelling liver cells blocking the biliary canaliculi",
+        "Increased production of conjugated bilirubin"
+      ],
+      "correctAnswer": "Swelling liver cells blocking the biliary canaliculi",
+      "explanation": "In addition, liver cells usually swell blocking the biliary canaliculi, leading to conjugated hyperbilirubinemia.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "58",
+      "type": "standard",
+      "questionText": "Which findings are typical in the urine of a patient with hepatocellular jaundice?",
+      "options": [
+        "Only urobilinogen present",
+        "Only bilirubin present",
+        "Both urobilinogen and bilirubin present",
+        "Neither urobilinogen nor bilirubin present"
+      ],
+      "correctAnswer": "Both urobilinogen and bilirubin present",
+      "explanation": "Both urobilinogen and bilirubin appear in the urine, which becomes dark brown in color.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "59",
+      "type": "standard",
+      "questionText": "Due to liver cell damage in hepatocellular jaundice, which serum enzymes are typically elevated?",
+      "options": [
+        "ALP and -GT",
+        "ALT and AST",
+        "Amylase and Lipase",
+        "LDH and CK"
+      ],
+      "correctAnswer": "ALT and AST",
+      "explanation": "Due to liver cell damage, the serum levels of the enzymes ALT and AST and -GT are elevated. Note that ALP and GGT are also elevated but ALT and AST are more specific markers of hepatocyte damage, unlike ALP which points to biliary issues.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "60",
+      "type": "standard",
+      "questionText": "A 62-year-old female presents with intense jaundice, upper abdominal pain radiating to the back, weight loss, pale stools, very high direct bilirubin, elevated urinary bilirubin, slightly elevated ALT, and markedly elevated ALP. What is the most likely diagnosis based on the provided case study?",
+      "options": [
+        "Gilbert syndrome",
+        "Hemolytic anemia",
+        "Carcinoma of the pancreas",
+        "Infectious hepatitis"
+      ],
+      "correctAnswer": "Carcinoma of the pancreas",
+      "explanation": "The case describes features strongly suggestive of obstructive jaundice: intense jaundice with high direct bilirubin and urinary bilirubin, pale stools (loss of stercobilin), and markedly elevated ALP. The pain radiating to the back and weight loss point towards a malignancy obstructing the bile duct, such as carcinoma of the head of the pancreas. Gilbert syndrome and hemolytic anemia cause unconjugated hyperbilirubinemia. Infectious hepatitis causes hepatocellular jaundice with elevated ALT/AST and both conjugated and unconjugated bilirubin elevation. The findings best fit obstructive jaundice due to pancreatic cancer.",
+      "references": ["Heme Catabolism Handout"],
+      "difficulty": "hard"
+    }
+  ]
+}

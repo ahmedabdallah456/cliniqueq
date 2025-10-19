@@ -1,0 +1,12 @@
+{
+  "id": "CNS",
+  "title": "Histology: Part 1",
+  "year": 2,
+  "subject": "Histology",
+  "difficulty": "hard",
+  "examType": ["USMLE", "PLAB", "Nahda University"],
+  "solvedCount": 0,
+  "xp": 250,
+  "rating": 4.1,
+  "url": "practice/CNS/Histology/Part-1/MCQs"
+}

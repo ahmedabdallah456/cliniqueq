@@ -1,0 +1,104 @@
+{
+  "title": "Hanta Fever",
+  "module": "HEM",
+  "subject": "Microbiology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB"],
+  "description": "Questions about Hanta virus infection and pathophysiology",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "Which vector transmits Hanta virus?",
+      "options": ["Mosquitoes", "Ticks", "Rodents", "Birds"],
+      "correctAnswer": "Rodents",
+      "explanation": "Hanta virus is transmitted through inhalation of aerosolized rodent excreta.",
+      "references": ["Harrison's Internal Medicine, 20th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "Which enzyme is responsible for the conversion of angiotensin I to angiotensin II?",
+      "options": [
+        "Renin",
+        "Angiotensin-converting enzyme (ACE)",
+        "Aldosterone synthase",
+        "Atrial natriuretic peptide"
+      ],
+      "correctAnswer": "Angiotensin-converting enzyme (ACE)",
+      "explanation": "ACE converts angiotensin I to the active angiotensin II in the lungs."
+    },
+    {
+      "id": "3",
+      "type": "datashow",
+      "questionText": "Based on the ECG shown above, what is the most likely diagnosis?",
+      "imageUrl": "/img/dataimage.png",
+      "imageAlt": "ECG showing irregular rhythm with absent P waves",
+      "options": [
+        "Normal sinus rhythm",
+        "Atrial fibrillation",
+        "Ventricular tachycardia",
+        "Complete heart block"
+      ],
+      "correctAnswer": "Atrial fibrillation",
+      "explanation": "The ECG shows irregularly irregular rhythm with absent P waves, which is characteristic of atrial fibrillation."
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "The primary neurotransmitter at sympathetic ganglia is:",
+      "options": [
+        "Acetylcholine",
+        "Norepinephrine",
+        "Dopamine",
+        "Serotonin"
+      ],
+      "correctAnswer": "Acetylcholine",
+      "explanation": "Sympathetic ganglia use acetylcholine as their primary neurotransmitter."
+    },
+    {
+      "id": "5",
+      "type": "datashow",
+      "questionText": "What pathological finding is most evident in this chest X-ray?",
+      "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=600&h=400&fit=crop",
+      "imageAlt": "Chest X-ray showing bilateral lung infiltrates",
+      "options": [
+        "Pneumothorax",
+        "Pleural effusion",
+        "Bilateral pneumonia",
+        "Normal chest X-ray"
+      ],
+      "correctAnswer": "Bilateral pneumonia",
+      "explanation": "The chest X-ray shows bilateral infiltrates consistent with pneumonia affecting both lungs."
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "Which part of the nephron is primarily responsible for glucose reabsorption?",
+      "options": [
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule",
+        "Collecting duct"
+      ],
+      "correctAnswer": "Proximal convoluted tubule",
+      "explanation": "Glucose is primarily reabsorbed in the proximal convoluted tubule via sodium-glucose transporters."
+    },
+    {
+      "id": "7",
+      "type": "datashow",
+      "questionText": "Based on this histological image, what type of tissue is shown?",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=a&h=400&fit=crop",
+      "imageAlt": "Microscopic image showing cellular tissue structure",
+      "options": [
+        "Cardiac muscle",
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Nervous tissue"
+      ],
+      "correctAnswer": "Cardiac muscle",
+      "explanation": "The histological image shows striated muscle with intercalated discs, characteristic of cardiac muscle."
+    }
+  ]
+}

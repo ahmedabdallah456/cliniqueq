@@ -1,0 +1,12 @@
+{
+  "id": "NEURO",
+  "title": "PubMed: Embryology of CNS",
+  "year": 1,
+  "subject": "Embryology",
+  "difficulty": "Hard",
+  "examType": ["USMLE", "PLAB", "Nahda University"],
+  "solvedCount": 0,
+  "xp": 600,
+  "rating": 4.9,
+  "url": "topics/CNS/Embryology/PubMed/MCQs.json"
+}

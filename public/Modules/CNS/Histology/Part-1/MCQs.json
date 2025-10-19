@@ -1,0 +1,160 @@
+{
+  "title": "Histology: Part 1",
+  "module": "CNS",
+  "subject": "Histology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB", "Nahda University"],
+  "description": "Questions about the histology of the central nervous system and spinal cord",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "Which of the following is NOT a part of the brain in the central nervous system?",
+      "options": ["Cerebrum", "Cerebellum", "Spinal cord", "Diencephalon"],
+      "correctAnswer": "Spinal cord",
+      "explanation": "The central nervous system includes the brain (cerebrum, cerebellum, diencephalon, brainstem) and the spinal cord separately.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "How many segments does the spinal cord have?",
+      "options": ["28", "30", "31", "32"],
+      "correctAnswer": "31",
+      "explanation": "The spinal cord has 31 segments: cervical 8, thoracic 12, lumbar 5, sacral 5, and coccygeal 1.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "Which general character of the CNS explains its soft jelly-like consistency?",
+      "options": ["Covered by meninges", "Protected by bone", "Does not contain connective tissue", "Consists of white and grey matter"],
+      "correctAnswer": "Does not contain connective tissue",
+      "explanation": "The CNS is soft jelly-like because it does not contain connective tissue.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "In a cross-section of the spinal cord, what shape does the central grey matter typically form?",
+      "options": ["Circular", "H-shaped", "Oval", "Rectangular"],
+      "correctAnswer": "H-shaped",
+      "explanation": "The central grey matter in the spinal cord cross-section is H-shaped.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "What components primarily form the grey matter of the spinal cord?",
+      "options": ["Myelinated nerve fibers and neuroglial cells", "Nerve cells, neuroglial cells, and unmyelinated nerve fibers", "Myelinated nerve fibers only", "Connective tissue and nerve cells"],
+      "correctAnswer": "Nerve cells, neuroglial cells, and unmyelinated nerve fibers",
+      "explanation": "Grey matter is formed of nerve cells, neuroglial cells, and unmyelinated nerve fibers.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "The dorsal horns of the spinal cord grey matter contain which type of nuclei?",
+      "options": ["Motor nuclei", "Sensory nuclei", "Sympathetic nuclei", "Commissural nuclei"],
+      "correctAnswer": "Sensory nuclei",
+      "explanation": "The two dorsal horns contain sensory nuclei.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "In which segments of the spinal cord are the lateral horns present?",
+      "options": ["Cervical and sacral", "Thoracic and upper 2 lumbar", "All segments", "Lumbar and coccygeal"],
+      "correctAnswer": "Thoracic and upper 2 lumbar",
+      "explanation": "Additional two lateral horns are only in thoracic and upper 2 lumbar segments containing sympathetic nuclei.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "What is the definition of a nucleus in the context of the CNS?",
+      "options": ["A group of myelinated fibers with the same function", "A group of nerve cells inside CNS having the same function", "A central canal structure", "A type of neuroglial cell"],
+      "correctAnswer": "A group of nerve cells inside CNS having the same function",
+      "explanation": "A nucleus is a group of nerve cells inside the CNS having the same function.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "Which nucleus is found in the posterior horns at all levels of the spinal cord?",
+      "options": ["Clark’s nucleus", "Central motor nucleus", "Substantia Gelatinosa of Rolandi (SGR)", "Sympathetic nuclei"],
+      "correctAnswer": "Substantia Gelatinosa of Rolandi (SGR)",
+      "explanation": "Substantia Gelatinosa of Rolandi (SGR) is a sensory nucleus in posterior horns at all levels.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "How many fixed nuclei are present in all levels of the spinal cord?",
+      "options": ["Four", "Six", "Eight", "Ten"],
+      "correctAnswer": "Six",
+      "explanation": "Fixed nuclei in all levels: SGR, MSN, Ant. Commissural, Post. Commissural, Ant. Med. Motor, Post Med. Motor.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "What primarily forms the white matter of the spinal cord?",
+      "options": ["Nerve cells and unmyelinated fibers", "Neuroglial cells and myelinated nerve fibers", "Connective tissue and neuroglial cells", "Unmyelinated fibers only"],
+      "correctAnswer": "Neuroglial cells and myelinated nerve fibers",
+      "explanation": "White matter is formed of neuroglial cells and myelinated nerve fibers.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "Into how many columns is the white matter divided in each half of the spinal cord?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctAnswer": "Three",
+      "explanation": "It is divided into 3 columns in each half: dorsal, lateral, anterior.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "Which column of the white matter contains only ascending tracts?",
+      "options": ["Anterior column", "Lateral column", "Posterior column", "All columns"],
+      "correctAnswer": "Posterior column",
+      "explanation": "Posterior Column contains ascending tracts only.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "What is the definition of a tract in the CNS?",
+      "options": ["A group of nerve cells with the same function", "A group of nerve fibers inside CNS with same beginning, end, and function", "A central grey matter structure", "A type of meninges"],
+      "correctAnswer": "A group of nerve fibers inside CNS with same beginning, end, and function",
+      "explanation": "A tract is a group of nerve fibers inside the CNS with the same beginning, end, and function.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Short tracts of the spinal cord are characterized as:",
+      "options": ["Ascending only", "Descending only", "Both ascending and descending", "Neither ascending nor descending"],
+      "correctAnswer": "Both ascending and descending",
+      "explanation": "Short tracts are both ascending and descending, while long tracts are ascending or descending.",
+      "references": ["Nahda Medical School's Handout (Histology Department)"],
+      "difficulty": "medium"
+    }
+  ]
+}

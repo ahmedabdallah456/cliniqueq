@@ -1,0 +1,460 @@
+{
+  "title": "Hematology and Oncology",
+  "module": "HEM",
+  "subject": "Pathology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB"],
+  "description": "Questions covering neoplasms of lymph nodes, leukemia, and bleeding disorders, focusing on pathophysiology, classification, and clinical features.",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "Which of the following is the most common type of Hodgkin’s Lymphoma?",
+      "options": ["Nodular Lymphocyte Predominant", "Lymphocyte Rich", "Nodular Sclerosing", "Lymphocyte Depletion"],
+      "correctAnswer": "Nodular Sclerosing",
+      "explanation": "Nodular Sclerosing is the most common type of Hodgkin’s Lymphoma, characterized by collagen bands and lacunar cells, and it has an excellent prognosis.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "What is the diagnostic hallmark of Hodgkin’s Lymphoma?",
+      "options": ["Reed-Sternberg cells", "Auer rods", "Bence-Jones proteins", "Howell-Jolly bodies"],
+      "correctAnswer": "Reed-Sternberg cells",
+      "explanation": "Reed-Sternberg cells, large binucleate cells with eosinophilic nucleoli, are the diagnostic hallmark of Hodgkin’s Lymphoma.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "A patient with Hodgkin’s Lymphoma presents with fever, night sweats, and weight loss. What stage suffix would be assigned?",
+      "options": ["A", "B", "X", "E"],
+      "correctAnswer": "B",
+      "explanation": "The presence of systemic symptoms like fever, night sweats, and weight loss in Hodgkin’s Lymphoma is classified as 'B' symptoms, indicating a worse prognosis.",
+      "references": ["Harrison's Principles of Internal Medicine, 20th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "Which type of lymphoma is more likely to present with extranodal involvement?",
+      "options": ["Hodgkin’s Lymphoma", "Non-Hodgkin’s Lymphoma", "Multiple Myeloma", "Chronic Myeloid Leukemia"],
+      "correctAnswer": "Non-Hodgkin’s Lymphoma",
+      "explanation": "Non-Hodgkin’s Lymphoma frequently involves extranodal sites such as the spleen, tonsils, or gastrointestinal tract, unlike Hodgkin’s Lymphoma, which typically starts in lymph nodes.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "Which of the following is a characteristic microscopic feature of lymphomas?",
+      "options": ["Preserved nodal architecture", "Infiltration of subcapsular sinus", "Presence of Auer rods", "Osteolytic lesions"],
+      "correctAnswer": "Infiltration of subcapsular sinus",
+      "explanation": "Lymphomas typically show loss of nodal architecture with neoplastic lymphoid cells infiltrating the subcapsular sinus.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "A lymph node biopsy shows large, binucleate cells with prominent nucleoli. What is the most likely diagnosis?",
+      "options": ["Follicular Lymphoma", "Hodgkin’s Lymphoma", "Burkitt Lymphoma", "Multiple Myeloma"],
+      "correctAnswer": "Hodgkin’s Lymphoma",
+      "explanation": "The presence of Reed-Sternberg cells, which are large and binucleate with prominent nucleoli, is diagnostic for Hodgkin’s Lymphoma.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "Which type of Hodgkin’s Lymphoma has the worst prognosis?",
+      "options": ["Nodular Sclerosing", "Lymphocyte Depletion", "Lymphocyte Rich", "Nodular Lymphocyte Predominant"],
+      "correctAnswer": "Lymphocyte Depletion",
+      "explanation": "Lymphocyte Depletion type of Hodgkin’s Lymphoma is associated with a poor prognosis due to its aggressive nature and scarcity of lymphocytes.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "Which of the following is a low-grade Non-Hodgkin’s Lymphoma?",
+      "options": ["Diffuse Large B-Cell Lymphoma", "Burkitt Lymphoma", "Follicular Lymphoma", "Lymphocyte Depletion Hodgkin’s Lymphoma"],
+      "correctAnswer": "Follicular Lymphoma",
+      "explanation": "Follicular Lymphoma is a low-grade Non-Hodgkin’s Lymphoma characterized by slow progression and follicular growth patterns.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "A patient with lymphoma has involvement of lymph nodes on both sides of the diaphragm, including the spleen. What is the clinical stage?",
+      "options": ["Stage I", "Stage II", "Stage III", "Stage IV"],
+      "correctAnswer": "Stage III",
+      "explanation": "Stage III Hodgkin’s Lymphoma involves lymph nodes above and below the diaphragm, including the spleen.",
+      "references": ["Harrison's Principles of Internal Medicine, 20th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "Which of the following is a common site for secondary neoplasms in lymph nodes?",
+      "options": ["Cervical nodes from lung cancer", "Axillary nodes from breast cancer", "Inguinal nodes from thyroid cancer", "Mesenteric nodes from prostate cancer"],
+      "correctAnswer": "Axillary nodes from breast cancer",
+      "explanation": "Breast cancer commonly metastasizes to axillary lymph nodes, making it a frequent site for secondary neoplasms.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "What is the primary site of neoplastic proliferation in leukemia?",
+      "options": ["Lymph nodes", "Bone marrow", "Spleen", "Liver"],
+      "correctAnswer": "Bone marrow",
+      "explanation": "Leukemia is characterized by neoplastic proliferation of white blood cells primarily in the bone marrow, with possible spread to peripheral blood and other tissues.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "Which type of leukemia is characterized by immature lymphoid blasts?",
+      "options": ["Acute Myeloid Leukemia (AML)", "Chronic Myeloid Leukemia (CML)", "Acute Lymphoblastic Leukemia (ALL)", "Chronic Lymphocytic Leukemia (CLL)"],
+      "correctAnswer": "Acute Lymphoblastic Leukemia (ALL)",
+      "explanation": "ALL is characterized by the proliferation of immature lymphoid blasts in the bone marrow and peripheral blood.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "Which of the following is a common clinical feature of leukemia?",
+      "options": ["Hepatosplenomegaly", "Osteolytic lesions", "Bence-Jones proteinuria", "Reed-Sternberg cells"],
+      "correctAnswer": "Hepatosplenomegaly",
+      "explanation": "Hepatosplenomegaly is a common clinical feature of leukemia due to tissue invasion by neoplastic leukocytes.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "Which of the following is a known risk factor for leukemia?",
+      "options": ["Irradiation", "Vitamin K deficiency", "Aspirin use", "Henoch-Schonlein purpura"],
+      "correctAnswer": "Irradiation",
+      "explanation": "Irradiation is a well-established risk factor for leukemia, particularly acute leukemias, due to DNA damage in hematopoietic cells.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Which leukemia is characterized by mature myeloid cells?",
+      "options": ["Acute Myeloid Leukemia (AML)", "Chronic Myeloid Leukemia (CML)", "Acute Lymphoblastic Leukemia (ALL)", "Chronic Lymphocytic Leukemia (CLL)"],
+      "correctAnswer": "Chronic Myeloid Leukemia (CML)",
+      "explanation": "CML is characterized by the proliferation of mature myeloid cells, often associated with the Philadelphia chromosome.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "What is the primary site of malignant plasma cell proliferation in multiple myeloma?",
+      "options": ["Lymph nodes", "Bone marrow", "Spleen", "Liver"],
+      "correctAnswer": "Bone marrow",
+      "explanation": "Multiple myeloma is a malignant plasma cell tumor that primarily proliferates in the bone marrow, particularly in sites like the skull and vertebrae.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "Which of the following is a characteristic radiologic finding in multiple myeloma?",
+      "options": ["Osteosclerotic lesions", "Osteolytic lesions", "Periosteal reaction", "Bone cysts"],
+      "correctAnswer": "Osteolytic lesions",
+      "explanation": "Multiple myeloma is associated with multiple osteolytic lesions due to bone destruction by malignant plasma cells.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "What is a common complication of multiple myeloma due to Bence-Jones proteinuria?",
+      "options": ["Renal failure", "Hepatosplenomegaly", "Lymphadenopathy", "Pulmonary edema"],
+      "correctAnswer": "Renal failure",
+      "explanation": "Bence-Jones proteinuria in multiple myeloma can lead to renal failure, often termed myeloma nephrosis, due to tubular damage.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "Which of the following is a common cause of death in multiple myeloma?",
+      "options": ["Recurrent infections", "Cerebral hemorrhage", "Pulmonary embolism", "Myocardial infarction"],
+      "correctAnswer": "Recurrent infections",
+      "explanation": "Recurrent infections are a common cause of death in multiple myeloma due to low immunity from impaired antibody production.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "What is the minimum percentage of atypical plasma cells in the bone marrow for a diagnosis of multiple myeloma?",
+      "options": ["5%", "10%", "20%", "30%"],
+      "correctAnswer": "20%",
+      "explanation": "A diagnosis of multiple myeloma typically requires >20% atypical plasma cells in the bone marrow, along with other criteria.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "Which bleeding disorder is characterized by petechiae as the primary clinical presentation?",
+      "options": ["Hemophilia A", "Thrombocytopenia", "Vitamin K deficiency", "Liver disease"],
+      "correctAnswer": "Thrombocytopenia",
+      "explanation": "Thrombocytopenia, a decrease in platelet count, typically presents with petechial bleeding due to impaired primary hemostasis.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "Which of the following is a hereditary clotting factor disorder?",
+      "options": ["Vitamin K deficiency", "Hemophilia A", "Liver disease", "Thrombocytopenia"],
+      "correctAnswer": "Hemophilia A",
+      "explanation": "Hemophilia A is a hereditary disorder caused by a deficiency in factor VIII, leading to prolonged bleeding.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "What is the primary clinical difference between platelet disorders and clotting factor disorders?",
+      "options": ["Platelet disorders cause deep bleeds; clotting factor disorders cause superficial bleeds", "Platelet disorders cause superficial bleeds; clotting factor disorders cause deep bleeds", "Both cause deep bleeds", "Both cause superficial bleeds"],
+      "correctAnswer": "Platelet disorders cause superficial bleeds; clotting factor disorders cause deep bleeds",
+      "explanation": "Platelet disorders lead to small, superficial bleeds like petechiae, while clotting factor disorders cause larger, deeper bleeds like hematomas.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "Which drug is known to impair platelet aggregation, leading to a bleeding tendency?",
+      "options": ["Warfarin", "Heparin", "Aspirin", "Clopidogrel"],
+      "correctAnswer": "Aspirin",
+      "explanation": "Aspirin impairs platelet aggregation by inhibiting cyclooxygenase, leading to reduced thromboxane A2 production and a bleeding tendency.",
+      "references": ["Harrison's Principles of Internal Medicine, 20th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "What is the size range for purpura in bleeding disorders?",
+      "options": ["<2 mm", "2 mm–1 cm", ">1 cm", ">2 cm"],
+      "correctAnswer": "2 mm–1 cm",
+      "explanation": "Purpura is defined as hemorrhagic spots ranging from 2 mm to 1 cm in size.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "Which condition is associated with increased vascular fragility leading to purpura?",
+      "options": ["Hemophilia B", "Henoch-Schonlein purpura", "Thrombocytopenia", "Multiple Myeloma"],
+      "correctAnswer": "Henoch-Schonlein purpura",
+      "explanation": "Henoch-Schonlein purpura is a vasculitis that causes increased vascular fragility, leading to purpura.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "Which leukemia is most commonly associated with the Philadelphia chromosome?",
+      "options": ["Acute Myeloid Leukemia (AML)", "Chronic Myeloid Leukemia (CML)", "Acute Lymphoblastic Leukemia (ALL)", "Chronic Lymphocytic Leukemia (CLL)"],
+      "correctAnswer": "Chronic Myeloid Leukemia (CML)",
+      "explanation": "CML is strongly associated with the Philadelphia chromosome, a translocation between chromosomes 9 and 22, leading to the BCR-ABL fusion gene.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "A patient with multiple myeloma presents with pathological fractures. What is the underlying cause?",
+      "options": ["Hypercalcemia", "Bone marrow infiltration", "Osteolytic lesions", "Bence-Jones proteinuria"],
+      "correctAnswer": "Osteolytic lesions",
+      "explanation": "Osteolytic lesions caused by malignant plasma cells in multiple myeloma weaken bones, leading to pathological fractures.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "Which of the following is a high-grade Non-Hodgkin’s Lymphoma?",
+      "options": ["Small Lymphocytic Lymphoma", "Follicular Lymphoma", "Diffuse Large B-Cell Lymphoma", "Nodular Sclerosing Hodgkin’s Lymphoma"],
+      "correctAnswer": "Diffuse Large B-Cell Lymphoma",
+      "explanation": "Diffuse Large B-Cell Lymphoma is a high-grade Non-Hodgkin’s Lymphoma characterized by aggressive behavior and rapid growth.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "What is the characteristic cell type in Nodular Sclerosing Hodgkin’s Lymphoma?",
+      "options": ["Reed-Sternberg cells", "Lacunar cells", "Mononuclear Hodgkin’s cells", "Atypical plasma cells"],
+      "correctAnswer": "Lacunar cells",
+      "explanation": "Lacunar cells are a variant of Reed-Sternberg cells and are characteristic of Nodular Sclerosing Hodgkin’s Lymphoma.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "31",
+      "type": "standard",
+      "questionText": "Which of the following is a common cause of thrombocytopenia?",
+      "options": ["Vitamin K deficiency", "Splenomegaly", "Hemophilia A", "Liver disease"],
+      "correctAnswer": "Splenomegaly",
+      "explanation": "Splenomegaly can cause thrombocytopenia by sequestering platelets in the spleen, reducing circulating platelet counts.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "type": "standard",
+      "questionText": "Which type of Hodgkin’s Lymphoma has the best prognosis?",
+      "options": ["Nodular Sclerosing", "Lymphocyte Depletion", "Mixed Cellularity", "Lymphocyte Rich"],
+      "correctAnswer": "Nodular Sclerosing",
+      "explanation": "Nodular Sclerosing Hodgkin’s Lymphoma has an excellent prognosis, particularly when diagnosed early and treated appropriately.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "33",
+      "type": "standard",
+      "questionText": "What is the primary cause of hypercalcemia in multiple myeloma?",
+      "options": ["Bone destruction", "Renal failure", "Bence-Jones proteinuria", "Pancytopenia"],
+      "correctAnswer": "Bone destruction",
+      "explanation": "Bone destruction by osteolytic lesions in multiple myeloma releases calcium into the bloodstream, causing hypercalcemia.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "type": "standard",
+      "questionText": "Which bleeding disorder is caused by a deficiency in factor IX?",
+      "options": ["Hemophilia A", "Hemophilia B", "Von Willebrand disease", "Vitamin K deficiency"],
+      "correctAnswer": "Hemophilia B",
+      "explanation": "Hemophilia B is caused by a deficiency in factor IX, leading to prolonged bleeding and hematomas.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "35",
+      "type": "standard",
+      "questionText": "Which of the following is a characteristic feature of chronic lymphocytic leukemia (CLL)?",
+      "options": ["Immature lymphoid blasts", "Mature lymphocytes", "Auer rods", "Osteolytic lesions"],
+      "correctAnswer": "Mature lymphocytes",
+      "explanation": "CLL is characterized by the proliferation of mature lymphocytes in the bone marrow and peripheral blood.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "type": "standard",
+      "questionText": "What is the term for localized blood accumulation with swelling in bleeding disorders?",
+      "options": ["Petechiae", "Purpura", "Ecchymosis", "Hematoma"],
+      "correctAnswer": "Hematoma",
+      "explanation": "A hematoma is a localized accumulation of blood with swelling, often seen in clotting factor disorders.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "37",
+      "type": "standard",
+      "questionText": "Which type of lymphoma is associated with a ‘starry sky’ appearance on microscopy?",
+      "options": ["Follicular Lymphoma", "Burkitt Lymphoma", "Nodular Sclerosing Hodgkin’s Lymphoma", "Small Lymphocytic Lymphoma"],
+      "correctAnswer": "Burkitt Lymphoma",
+      "explanation": "Burkitt Lymphoma is characterized by a ‘starry sky’ appearance due to scattered macrophages among rapidly dividing lymphoid cells.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "38",
+      "type": "standard",
+      "questionText": "Which of the following is a common site of extranodal involvement in Non-Hodgkin’s Lymphoma?",
+      "options": ["Kidney", "Spleen", "Lung", "Pancreas"],
+      "correctAnswer": "Spleen",
+      "explanation": "The spleen is a common site of extranodal involvement in Non-Hodgkin’s Lymphoma, along with other sites like the tonsils and gastrointestinal tract.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "type": "standard",
+      "questionText": "What is the primary cause of pancytopenia in multiple myeloma?",
+      "options": ["Bone marrow replacement", "Renal failure", "Bence-Jones proteinuria", "Hypercalcemia"],
+      "correctAnswer": "Bone marrow replacement",
+      "explanation": "Pancytopenia in multiple myeloma results from the replacement of normal bone marrow by malignant plasma cells.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "40",
+      "type": "standard",
+      "questionText": "Which of the following is a characteristic feature of acute myeloid leukemia (AML)?",
+      "options": ["Mature myeloid cells", "Immature myeloid blasts", "Mature lymphocytes", "Reed-Sternberg cells"],
+      "correctAnswer": "Immature myeloid blasts",
+      "explanation": "AML is characterized by the proliferation of immature myeloid blasts in the bone marrow and peripheral blood.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "41",
+      "type": "standard",
+      "questionText": "Which condition is associated with prolonged bleeding post-surgery?",
+      "options": ["Thrombocytopenia", "Hemophilia A", "Henoch-Schonlein purpura", "Aspirin use"],
+      "correctAnswer": "Hemophilia A",
+      "explanation": "Hemophilia A, a clotting factor disorder due to factor VIII deficiency, is associated with prolonged bleeding, especially post-surgery.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "42",
+      "type": "standard",
+      "questionText": "What is the typical gross appearance of lymph nodes in lymphomas?",
+      "options": ["Shrunken and fibrotic", "Enlarged and firm", "Soft and cystic", "Necrotic and hemorrhagic"],
+      "correctAnswer": "Enlarged and firm",
+      "explanation": "Lymph nodes in lymphomas are typically enlarged, firm, and have a homogeneous grayish-pink cut section.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "43",
+      "type": "standard",
+      "questionText": "Which of the following is a viral risk factor for leukemia?",
+      "options": ["Epstein-Barr virus", "Hepatitis C virus", "Human papillomavirus", "Cytomegalovirus"],
+      "correctAnswer": "Epstein-Barr virus",
+      "explanation": "Epstein-Barr virus is associated with certain leukemias and lymphomas, particularly Burkitt Lymphoma.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "44",
+      "type": "standard",
+      "questionText": "Which bleeding disorder is associated with ecchymoses as the primary presentation?",
+      "options": ["Thrombocytopenia", "Hemophilia B", "Henoch-Schonlein purpura", "Aspirin use"],
+      "correctAnswer": "Hemophilia B",
+      "explanation": "Hemophilia B, caused by factor IX deficiency, typically presents with larger, deeper bleeds such as ecchymoses and hematomas.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "45",
+      "type": "standard",
+      "questionText": "Which type of Hodgkin’s Lymphoma is characterized by collagen bands on microscopy?",
+      "options": ["Lymphocyte Rich", "Nodular Sclerosing", "Mixed Cellularity", "Lymphocyte Depletion"],
+      "correctAnswer": "Nodular Sclerosing",
+      "explanation": "Nodular Sclerosing Hodgkin’s Lymphoma is characterized by collagen bands that divide the lymphoid tissue into nodules, seen on microscopy.",
+      "references": ["Robbins Basic Pathology, 10th Edition"],
+      "difficulty": "hard"
+    }
+  ]
+}

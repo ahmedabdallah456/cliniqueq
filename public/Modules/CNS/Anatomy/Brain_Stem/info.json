@@ -1,0 +1,12 @@
+{
+  "id": "CNS",
+  "title": "Brain Stem Anatomy",
+  "year": 2,
+  "subject": "Anatomy",
+  "difficulty": "Medium",
+  "examType": ["USMLE", "PLAB", "Nahda University"],
+  "solvedCount": 0,
+  "xp": 250,
+  "rating": 4.1,
+  "url": "practice/CNS/Anatomy/Brain_Stem/MCQs"
+}

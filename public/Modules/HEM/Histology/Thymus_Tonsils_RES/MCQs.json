@@ -1,0 +1,460 @@
+{
+  "title": "Thymus, Tonsils, and Reticulo-Endothelial System",
+  "module": "HEM",
+  "subject": "Histology and Immunology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB"],
+  "description": "Questions about the structure, function, and cellular components of the thymus gland, tonsils, and reticulo-endothelial system (RES).",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "What is the primary function of the thymus gland?",
+      "options": ["B-lymphocyte production", "T-lymphocyte proliferation and differentiation", "Antibody secretion", "Phagocytosis of pathogens"],
+      "correctAnswer": "T-lymphocyte proliferation and differentiation",
+      "explanation": "The thymus gland is primarily responsible for the proliferation and differentiation of T-lymphocytes, which are critical for cellular immunity.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "Where is the thymus gland located in the body?",
+      "options": ["In the abdominal cavity", "Behind the sternum", "In the neck", "In the pelvic cavity"],
+      "correctAnswer": "Behind the sternum",
+      "explanation": "The thymus gland is located behind the sternum, in the mediastinum.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "What happens to the thymus gland after puberty?",
+      "options": ["It enlarges significantly", "It undergoes atrophy", "It becomes a secondary lymphoid organ", "It secretes more hormones"],
+      "correctAnswer": "It undergoes atrophy",
+      "explanation": "The thymus gland undergoes atrophy after puberty, reducing in size and activity.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "What is the structure of the thymus gland described as?",
+      "options": ["Single unilobed gland", "Paired unilobed gland", "Single bi-lobed gland", "Multiple lobed gland"],
+      "correctAnswer": "Single bi-lobed gland",
+      "explanation": "The thymus is a single bi-lobed gland, consisting of two lobes divided into lobules.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "What forms the capsule of the thymus gland?",
+      "options": ["Elastic fibers", "Collagen fibers and fibroblasts", "Reticular fibers", "Smooth muscle cells"],
+      "correctAnswer": "Collagen fibers and fibroblasts",
+      "explanation": "The capsule of the thymus is thin and formed of collagen fibers and fibroblasts.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "What is the role of trabeculae in the thymus gland?",
+      "options": ["Secrete thymic hormones", "Divide the gland into lobes and lobules", "Phagocytose foreign particles", "Form lymphatic nodules"],
+      "correctAnswer": "Divide the gland into lobes and lobules",
+      "explanation": "Trabeculae are thin structures made of collagen fibers and fibroblasts that divide the thymus into lobes and lobules.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "What stains the reticular network in the thymus gland?",
+      "options": ["Hematoxylin", "Silver (Ag)", "Eosin", "Trypan blue"],
+      "correctAnswer": "Silver (Ag)",
+      "explanation": "The reticular network in the thymus is stained with silver (Ag).",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "Which zone of the thymus gland contains more lymphocytes, making it appear darker?",
+      "options": ["Medulla", "Cortex", "Capsule", "Trabeculae"],
+      "correctAnswer": "Cortex",
+      "explanation": "The cortex of the thymus is darker due to the presence of many lymphocytes.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "Which cells are absent in the thymus cortex?",
+      "options": ["T-lymphocytes", "B-lymphocytes", "Epithelial reticular cells", "Macrophages"],
+      "correctAnswer": "B-lymphocytes",
+      "explanation": "The thymus cortex lacks B-lymphocytes and plasma cells, focusing on T-lymphocyte development.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "What is a characteristic feature of the thymus medulla?",
+      "options": ["Presence of lymphatic nodules", "Contains Hassall’s corpuscles", "High lymphocyte density", "Blood-thymic barrier"],
+      "correctAnswer": "Contains Hassall’s corpuscles",
+      "explanation": "Hassall’s corpuscles are found in the medulla and are formed of concentric layers of degenerated reticular cells.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "What are Hassall’s corpuscles composed of?",
+      "options": ["Lymphocytes", "Concentric layers of degenerated reticular cells", "Collagen fibers", "Macrophages"],
+      "correctAnswer": "Concentric layers of degenerated reticular cells",
+      "explanation": "Hassall’s corpuscles are rounded, acidophilic, hyaline masses formed of concentric layers of degenerated reticular cells.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "What is the embryonic origin of epithelial reticular cells in the thymus?",
+      "options": ["Mesodermal", "Endodermal", "Ectodermal", "Neural crest"],
+      "correctAnswer": "Endodermal",
+      "explanation": "Epithelial reticular cells in the thymus are endodermal in origin.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "Which feature distinguishes epithelial reticular cells in the thymus?",
+      "options": ["Forming fibers", "Presence of tonofilaments and desmosomes", "Phagocytic activity", "Secretion of antibodies"],
+      "correctAnswer": "Presence of tonofilaments and desmosomes",
+      "explanation": "Epithelial reticular cells have tonofilaments and desmosomes, characteristic of epithelial cells, and do not form fibers.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "What do epithelial reticular cells in the thymus secrete?",
+      "options": ["Antibodies", "Thymic hormones", "Collagen", "Histamine"],
+      "correctAnswer": "Thymic hormones",
+      "explanation": "Epithelial reticular cells secrete thymic hormones that stimulate T-lymphocyte maturation.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "Which thymic hormone is responsible for stimulating T-lymphocyte maturation?",
+      "options": ["Insulin", "Thymopoietin", "Cortisol", "Erythropoietin"],
+      "correctAnswer": "Thymopoietin",
+      "explanation": "Thymopoietin is one of the thymic hormones that stimulates the maturation and activity of T-lymphocytes.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "What is the role of macrophages in the thymus?",
+      "options": ["Secrete thymic hormones", "Phagocytose degenerating thymocytes", "Produce antibodies", "Form Hassall’s corpuscles"],
+      "correctAnswer": "Phagocytose degenerating thymocytes",
+      "explanation": "Macrophages in the thymus phagocytose degenerating thymocytes and foreign substances.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "Which component is part of the blood-thymic barrier?",
+      "options": ["Lymphatic nodules", "Continuous endothelium lining blood capillaries", "Hassall’s corpuscles", "B-lymphocytes"],
+      "correctAnswer": "Continuous endothelium lining blood capillaries",
+      "explanation": "The blood-thymic barrier includes a continuous endothelium lining the blood capillaries, preventing premature exposure of T-lymphocytes to antigens.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "Where is the blood-thymic barrier located in the thymus?",
+      "options": ["Medulla", "Cortex", "Capsule", "Trabeculae"],
+      "correctAnswer": "Cortex",
+      "explanation": "The blood-thymic barrier is present only in the cortex of the thymus, not in the medulla.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "What is the primary function of the blood-thymic barrier?",
+      "options": ["Promote antibody production", "Allow T-lymphocytes to multiply free of antigens", "Facilitate antigen presentation", "Secrete thymic hormones"],
+      "correctAnswer": "Allow T-lymphocytes to multiply free of antigens",
+      "explanation": "The blood-thymic barrier protects immature T-lymphocytes from premature exposure to circulating antigens.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "Why is the medulla of the thymus paler than the cortex?",
+      "options": ["Fewer lymphocytes and more reticular cells", "More lymphocytes", "Presence of B-lymphocytes", "More macrophages"],
+      "correctAnswer": "Fewer lymphocytes and more reticular cells",
+      "explanation": "The medulla appears paler because it contains fewer lymphocytes and more reticular cells compared to the cortex.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "What is the role of thymic humoral factor?",
+      "options": ["Promote bone growth", "Stimulate T-lymphocyte maturation", "Increase red blood cell production", "Regulate blood pressure"],
+      "correctAnswer": "Stimulate T-lymphocyte maturation",
+      "explanation": "Thymic humoral factor is one of the thymic hormones that stimulates T-lymphocyte maturation.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "What is the function of thymocytes in the thymus?",
+      "options": ["Secrete antibodies", "Develop into T-lymphocytes", "Form reticular networks", "Phagocytose pathogens"],
+      "correctAnswer": "Develop into T-lymphocytes",
+      "explanation": "Thymocytes are immature cells in the thymus that develop into mature T-lymphocytes.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "Where are tonsils located in the body?",
+      "options": ["In the mediastinum", "In the connective tissue lamina propria under epithelium", "In the bone marrow", "In the liver"],
+      "correctAnswer": "In the connective tissue lamina propria under epithelium",
+      "explanation": "Tonsils are located in the connective tissue lamina propria under the epithelium, forming a ring around the oral and nasal pharynx.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "What is the composition of lymphatic tissue in tonsils?",
+      "options": ["Hassall’s corpuscles and macrophages", "Lymphatic nodules and diffuse lymphocytes", "Reticular fibers only", "Epithelial reticular cells"],
+      "correctAnswer": "Lymphatic nodules and diffuse lymphocytes",
+      "explanation": "Tonsils consist of lymphatic tissue formed of lymphatic nodules (often with germinal centers) and diffuse lymphocytes.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "How many types of tonsils are described?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctAnswer": "Three",
+      "explanation": "The three types of tonsils are palatine, lingual, and pharyngeal.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "Where are palatine tonsils located?",
+      "options": ["Posterior 1/3 of tongue", "Lateral part of oropharynx", "Superior posterior part of nasopharynx", "In the mediastinum"],
+      "correctAnswer": "Lateral part of oropharynx",
+      "explanation": "Palatine tonsils are a pair located in the lateral part of the oropharynx.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "What type of epithelium covers palatine tonsils?",
+      "options": ["Pseudostratified columnar ciliated", "Non-keratinized stratified squamous", "Simple cuboidal", "Keratinized stratified squamous"],
+      "correctAnswer": "Non-keratinized stratified squamous",
+      "explanation": "Palatine tonsils are covered by non-keratinized stratified squamous epithelium, which dips to form crypts.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "What is a characteristic feature of palatine tonsils?",
+      "options": ["Presence of Hassall’s corpuscles", "Incomplete capsule from below", "Pseudostratified epithelium", "No crypts"],
+      "correctAnswer": "Incomplete capsule from below",
+      "explanation": "Palatine tonsils have an incomplete capsule from below and are covered by epithelium that forms crypts.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "What is the location of the pharyngeal tonsil?",
+      "options": ["Lateral part of oropharynx", "Posterior 1/3 of tongue", "Superior posterior part of nasopharynx", "In the mediastinum"],
+      "correctAnswer": "Superior posterior part of nasopharynx",
+      "explanation": "The pharyngeal tonsil is a single tonsil located in the superior posterior part of the nasopharynx.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "What type of epithelium covers the pharyngeal tonsil?",
+      "options": ["Non-keratinized stratified squamous", "Pseudostratified columnar ciliated with goblet cells", "Simple squamous", "Keratinized stratified squamous"],
+      "correctAnswer": "Pseudostratified columnar ciliated with goblet cells",
+      "explanation": "The pharyngeal tonsil is covered with pseudostratified columnar ciliated epithelium with goblet cells.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "type": "standard",
+      "questionText": "What condition results from hypertrophy of the pharyngeal tonsil?",
+      "options": ["Adenoids", "Tonsillitis", "Lymphadenopathy", "Thymic atrophy"],
+      "correctAnswer": "Adenoids",
+      "explanation": "Hypertrophy of the pharyngeal tonsil results in a condition known as adenoids.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "type": "standard",
+      "questionText": "Where are lingual tonsils located?",
+      "options": ["Lateral part of oropharynx", "Superior posterior part of nasopharynx", "Posterior 1/3 of tongue", "In the mediastinum"],
+      "correctAnswer": "Posterior 1/3 of tongue",
+      "explanation": "Lingual tonsils are located at the posterior 1/3 of the tongue.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "type": "standard",
+      "questionText": "What is a feature of lingual tonsils?",
+      "options": ["No crypts", "Mucous glands open into bases of crypts", "Covered with ciliated epithelium", "Complete capsule"],
+      "correctAnswer": "Mucous glands open into bases of crypts",
+      "explanation": "Lingual tonsils have crypts, and mucous glands open into the bases of these crypts.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "type": "standard",
+      "questionText": "What is the reticulo-endothelial system (RES)?",
+      "options": ["A system of hormone-secreting cells", "Highly phagocytic cells in most organs", "Lymphatic nodules in tonsils", "Epithelial cells in the thymus"],
+      "correctAnswer": "Highly phagocytic cells in most organs",
+      "explanation": "The reticulo-endothelial system (RES) consists of highly phagocytic cells present in most organs of the body.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "type": "standard",
+      "questionText": "What is the origin of cells in the reticulo-endothelial system?",
+      "options": ["Epithelial cells", "Blood monocytes", "T-lymphocytes", "B-lymphocytes"],
+      "correctAnswer": "Blood monocytes",
+      "explanation": "Cells of the RES, such as macrophages, develop from blood monocytes.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "type": "standard",
+      "questionText": "Which stain is used to identify cells of the reticulo-endothelial system?",
+      "options": ["Hematoxylin", "Trypan blue", "Silver (Ag)", "Eosin"],
+      "correctAnswer": "Trypan blue",
+      "explanation": "Cells of the RES are specially stained with trypan blue, a vital stain.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "37",
+      "type": "standard",
+      "questionText": "What is a characteristic feature of RES cells under electron microscopy?",
+      "options": ["Few lysosomes", "Many lysosomes and phagosomes", "No nucleus", "Presence of tonofilaments"],
+      "correctAnswer": "Many lysosomes and phagosomes",
+      "explanation": "RES cells, such as macrophages, show many lysosomes, Golgi, phagosomes, and residual bodies under electron microscopy.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "type": "standard",
+      "questionText": "What is a key function of the reticulo-endothelial system?",
+      "options": ["Hormone secretion", "Phagocytosis of foreign particles", "Antibody production", "T-lymphocyte maturation"],
+      "correctAnswer": "Phagocytosis of foreign particles",
+      "explanation": "The primary function of the RES is phagocytosis of foreign particles.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "type": "standard",
+      "questionText": "Which cells of the RES act as antigen-presenting cells?",
+      "options": ["Osteoclasts", "Macrophages", "Microglia", "Kupffer’s cells"],
+      "correctAnswer": "Macrophages",
+      "explanation": "Macrophages in the RES help lymphocytes by acting as antigen-presenting cells, liberating antigens for immune recognition.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "40",
+      "type": "standard",
+      "questionText": "Which cells of the RES are found in the liver?",
+      "options": ["Langerhans cells", "Kupffer’s cells", "Alveolar macrophages", "Microglia"],
+      "correctAnswer": "Kupffer’s cells",
+      "explanation": "Kupffer’s cells are macrophages of the reticulo-endothelial system found in the liver.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "41",
+      "type": "standard",
+      "questionText": "Which cells of the RES are located in the brain?",
+      "options": ["Microglia", "Osteoclasts", "Langerhans cells", "Kupffer’s cells"],
+      "correctAnswer": "Microglia",
+      "explanation": "Microglia are the macrophages of the reticulo-endothelial system found in the brain.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "42",
+      "type": "standard",
+      "questionText": "What is a characteristic of RES cells in culture?",
+      "options": ["They secrete thymic hormones", "They adhere to glass", "They form fibers", "They lack lysosomes"],
+      "correctAnswer": "They adhere to glass",
+      "explanation": "RES cells, such as macrophages, adhere to glass in culture, a characteristic feature.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "43",
+      "type": "standard",
+      "questionText": "What can modulate the activity of RES cells?",
+      "options": ["Thymic hormones", "Lymphokines from T-lymphocytes", "Antibodies", "Collagen fibers"],
+      "correctAnswer": "Lymphokines from T-lymphocytes",
+      "explanation": "RES cells can be inhibited or activated by lymphokines produced by T-lymphocytes.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "44",
+      "type": "standard",
+      "questionText": "Which cells of the RES are found in the skin?",
+      "options": ["Kupffer’s cells", "Langerhans cells", "Microglia", "Alveolar macrophages"],
+      "correctAnswer": "Langerhans cells",
+      "explanation": "Langerhans cells are part of the reticulo-endothelial system and are found in the skin.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "45",
+      "type": "standard",
+      "questionText": "What is a feature of the mucous glands in palatine tonsils?",
+      "options": ["They open into crypts", "They are frequently inflamed", "They secrete thymic hormones", "They are absent"],
+      "correctAnswer": "They are frequently inflamed",
+      "explanation": "The mucous glands in palatine tonsils do not open into crypts and are frequently inflamed.",
+      "references": ["Document: Thymus, tonsil, RES"],
+      "difficulty": "medium"
+    }
+  ]
+}
