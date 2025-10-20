@@ -1,5 +1,4 @@
-// app/api/generate-mst/route.ts (or app/(logined-users)/api/generate-mst/route.ts)
-
+// (Make sure this is the active, uncommented code)
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
@@ -16,7 +15,6 @@ export async function GET() {
   try {
     const modulesPath = path.join(process.cwd(), 'public', 'Modules');
     
-    // Check if the Modules directory exists
     if (!fs.existsSync(modulesPath)) {
       return NextResponse.json({ 
         error: 'Modules directory not found',
@@ -26,16 +24,16 @@ export async function GET() {
 
     const structure: ModuleStructure = {};
 
-    // Read all modules
     const modules = fs.readdirSync(modulesPath, { withFileTypes: true })
       .filter(dirent => dirent.isDirectory())
       .map(dirent => dirent.name);
 
-    for (const module of modules) {
-      const modulePath = path.join(modulesPath, module);
-      structure[module] = {};
+    // --- FIX IS HERE ---
+    for (const moduleName of modules) {
+      const modulePath = path.join(modulesPath, moduleName);
+      structure[moduleName] = {};
+    // --- END FIX ---
 
-      // Read all subjects within the module
       const subjects = fs.readdirSync(modulePath, { withFileTypes: true })
         .filter(dirent => dirent.isDirectory())
         .map(dirent => dirent.name);
@@ -43,23 +41,23 @@ export async function GET() {
       for (const subject of subjects) {
         const subjectPath = path.join(modulePath, subject);
         
-        // Read all topics within the subject
         const topics = fs.readdirSync(subjectPath, { withFileTypes: true })
           .filter(dirent => dirent.isDirectory())
           .map(dirent => dirent.name);
 
-        structure[module][subject] = topics;
+        // --- AND FIX IS HERE ---
+        structure[moduleName][subject] = topics;
+        // --- END FIX ---
       }
     }
 
-    // Write the JSON file to public directory
     const outputPath = path.join(process.cwd(), 'public', 'mst.json');
     fs.writeFileSync(outputPath, JSON.stringify(structure, null, 2));
 
     return NextResponse.json({ 
       message: 'mst.json generated successfully',
       structure,
-      outputPath: '/mst.json' // Public URL path
+      outputPath: '/mst.json'
     });
 
   } catch (error) {
@@ -72,5 +70,5 @@ export async function GET() {
 }
 
 export async function POST() {
-  return GET(); // Allow both GET and POST requests
+  return GET();
 }
