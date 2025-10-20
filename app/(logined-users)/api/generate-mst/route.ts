@@ -9,7 +9,7 @@ interface TopicStructure {
 }
 
 interface ModuleStructure {
-  [mstModule: string]: TopicStructure;
+  [module: string]: TopicStructure;
 }
 
 // For Pages Router (pages/api/generate-mst.ts)
@@ -32,13 +32,13 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     const structure: ModuleStructure = {};
 
     // Read all modules
-    const mstModules = fs.readdirSync(modulesPath, { withFileTypes: true })
+    const modules = fs.readdirSync(modulesPath, { withFileTypes: true })
       .filter(dirent => dirent.isDirectory())
       .map(dirent => dirent.name);
 
-    for (const mstModule of mstModules) {
-      const modulePath = path.join(modulesPath, mstModule);
-      structure[mstModule] = {};
+    for (const module of modules) {
+      const modulePath = path.join(modulesPath, module);
+      structure[module] = {};
 
       // Read all subjects within the module
       const subjects = fs.readdirSync(modulePath, { withFileTypes: true })
@@ -53,7 +53,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
           .filter(dirent => dirent.isDirectory())
           .map(dirent => dirent.name);
 
-        structure[mstModule][subject] = topics;
+        structure[module][subject] = topics;
       }
     }
 

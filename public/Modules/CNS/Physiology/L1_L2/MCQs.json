@@ -1,0 +1,410 @@
+{
+  "title": "Physiology of Synapses and Sensory Receptors",
+  "module": "Neuroscience",
+  "subject": "Physiology",
+  "difficulty": "medium",
+  "examTypes": ["USMLE", "PLAB"],
+  "description": "Multiple choice questions covering types of synapses, synaptic transmission, postsynaptic potentials, synaptic properties, sensory receptor functions, properties, adaptation, and coding of sensory information",
+  "questions": [
+    {
+      "id": "1",
+      "type": "standard",
+      "questionText": "Which type of synapse is most common in the central nervous system?",
+      "options": ["Electrical synapse", "Chemical synapse", "Conjoint synapse", "Gap junction synapse"],
+      "correctAnswer": "Chemical synapse",
+      "explanation": "Chemical synapses are the most prevalent in the CNS, allowing for diverse responsiveness and regulation.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "type": "standard",
+      "questionText": "In chemical synapses, impulses flow from which neuron to which?",
+      "options": ["Postsynaptic to presynaptic", "Presynaptic to postsynaptic", "Bidirectional flow", "No flow, only electrical"],
+      "correctAnswer": "Presynaptic to postsynaptic",
+      "explanation": "Synapses act as unidirectional valves, with impulses flowing from presynaptic to postsynaptic neurons.",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "type": "standard",
+      "questionText": "What triggers the release of neurotransmitter in chemical synapses?",
+      "options": ["Sodium influx", "Potassium efflux", "Calcium influx", "Chloride influx"],
+      "correctAnswer": "Calcium influx",
+      "explanation": "Action potential opens voltage-gated calcium channels, allowing Ca2+ influx which triggers vesicle fusion and neurotransmitter release.",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "type": "standard",
+      "questionText": "How is neurotransmitter cleared from the synaptic cleft?",
+      "options": ["Diffusion, degradation, or reuptake", "Only diffusion", "Only degradation", "No clearance needed"],
+      "correctAnswer": "Diffusion, degradation, or reuptake",
+      "explanation": "Neurotransmitter is cleared by continued diffusion, degradation, or active reuptake.",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "type": "standard",
+      "questionText": "What is an Excitatory Postsynaptic Potential (EPSP)?",
+      "options": ["Hyperpolarization of postsynaptic membrane", "Depolarization of postsynaptic membrane", "No change in potential", "Action potential generation"],
+      "correctAnswer": "Depolarization of postsynaptic membrane",
+      "explanation": "EPSP is a decrease in membrane potential due to depolarization, increasing excitability.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "type": "standard",
+      "questionText": "How is an EPSP produced?",
+      "options": ["Ligand-gated Cl- channel opening", "Ligand-gated Na+ channel opening", "Ligand-gated Ca2+ channel closure", "Voltage-gated K+ channel opening"],
+      "correctAnswer": "Ligand-gated Na+ channel opening",
+      "explanation": "Binding of neurotransmitter opens ligand-gated Na+ channels causing Na+ influx or closes K+ channels decreasing K+ efflux.",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "type": "standard",
+      "questionText": "What is the duration of a single EPSP?",
+      "options": ["5 msec", "15 msec", "30 msec", "1 sec"],
+      "correctAnswer": "15 msec",
+      "explanation": "A single EPSP lasts for about 15 msec and requires summation to generate an action potential.",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "type": "standard",
+      "questionText": "What is an Inhibitory Postsynaptic Potential (IPSP)?",
+      "options": ["Depolarization", "Hyperpolarization", "No potential change", "Action potential"],
+      "correctAnswer": "Hyperpolarization",
+      "explanation": "IPSP is hyperpolarization of the postsynaptic membrane, decreasing excitability.",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "type": "standard",
+      "questionText": "How is temporal summation achieved?",
+      "options": ["Impulses from different synapses", "Repeated impulses from the same synapse", "Single impulse", "No summation"],
+      "correctAnswer": "Repeated impulses from the same synapse",
+      "explanation": "Temporal summation occurs with repeated impulses from the same presynaptic axon.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "type": "standard",
+      "questionText": "What determines if a neuron will fire an action potential?",
+      "options": ["Sum of EPSPs greater than IPSPs", "Sum of IPSPs greater than EPSPs", "Equal sum of EPSPs and IPSPs", "No inputs"],
+      "correctAnswer": "Sum of EPSPs greater than IPSPs",
+      "explanation": "If the sum of EPSPs exceeds IPSPs and reaches threshold, an action potential occurs at the axon hillock.",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "type": "standard",
+      "questionText": "What is synaptic delay?",
+      "options": ["0.5 msec", "5 msec", "15 msec", "1 sec"],
+      "correctAnswer": "0.5 msec",
+      "explanation": "Synaptic delay is 0.5 msec, representing time for neurotransmitter release and channel opening.",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "type": "standard",
+      "questionText": "What causes synaptic fatigue?",
+      "options": ["Depletion of neurotransmitter", "Increased Ca2+ influx", "Short-term potentiation", "No stimulation"],
+      "correctAnswer": "Depletion of neurotransmitter",
+      "explanation": "Fatigue occurs after prolonged high-frequency stimulation due to neurotransmitter depletion or receptor inactivation.",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "type": "standard",
+      "questionText": "What is long-term potentiation (LTP)?",
+      "options": ["Short decline in response", "Prolonged increase in postsynaptic response", "Habituation", "Sensitization"],
+      "correctAnswer": "Prolonged increase in postsynaptic response",
+      "explanation": "LTP follows high-frequency stimulation (>60 Hz) and persists for days, important for learning and memory.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "type": "standard",
+      "questionText": "What is synaptic habituation?",
+      "options": ["Increased response", "Gradual decrease in postsynaptic response", "No change", "Potentiation"],
+      "correctAnswer": "Gradual decrease in postsynaptic response",
+      "explanation": "Habituation is a decrease in response due to repeated stimulation, explained by Ca2+ channel inactivation.",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "type": "standard",
+      "questionText": "What is convergence in synapses?",
+      "options": ["One presynaptic affects many postsynaptic", "Many presynaptic affect one postsynaptic", "Bidirectional flow", "No effect"],
+      "correctAnswer": "Many presynaptic affect one postsynaptic",
+      "explanation": "Convergence: Hundreds of synapses from different presynaptic cells affect a single postsynaptic cell.",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "type": "standard",
+      "questionText": "What effect does alkalosis have on synaptic transmission?",
+      "options": ["Decreases transmission", "Increases transmission causing convulsions", "No effect", "Causes coma"],
+      "correctAnswer": "Increases transmission causing convulsions",
+      "explanation": "Alkalosis increases synaptic transmission and can cause convulsions.",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "type": "standard",
+      "questionText": "What are the functions of sensory receptors?",
+      "options": ["Detectors, transducers, gauges", "Only detectors", "Only transducers", "Effectors"],
+      "correctAnswer": "Detectors, transducers, gauges",
+      "explanation": "Receptors detect stimuli, convert to electrical impulses, and measure intensity.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "type": "standard",
+      "questionText": "According to Muller's Law, what do receptors respond to?",
+      "options": ["Any stimulus", "Adequate stimulus at lower threshold", "Inadequate stimulus", "No stimulus"],
+      "correctAnswer": "Adequate stimulus at lower threshold",
+      "explanation": "Each receptor type responds to a particular form of energy (adequate stimulus) at a lower threshold.",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "type": "standard",
+      "questionText": "What is receptor potential?",
+      "options": ["Full depolarization", "Partial depolarization proportional to stimulus", "Hyperpolarization", "Action potential"],
+      "correctAnswer": "Partial depolarization proportional to stimulus",
+      "explanation": "Stimulation causes Na+ influx leading to partial depolarization (generator potential).",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "type": "standard",
+      "questionText": "What does Weber-Fechner Law state about receptor discharge?",
+      "options": ["Directly proportional to intensity", "Proportional to logarithm of intensity", "Inversely proportional", "No relation"],
+      "correctAnswer": "Proportional to logarithm of intensity",
+      "explanation": "Frequency of discharge is proportional to the logarithm of stimulus intensity.",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "type": "standard",
+      "questionText": "Which receptors are rapidly adapting (phasic)?",
+      "options": ["Pain receptors", "Touch receptors", "Temperature receptors", "Muscle tension receptors"],
+      "correctAnswer": "Touch receptors",
+      "explanation": "Rapidly adapting receptors like touch are stimulated at onset and offset of stimulus.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "type": "standard",
+      "questionText": "What is a mechanism of receptor adaptation?",
+      "options": ["Increased Na+ channels", "Gradual closure of Na+ channels", "No change", "Fatigue only"],
+      "correctAnswer": "Gradual closure of Na+ channels",
+      "explanation": "Accommodation involves gradual inactivation of Na+ channels.",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "type": "standard",
+      "questionText": "What is the advantage of receptor adaptation?",
+      "options": ["Flood of information to CNS", "Ignore constant stimuli, detect changes", "No detection", "Constant firing"],
+      "correctAnswer": "Ignore constant stimuli, detect changes",
+      "explanation": "Adaptation prevents sensory overload and highlights changes in stimuli.",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "type": "standard",
+      "questionText": "What is Muller's Doctrine for sensory modality?",
+      "options": ["Stimulus location determines sensation", "Pathway stimulation produces specific sensation", "Intensity codes modality", "No specific pathways"],
+      "correctAnswer": "Pathway stimulation produces specific sensation",
+      "explanation": "Stimulation of a sensory pathway produces the sensation for which receptors are specialized (labeled line principle).",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "type": "standard",
+      "questionText": "What is the Law of Projection?",
+      "options": ["Sensation projected to receptor location", "Projected to CNS", "No projection", "To effector"],
+      "correctAnswer": "Sensation projected to receptor location",
+      "explanation": "Evoked sensation is projected to the location of receptors, as in phantom limb.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "type": "standard",
+      "questionText": "How is sensory intensity coded?",
+      "options": ["Only frequency", "Number of activated receptors and frequency", "Only recruitment", "No coding"],
+      "correctAnswer": "Number of activated receptors and frequency",
+      "explanation": "Intensity is coded by recruitment of receptors and discharge frequency (Weber-Fechner Law).",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "type": "standard",
+      "questionText": "Which are mechanoreceptive somatic sensations?",
+      "options": ["Warmth and cold", "Touch, pressure, vibration", "Pain", "Visceral sensations"],
+      "correctAnswer": "Touch, pressure, vibration",
+      "explanation": "Mechanoreceptive include touch (crude/fine), pressure, vibration, proprioception.",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "type": "standard",
+      "questionText": "What are thermoreceptive sensations?",
+      "options": ["Touch and pressure", "Warmth and cold", "Pain", "Vibration"],
+      "correctAnswer": "Warmth and cold",
+      "explanation": "Thermoreceptive sensations include warmth and cold.",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "type": "standard",
+      "questionText": "What are visceral sensations generated from?",
+      "options": ["Skin", "Muscles", "Viscera like heart, GIT", "Joints"],
+      "correctAnswer": "Viscera like heart, GIT",
+      "explanation": "Visceral sensations arise from internal organs such as heart, GIT, bladder.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "type": "standard",
+      "questionText": "In electrical synapses, how does transmission occur?",
+      "options": ["Via neurotransmitters", "Through gap junctions", "Calcium influx", "Sodium channels"],
+      "correctAnswer": "Through gap junctions",
+      "explanation": "Electrical synapses transmit via gap junctions allowing ion passage.",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "type": "standard",
+      "questionText": "What is synaptic afterdischarge?",
+      "options": ["Continued discharge after presynaptic stop", "Immediate stop", "No discharge", "Fatigue"],
+      "correctAnswer": "Continued discharge after presynaptic stop",
+      "explanation": "Afterdischarge is due to delayed neurotransmitter inactivation.",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "type": "standard",
+      "questionText": "What effect does hypoxia have on synaptic transmission?",
+      "options": ["Increases transmission", "Decreases transmission, prolongs reflex time", "No effect", "Causes convulsions"],
+      "correctAnswer": "Decreases transmission, prolongs reflex time",
+      "explanation": "Hypoxia decreases synaptic transmission and prolongs reflex time.",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "type": "standard",
+      "questionText": "Which drugs enhance synaptic transmission?",
+      "options": ["Hypnotics", "Anesthetics", "Caffeine and theophylline", "Botox"],
+      "correctAnswer": "Caffeine and theophylline",
+      "explanation": "Caffeine and theophylline in coffee and tea enhance synaptic transmission.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "type": "standard",
+      "questionText": "What is phantom limb explained by?",
+      "options": ["No nerve impulses", "Compression of nerve endings in stump", "CNS damage", "No projection"],
+      "correctAnswer": "Compression of nerve endings in stump",
+      "explanation": "Phantom limb involves nerve impulses from stump projected to amputated limb location.",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "type": "standard",
+      "questionText": "Which receptors are slowly adapting (tonic)?",
+      "options": ["Touch", "Vibration", "Pain", "Temperature"],
+      "correctAnswer": "Pain",
+      "explanation": "Slowly adapting receptors like pain maintain response to constant stimulus.",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "type": "standard",
+      "questionText": "What is recruitment in sensory coding?",
+      "options": ["Decrease in activated receptors", "Number of activated receptors for intensity", "No activation", "Only frequency"],
+      "correctAnswer": "Number of activated receptors for intensity",
+      "explanation": "Stronger stimuli activate more receptors (recruitment) for intensity coding.",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "37",
+      "type": "standard",
+      "questionText": "What are proprioceptive sensations?",
+      "options": ["Warmth and cold", "Sense of position and movement", "Pain", "Touch"],
+      "correctAnswer": "Sense of position and movement",
+      "explanation": "Proprioceptive sensations include sense of position and movement.",
+      "references": ["Guyton and Hall Textbook of Medical Physiology, 13th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "type": "standard",
+      "questionText": "In sensory receptors, can a non-adequate stimulus excite them?",
+      "options": ["No", "Yes, but stronger than adequate", "Only adequate", "Weaker stimulus"],
+      "correctAnswer": "Yes, but stronger than adequate",
+      "explanation": "Receptors can be stimulated by other stimuli if stronger than the adequate one.",
+      "references": ["Ganong's Review of Medical Physiology, 25th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "type": "standard",
+      "questionText": "What is divergence in synapses?",
+      "options": ["Many to one", "One presynaptic to many postsynaptic", "No branching", "Convergence"],
+      "correctAnswer": "One presynaptic to many postsynaptic",
+      "explanation": "Divergence: A single presynaptic cell branches to affect many postsynaptic cells.",
+      "references": ["Neuroscience by Dale Purves, 6th Edition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "40",
+      "type": "standard",
+      "questionText": "What is synaptic sensitization?",
+      "options": ["Decrease in response", "Potentiation by coupling with intense stimulus", "Habituation", "Fatigue"],
+      "correctAnswer": "Potentiation by coupling with intense stimulus",
+      "explanation": "Sensitization potentiates response by coupling with another stimulus, often painful, increasing Ca2+ influx.",
+      "references": ["Kandel's Principles of Neural Science, 6th Edition"],
+      "difficulty": "medium"
+    }
+  ]
+}
