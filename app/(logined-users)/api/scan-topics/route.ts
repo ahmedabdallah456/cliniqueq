@@ -6,14 +6,14 @@ import { join } from 'path';
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    const module = searchParams.get('module');
+    const module_bb = searchParams.get('module');
     const subject = searchParams.get('subject');
     
-    if (!module || !subject) {
+    if (!module_bb || !subject) {
       return NextResponse.json({ error: 'Module and subject parameters are required' }, { status: 400 });
     }
     
-    const topicsPath = join(process.cwd(), 'public', 'Modules', module, subject);
+    const topicsPath = join(process.cwd(), 'public', 'Modules', module_bb, subject);
     const topics = await readdir(topicsPath, { withFileTypes: true });
     
     // Filter to only return directories
